@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_royalhogsevo_nyanhog_dl.sc",
+  "original_stem": "emotes_royalhogsevo_nyanhog_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000d0d6e91855c1255207a25132b012ecc3e877a5aa1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000e000000030000000100000034da0000b0c60400080000009cd70000020000003c00000004000000d4ffffff1c0000000400000010000000bed95b29f56643f794328831ca802a0a0500000069636f6e3100000008000c0004000800080000001c0000000400000010000000a20c1825f78641ee812574eddf81717e06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

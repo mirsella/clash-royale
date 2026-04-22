@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "60_AnimGoblinBarrel_BG.sc",
+  "original_stem": "60_AnimGoblinBarrel_BG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000001e5ab8934aab20f41c312966ee0991427f82b1671c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000600000003000000010000000c3a000010e11f0008000000688c0400010000000c00000008000c0004000800080000001c0000000400000010000000a520a2e29d3045b39737ee1957c7eda00900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

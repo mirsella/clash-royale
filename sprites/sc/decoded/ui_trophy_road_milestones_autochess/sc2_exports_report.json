@@ -1,0 +1,12 @@
+{
+  "exports_found": 15,
+  "exports_rendered": 13,
+  "frames_rendered": 13,
+  "sc": "ui_trophy_road_milestones_autochess.sc",
+  "skipped_empty": [
+    "empty",
+    "bar_trophycount"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/ui_trophy_road_milestones_autochess"
+}

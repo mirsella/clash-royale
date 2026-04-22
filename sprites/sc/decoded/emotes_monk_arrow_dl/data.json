@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_monk_arrow_dl.sc",
+  "original_stem": "emotes_monk_arrow_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000a29c7b251866438e56013e780dc894fa324fe3181c002800040008000c001000140000000000000018001c00200024001c000000010000000100000011000000020000000100000058bc00002091030008000000b0920000020000003c00000004000000d4ffffff1c0000000400000010000000fb114a71853f4c9880d45b91bfcf5a9c0500000069636f6e3100000008000c0004000800080000001c0000000400000010000000a2d07098fed54907ab24181ad7ba124c06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

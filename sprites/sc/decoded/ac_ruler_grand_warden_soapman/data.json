@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ac_ruler_grand_warden_soapman.sc",
+  "original_stem": "ac_ruler_grand_warden_soapman",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000e15444e1a7ae331259059da282382a75ca9b996e1c002c00040008000c00100014001800000000001c002000240028001c00000001000000010000000200000002000000010000000100000094010000b400000008000000cc010000020000005800000004000000b8ffffff1c0000000400000010000000e94d02099248495eb6c0a216f5ffc013200000007468756d625f72756c65725f6772616e645f77617264656e5f736f61706d616e0000000008000c0004000800080000001c000000040000001000000031c566acdb354b068945cb5ef6e7ca1f2400000061635f72756c65725f696e67616d655f6772616e645f77617264656e5f736f61706d616e00000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

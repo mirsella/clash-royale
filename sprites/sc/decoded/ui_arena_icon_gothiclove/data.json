@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_gothiclove.sc",
+  "original_stem": "ui_arena_icon_gothiclove",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000020eaac6c3371cebc9043b15a6aca34d8e041ee81c002c00040008000c00100014001800000000001c002000240028001c00000001000000010000000d00000003000000010000000100000010650300941400000800000088880000020000005400000004000000bcffffff1c0000000400000010000000628999cbd0b144268e52421f962f5fd21f0000006172656e615f676f746869635f76616c656e74696e655f706f6c5f69636f6e0008000c0004000800080000001c00000004000000100000005c8579a295ad4ae0b815952fe37681031b0000006172656e615f676f746869635f76616c656e74696e655f69636f6e00",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

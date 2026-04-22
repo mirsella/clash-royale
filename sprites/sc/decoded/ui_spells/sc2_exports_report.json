@@ -1,0 +1,11 @@
+{
+  "exports_found": 278,
+  "exports_rendered": 277,
+  "frames_rendered": 277,
+  "sc": "ui_spells.sc",
+  "skipped_empty": [
+    "not_in_use"
+  ],
+  "textures_resolved": 2,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/ui_spells"
+}

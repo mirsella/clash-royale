@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_mwhog_morph_dl.sc",
+  "original_stem": "emotes_mwhog_morph_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000b6be8bf3cebaa7e1c5ffd4c6f54455bde98fe7491c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000f000000030000000100000020910000702105000800000028a70000020000003c00000004000000d4ffffff1c0000000400000010000000fcbb148e043341008f0d2b99a6c303720500000069636f6e3100000008000c0004000800080000001c0000000400000010000000f51f93d1f4fc4a278f7a08f008cd2c3606000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

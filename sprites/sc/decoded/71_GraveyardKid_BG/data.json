@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "71_GraveyardKid_BG.sc",
+  "original_stem": "71_GraveyardKid_BG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000084c7aa24baa867f6e9efb7d5d39ed9b9f7fa87d61c002800040008000c001000140000000000000018001c00200024001c000000010000000100000005000000030000000100000048270000b022230008000000ccb20400010000000c00000008000c0004000800080000001c00000004000000100000003567bacdfd774f45bc4813bad6ba84870900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

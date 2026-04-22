@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "RoyalGiantFG_dl.sc",
+  "original_stem": "RoyalGiantFG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000f162bf31bbcfd403c83326a283c473f67fa7e9521c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000c8000000409d180008000000dc580400010000000c00000008000c0004000800080000001c00000004000000100000005654399eb2394022a1a403ade05a7b4f0900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

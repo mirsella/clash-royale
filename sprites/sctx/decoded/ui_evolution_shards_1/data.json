@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "kind": "sctx",
+  "original_file_name": "ui_evolution_shards_1.sctx",
+  "original_stem": "ui_evolution_shards_1",
+  "source_backup": "original.sctx",
+  "texture": "ui_evolution_shards_1.png",
+  "type": "ASTC_RGBA8_8x8",
+  "type_enum": 212,
+  "width": 1014,
+  "height": 1964,
+  "generate_mip_maps": false,
+  "mip_count": 1,
+  "unknown_flag": false,
+  "unknown_flag_1": true,
+  "compressed": true,
+  "streaming": {
+    "ids": [
+      3
+    ],
+    "textures": [
+      {
+        "texture": "ui_evolution_shards_1_variant_0.png",
+        "type": "ASTC_RGBA8_8x8",
+        "type_enum": 212,
+        "width": 126,
+        "height": 245
+      }
+    ]
+  },
+  "container": {
+    "identifier": "SCTX",
+    "compressed": true,
+    "payload_encoding": "zstd",
+    "use_padding": false,
+    "unk1": 0,
+    "unk3": 0,
+    "unk5": 0,
+    "unk6": 0,
+    "flags": 5,
+    "texture_length": 499872,
+    "root_chunk_length": 8076,
+    "mipmaps_chunk_length": 44,
+    "data_offset": 8128
+  },
+  "mip_levels": [
+    {
+      "index": 0,
+      "width": 1014,
+      "height": 1964,
+      "offset": 0,
+      "length": 499872,
+      "hash_hex": "53d62def72cb331a"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "building_towerskin_season_24.sc",
+  "original_stem": "building_towerskin_season_24",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000246c10221feff8332fab1094f0b8bec66c74daec1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000060000000700000001000000b40200003837000008000000e829000007000000640100001c010000d4000000a00000006c0000003800000004000000c0feffff1c0000000400000010000000e8a8a550af1d4c89934979804c0b178e090000006465627269735f3034000000f0feffff1c00000004000000100000007cb59f6b41594675906524bcee5c1923090000006465627269735f303300000020ffffff1c0000000400000010000000a18554c38d4146729200724b79f00ca8090000006465627269735f303200000050ffffff1c0000000400000010000000889e67d66de54f2e80a7cbae98855ead090000006465627269735f303100000080ffffff1c00000004000000100000003a8cdd75ffe74e6b9a141865d37892111f00000061746c617367656e657261746f725f746578747572655f726762613536353600c4ffffff1c000000040000001000000022f5cd348cc34115a2aa55e993af744f17000000546f7765725f64657374726f7965645f67726f756e64320008000c0004000800080000001c00000004000000100000007cdfd5698fcc4663a14382dba55639b217000000546f7765725f64657374726f7965645f67726f756e643100",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "building_towerskin_season_24_000.png",
+      "source": "embedded_ktx",
+      "offset": 1644,
+      "length": 14052,
+      "width": 184,
+      "height": 302,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

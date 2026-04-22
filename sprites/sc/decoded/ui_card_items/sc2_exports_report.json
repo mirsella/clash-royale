@@ -1,0 +1,33 @@
+{
+  "exports_found": 152,
+  "exports_rendered": 129,
+  "frames_rendered": 129,
+  "sc": "ui_card_items.sc",
+  "skipped_empty": [
+    "support_card_info_bg",
+    "support_card_ability_rarity_type_common",
+    "support_card_rarity_type_rare",
+    "support_card_rarity_type_legendary",
+    "support_card_rarity_type_common",
+    "support_card_rarity_type_champion",
+    "card_item_trade_count",
+    "card_item_not_found",
+    "card_item_level_top",
+    "card_item_level",
+    "card_image_flip",
+    "legenadry_glow_image",
+    "card_item_crystal_foreground",
+    "card_item_ruler_foreground_max",
+    "card_item_count",
+    "card_item_elixir_number_bounce",
+    "card_item_name",
+    "card_item_unlock",
+    "support_card_rarity_type_epic",
+    "support_card_unlock",
+    "champion_activated_vfx",
+    "card_item_level_small",
+    "card_item_trait_container"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/ui_card_items"
+}

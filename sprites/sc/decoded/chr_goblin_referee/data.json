@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "chr_goblin_referee.sc",
+  "original_stem": "chr_goblin_referee",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000002e350919b991acdcf134e9fdcdbb9944bd8cf6fb1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000150000000800000001000000a448000098c00100080000008802010007000000980100005001000010010000d00000008c00000048000000040000008cfeffff1c0000000400000010000000da805891bc01443e9f3b69ee464b175b19000000676f626c696e5f726566657265655f77686973746c65315f33000000ccfeffff1c0000000400000010000000e60dca382170485dbb60c98174b6b12019000000676f626c696e5f726566657265655f77686973746c65315f320000000cffffff1c0000000400000010000000c3eea7c3c0a14c98a12f05ecabe2676c19000000676f626c696e5f726566657265655f77686973746c65315f310000004cffffff1c0000000400000010000000db3b479f2d8b4d8897a1d179d8ac69b715000000676f626c696e5f726566657265655f72756e315f3300000088ffffff1c0000000400000010000000c880648759354d21877de5cae9f8cd5c15000000676f626c696e5f726566657265655f72756e315f32000000c4ffffff1c000000040000001000000086c487a3f8344b38abcc48a641c8402515000000676f626c696e5f726566657265655f72756e315f3100000008000c0004000800080000001c00000004000000100000004dad5ed8d06547acb61a1a5f3cfa4f6a15000000676f626c696e5f7265665f66785f77686973746c65000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "chr_goblin_referee_000.png",
+      "source": "embedded_ktx",
+      "offset": 35720,
+      "length": 114756,
+      "width": 224,
+      "height": 512,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b0",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37808,
+      "gl_base_internal_format": 6408,
+      "astc_block": "4x4",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

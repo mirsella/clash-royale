@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_king_hide_dl.sc",
+  "original_stem": "emotes_king_hide_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000550431fe299f5569420139eff5908de28507b7ad1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000500000004000000010000004890000030850100080000002c720000020000003c00000004000000d4ffffff1c000000040000001000000084ca190005a74cd085b0c7e38257af620500000069636f6e3100000008000c0004000800080000001c000000040000001000000043b34b9e648742a79ae329b804edb86906000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

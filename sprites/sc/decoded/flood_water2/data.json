@@ -1,0 +1,69 @@
+{
+  "schema_version": 2,
+  "original_file_name": "flood_water2.sc",
+  "original_stem": "flood_water2",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000cb50feaad1ecaabea6aeb5583d35e4fdeb36830b1c002c00040008000c00100014001800000000001c002000240028001c00000001000000010000000f0000000c00000002000000010000003cfb0000f4f5010008000000ac34010004000000dc000000900000004c000000040000003cffffff1c00000004000000100000004c7e9f1498a646a790976c138a113ccf1f00000061746c617367656e657261746f725f746578747572655f72676261363636360080ffffff1c00000004000000100000006e74268edaeb4597808254a4bdcd5f421b00000055495f6d656e755f6261636b67726f756e645f726f636b735f733200c0ffffff1c00000004000000100000006178154e66d549f09dfcc62321b62b2d1800000055495f6d656e755f6261636b67726f756e645f726f636b730000000008000c0004000800080000001c000000040000001000000033fb5ba5b8af4434bd86c1b52a34c3371800000055495f6d656e755f6261636b67726f756e645f666c6f6f6400000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "flood_water2_000.png",
+      "source": "embedded_ktx",
+      "offset": 72716,
+      "length": 51476,
+      "width": 406,
+      "height": 502,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    },
+    {
+      "index": 1,
+      "png_name": "flood_water2_001.png",
+      "source": "embedded_ktx",
+      "offset": 124244,
+      "length": 76900,
+      "width": 392,
+      "height": 782,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

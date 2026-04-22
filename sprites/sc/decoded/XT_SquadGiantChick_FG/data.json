@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "XT_SquadGiantChick_FG.sc",
+  "original_stem": "XT_SquadGiantChick_FG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000008b48f7849c7b39dc96d875e8ab132083ea7d74ea1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000d4000000d0280c00080000004c6d0200010000000c00000008000c0004000800080000001c0000000400000010000000c3b6f27ea4c54790bf81174c209105d80900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

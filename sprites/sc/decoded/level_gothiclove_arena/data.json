@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "level_gothiclove_arena.sc",
+  "original_stem": "level_gothiclove_arena",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000474782ed575723f224f0e1b86e966fb62d6acbfe1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000002200000002000000010000007caa1000b8cb0b000800000038750b00020000005400000004000000bcffffff1c0000000400000010000000dd05988f0bd84ce6a58088c014c5c6b91f0000006172656e615f676f746869635f76616c656e74696e655f626173655f3276320008000c0004000800080000001c000000040000001000000056d48ba584a94b48ab20b3965facb1f41e0000006172656e615f676f746869635f76616c656e74696e655f626173655f30310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "level_gothiclove_arena_000.png",
+      "source": "embedded_ktx",
+      "offset": 1103056,
+      "length": 772964,
+      "width": 1548,
+      "height": 1985,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

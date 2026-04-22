@@ -1,0 +1,13 @@
+{
+  "exports_found": 77,
+  "exports_rendered": 74,
+  "frames_rendered": 74,
+  "sc": "level_miner_arena_dl.sc",
+  "skipped_empty": [
+    "smoke_glow2",
+    "smoke_glow3",
+    "smoke_glow1"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/level_miner_arena_dl"
+}

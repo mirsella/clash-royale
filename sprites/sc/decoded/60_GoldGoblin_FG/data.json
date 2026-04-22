@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "60_GoldGoblin_FG.sc",
+  "original_stem": "60_GoldGoblin_FG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000006e73e4556ff014c183538ff3532922af7cdb56b31c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000bc00000040e4070008000000bc2e0000010000000c00000008000c0004000800080000001c00000004000000100000009077fd61ff07480591bef604e744a24b0900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

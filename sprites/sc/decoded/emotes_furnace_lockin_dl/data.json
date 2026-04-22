@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_furnace_lockin_dl.sc",
+  "original_stem": "emotes_furnace_lockin_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000000f1e2d7e215bf58fb4c15f92041575ccc1da46301c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000190000000400000001000000e4960000506a05000800000038e40000020000003c00000004000000d4ffffff1c0000000400000010000000d2c28ba120d847098099cee4e5713faf0500000069636f6e3100000008000c0004000800080000001c00000004000000100000007b4e7eefcf75487eaab15cab938d183506000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

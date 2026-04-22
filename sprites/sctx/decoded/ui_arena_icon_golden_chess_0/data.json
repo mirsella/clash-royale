@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "kind": "sctx",
+  "original_file_name": "ui_arena_icon_golden_chess_0.sctx",
+  "original_stem": "ui_arena_icon_golden_chess_0",
+  "source_backup": "original.sctx",
+  "texture": "ui_arena_icon_golden_chess_0.png",
+  "type": "RGBA8Unorm",
+  "type_enum": 70,
+  "width": 996,
+  "height": 894,
+  "generate_mip_maps": false,
+  "mip_count": 1,
+  "unknown_flag": false,
+  "unknown_flag_1": true,
+  "compressed": true,
+  "streaming": {
+    "ids": [
+      3
+    ],
+    "textures": [
+      {
+        "texture": "ui_arena_icon_golden_chess_0_variant_0.png",
+        "type": "RGBA8Unorm",
+        "type_enum": 70,
+        "width": 124,
+        "height": 111
+      }
+    ]
+  },
+  "container": {
+    "identifier": "SCTX",
+    "compressed": true,
+    "payload_encoding": "zstd",
+    "use_padding": false,
+    "unk1": 0,
+    "unk3": 0,
+    "unk5": 0,
+    "unk6": 0,
+    "flags": 5,
+    "texture_length": 3561696,
+    "root_chunk_length": 55196,
+    "mipmaps_chunk_length": 44,
+    "data_offset": 55248
+  },
+  "mip_levels": [
+    {
+      "index": 0,
+      "width": 996,
+      "height": 894,
+      "offset": 0,
+      "length": 3561696,
+      "hash_hex": "e48de81e5f1ab5e5"
+    }
+  ]
+}

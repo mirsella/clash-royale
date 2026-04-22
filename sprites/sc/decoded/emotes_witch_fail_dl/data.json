@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_witch_fail_dl.sc",
+  "original_stem": "emotes_witch_fail_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000022444681cf699639b59c1f57014fbc517237c5cf1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000001d00000002000000010000005c3901005062040008000000a4d90000020000003c00000004000000d4ffffff1c00000004000000100000008bf29350944f4bac8c9e875314925c710500000069636f6e3100000008000c0004000800080000001c000000040000001000000063b804d4067f4a56bdb2cd9cc8c2de4706000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

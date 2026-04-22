@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "BB00003_full_BonePitGiantSkeleton_dl.sc",
+  "original_stem": "BB00003_full_BonePitGiantSkeleton_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000a0e5cc9ce9b832f56dd6e02cb65495d2c1080f251c002800040008000c001000140000000000000018001c00200024001c000000010000000100000002000000020000000100000010010000180e04000800000038630200020000004000000004000000d0ffffff1c00000004000000100000003e3a277cb00c4c2b8a4c0ab3916d0a2f0900000062616e6e65725f666700000008000c0004000800080000001c0000000400000010000000fa683b88ca3e4baaafdba93aa943a69d0900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "BB00003_full_BonePitGiantSkeleton_dl_000.png",
+      "source": "embedded_ktx",
+      "offset": 728,
+      "length": 265668,
+      "width": 798,
+      "height": 1324,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

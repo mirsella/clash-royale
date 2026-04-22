@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_miner_buried_dl.sc",
+  "original_stem": "emotes_miner_buried_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000005a24bfa4031ecd3db78796b27fc4816eeab118ec1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000e0000000300000001000000d4520000f0fc0500080000004c9d0000020000003c00000004000000d4ffffff1c000000040000001000000065007fd2462248e3a7e0a22349de188e0500000069636f6e3100000008000c0004000800080000001c0000000400000010000000e16f237cae254eab8fa569fa1fbb17dc06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

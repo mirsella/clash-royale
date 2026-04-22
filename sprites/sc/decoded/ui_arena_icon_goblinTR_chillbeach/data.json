@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_goblinTR_chillbeach.sc",
+  "original_stem": "ui_arena_icon_goblinTR_chillbeach",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000017f3d721b697a8fc30ea8c60363739bd65a988f31c002c00040008000c00100014001800000000001c002000240028001c000000010000000100000033000000050000000100000001000000604800007811000008000000f41b0000010000000c00000008000c0004000800080000001c00000004000000100000008cd4132a98d8497fb460746af8cf6a021e0000006172656e615f676f626c696e54525f6368696c6c62656163685f69636f6e0000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

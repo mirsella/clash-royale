@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_herogiant_shoryuken_dl.sc",
+  "original_stem": "emotes_herogiant_shoryuken_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000095eba4428c84e324c6b028904d58ae2196873dc01c002800040008000c001000140000000000000018001c00200024001c00000001000000010000001000000002000000010000006cc000005060070008000000b0360100020000003c00000004000000d4ffffff1c000000040000001000000031fa0090f9ea4c95b8c0a3d3d894df700500000069636f6e3100000008000c0004000800080000001c00000004000000100000003fcb8d7f9ce64a12acebd5994a192e3e06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

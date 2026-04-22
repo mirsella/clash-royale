@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_pekkaevo_broken_dl.sc",
+  "original_stem": "emotes_pekkaevo_broken_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000036d55f7fd7b4a6766cfa81dd18745d6a5c3552ff1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000f0000000400000001000000a8af00005038040008000000c0a40000020000003c00000004000000d4ffffff1c0000000400000010000000db7bfc345c0848e5a8e16352734b64470500000069636f6e3100000008000c0004000800080000001c0000000400000010000000c63c254f72e94e519721437fdbb2d77e06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

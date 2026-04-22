@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_valhala.sc",
+  "original_stem": "ui_arena_icon_valhala",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000670b63b25f5be1bfd15c1e54c3a09b251c0a21691c002c00040008000c00100014001800000000001c002000240028001c000000010000000100000003000000020000000100000001000000f81200003c0500000800000008070000010000000c00000008000c0004000800080000001c00000004000000100000006d617ec08db6456191a47ce78c71b674130000006172656e615f76616c68616c6c615f69636f6e00",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

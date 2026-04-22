@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_bowler_sus_dl.sc",
+  "original_stem": "emotes_bowler_sus_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000757b46a92be7ea31139c17d31f5a0208dafd8e5d1c002800040008000c001000140000000000000018001c00200024001c000000010000000100000008000000030000000100000084910000105202000800000030550000020000003c00000004000000d4ffffff1c0000000400000010000000f5ef98c8e65f402cbb1a277f955a10540500000069636f6e3100000008000c0004000800080000001c00000004000000100000000b289bbd894e4cac8d6966aeb272fbdb06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

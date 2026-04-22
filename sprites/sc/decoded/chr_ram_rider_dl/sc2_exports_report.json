@@ -1,0 +1,13 @@
+{
+  "exports_found": 102,
+  "exports_rendered": 99,
+  "frames_rendered": 99,
+  "sc": "chr_ram_rider_dl.sc",
+  "skipped_empty": [
+    "rider_run1_8",
+    "rider_run1_2",
+    "bola_projectile_shadow"
+  ],
+  "textures_resolved": 2,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_ram_rider_dl"
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_flash_offer.sc",
+  "original_stem": "ui_flash_offer",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000602d592d6390b2128430717d4705b525ee9848371c002c00040008000c00100014001800000000001c002000240028001c0000000100000001000000140000001b000000010000000e000000286500003418000008000000e0190000020000004800000004000000c8ffffff1c00000004000000100000002b13acf2a0f847439af4484dec8ae04311000000706f7075705f666c6173685f6f6666657200000008000c0004000800080000001c0000000400000010000000008c2ed3121e404abf2995b16f153159070000006f7665726c617900",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

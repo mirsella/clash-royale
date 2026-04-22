@@ -1,0 +1,16 @@
+{
+  "exports_found": 92,
+  "exports_rendered": 86,
+  "frames_rendered": 86,
+  "sc": "chr_goblin_blowdart_evolution.sc",
+  "skipped_empty": [
+    "poison_skull_purple",
+    "evo_blowdartgoblin_smoke_03",
+    "evo_blowdartgoblin_smoke_01",
+    "evo_blowdartgoblin_smoke_04",
+    "projectile_arrow_shadow",
+    "evo_blowdartgoblin_smoke_02"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_goblin_blowdart_evolution"
+}

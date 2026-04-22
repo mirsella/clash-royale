@@ -1,0 +1,11 @@
+{
+  "exports_found": 5,
+  "exports_rendered": 4,
+  "frames_rendered": 4,
+  "sc": "ui_giveaway_tutorial_dagger_duchess.sc",
+  "skipped_empty": [
+    "bubble_tutorial_anim"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/ui_giveaway_tutorial_dagger_duchess"
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ability_icon_knight.sc",
+  "original_stem": "ability_icon_knight",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000a725096e4906d90e70d4ddaa1640b5c9c11f963e1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000100000003000000010000001c01000034010000080000005c010000010000000c00000008000c0004000800080000001c000000040000001000000007244d06bee142cbba0681fe3b93d281130000006162696c6974795f69636f6e5f6b6e6967687400",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

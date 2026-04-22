@@ -1,0 +1,21 @@
+{
+  "exports_found": 29,
+  "exports_rendered": 18,
+  "frames_rendered": 18,
+  "sc": "chr_ice_golem_hero.sc",
+  "skipped_empty": [
+    "vmc_ice_golem_hero_ability_buff_snow_behind_02",
+    "vmc_ice_golem_hero_ability_buff_snow_behind_01",
+    "vmc_ice_golem_hero_ability_buff_snow_01",
+    "vmc_ice_golem_hero_ability_buff_snow_02",
+    "vmc_ice_golem_hero_ability_buff_slow_02",
+    "vmc_ice_golem_hero_ability_buff_snow_tower_behind_01",
+    "vmc_ice_golem_hero_ability_buff_snow_tower_02",
+    "vmc_ice_golem_hero_ability_buff_slow_01",
+    "vmc_ice_golem_hero_ability_buff_snow_tower_behind_02",
+    "vmc_ice_golem_hero_ability_blizzard_01",
+    "vmc_ice_golem_hero_ability_buff_snow_tower_01"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_ice_golem_hero"
+}

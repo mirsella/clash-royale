@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "kind": "sctx",
+  "original_file_name": "vfx_autochess_0.sctx",
+  "original_stem": "vfx_autochess_0",
+  "source_backup": "original.sctx",
+  "texture": "vfx_autochess_0.png",
+  "type": "ASTC_RGBA8_8x8",
+  "type_enum": 212,
+  "width": 2560,
+  "height": 3794,
+  "generate_mip_maps": false,
+  "mip_count": 1,
+  "unknown_flag": false,
+  "unknown_flag_1": true,
+  "compressed": true,
+  "streaming": {
+    "ids": [
+      3
+    ],
+    "textures": [
+      {
+        "texture": "vfx_autochess_0_variant_0.png",
+        "type": "ASTC_RGBA8_8x8",
+        "type_enum": 212,
+        "width": 320,
+        "height": 474
+      }
+    ]
+  },
+  "container": {
+    "identifier": "SCTX",
+    "compressed": true,
+    "payload_encoding": "zstd",
+    "use_padding": false,
+    "unk1": 0,
+    "unk3": 0,
+    "unk5": 0,
+    "unk6": 0,
+    "flags": 5,
+    "texture_length": 2432000,
+    "root_chunk_length": 38540,
+    "mipmaps_chunk_length": 44,
+    "data_offset": 38592
+  },
+  "mip_levels": [
+    {
+      "index": 0,
+      "width": 2560,
+      "height": 3794,
+      "offset": 0,
+      "length": 2432000,
+      "hash_hex": "42dd54f18349a88d"
+    }
+  ]
+}

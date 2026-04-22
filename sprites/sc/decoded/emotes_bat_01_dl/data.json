@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_bat_01_dl.sc",
+  "original_stem": "emotes_bat_01_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000d3c8bb653f62e1d219b52cbd5e51c3efbf1b2e391c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000110000000200000001000000f441000050a011000800000074d50000020000003c00000004000000d4ffffff1c00000004000000100000003685008dfdb2457aa65c51a82aa4f5dd0500000069636f6e3100000008000c0004000800080000001c0000000400000010000000c60bd2a9bf9a476cb49f70ba98b76e5606000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,12 @@
+{
+  "exports_found": 4,
+  "exports_rendered": 2,
+  "frames_rendered": 2,
+  "sc": "emotes_night_witch_01_dl.sc",
+  "skipped_empty": [
+    "icon5",
+    "icon6"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/emotes_night_witch_01_dl"
+}

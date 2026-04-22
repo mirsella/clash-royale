@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "Evolution_RoyalRecruitsFG_dl.sc",
+  "original_stem": "Evolution_RoyalRecruitsFG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000072d7449e77320b03f2ca81b0f969c03708af86b01c002800040008000c001000140000000000000018001c00200024001c00000001000000010000001c0000000200000001000000c0cf000050b82c0008000000547d0600010000000c00000008000c0004000800080000001c000000040000001000000048fe1a4d47984d0e908760de4db365490900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

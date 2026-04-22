@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_night_witch_01_dl.sc",
+  "original_stem": "emotes_night_witch_01_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000b7cab4eddab8a691556ab9e9c393025f7c07ba4c1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000110000000400000001000000486b0000d016040008000000a4600000040000009c0000006400000034000000040000007cffffff1c00000004000000100000001e963ed7dbfc4305b3e0874180455b3c0500000069636f6e36000000a8ffffff1c0000000400000010000000c3a6a723665041ad8db5c48e9bb4568d0500000069636f6e35000000d4ffffff1c0000000400000010000000af3593fc093b42a6aa896d2d9190fed60500000069636f6e3100000008000c0004000800080000001c0000000400000010000000dcd5a74ba9cc4a9aba190d5910e61bef06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

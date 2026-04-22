@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ability_icon_balloon.sc",
+  "original_stem": "ability_icon_balloon",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000837e84510313d72132c104666b74ad15653b2f961c002800040008000c001000140000000000000018001c00200024001c000000010000000100000001000000010000000100000004010000740000000800000028010000010000000c00000008000c0004000800080000001c00000004000000100000007c9a2d2aa1954c8896b4a10aedcb4b17140000006162696c6974795f69636f6e5f62616c6c6f6f6e00000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

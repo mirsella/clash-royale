@@ -1,0 +1,25 @@
+{
+  "exports_found": 76,
+  "exports_rendered": 61,
+  "frames_rendered": 61,
+  "sc": "ui_mystery_box.sc",
+  "skipped_empty": [
+    "reward_item_tower_skin",
+    "reward_item_emote",
+    "magic_item_key",
+    "magic_item_book_of_books",
+    "magic_item_book_rare",
+    "wildcard_reveal_common",
+    "wildcard_reveal_epic",
+    "wildcard_reveal_champion",
+    "tap_flash_opening",
+    "magic_item_book_epic",
+    "magic_item_coin",
+    "wildcard_reveal_rare",
+    "magic_item_book_common",
+    "wildcard_reveal_legendary",
+    "magic_item_book_legendary"
+  ],
+  "textures_resolved": 3,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/ui_mystery_box"
+}

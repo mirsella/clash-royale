@@ -1,0 +1,69 @@
+{
+  "schema_version": 2,
+  "original_file_name": "level_cryptrock_arena.sc",
+  "original_stem": "level_cryptrock_arena",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000e4a1c332f01b5013a8bfeb57871d068aa3ba7e421c002800040008000c001000140000000000000018001c00200024001c00000001000000010000004c0000000a00000002000000f0690400b4c611000800000074140d00020000004c00000004000000c4ffffff1c000000040000001000000075374958c5a544c89ca731f89e360df91600000063727970745f636f6e636572745f626173655f327632000008000c0004000800080000001c0000000400000010000000d5f554c7552d4733a5e1f63955bb33e91500000063727970745f636f6e636572745f626173655f3031000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "level_cryptrock_arena_000.png",
+      "source": "embedded_ktx",
+      "offset": 303632,
+      "length": 160980,
+      "width": 706,
+      "height": 897,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    },
+    {
+      "index": 1,
+      "png_name": "level_cryptrock_arena_001.png",
+      "source": "embedded_ktx",
+      "offset": 464664,
+      "length": 1003876,
+      "width": 1974,
+      "height": 2032,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

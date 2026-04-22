@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "56_LoveBomber_FG.sc",
+  "original_stem": "56_LoveBomber_FG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000d54ca478cfacd8296bfaf78e39c051b46c84105d1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000002e00000002000000010000002894010030041200080000004c0f0400010000000c00000008000c0004000800080000001c0000000400000010000000348c1b6eabdb4992ae0bba0b9ec5eb520900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_crypt_concert.sc",
+  "original_stem": "ui_arena_icon_crypt_concert",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000002a1a5a31b3b153096afba1bc18669cf858a7fce71c002c00040008000c00100014001800000000001c002000240028001c0000000100000001000000550000000800000001000000010000000cf70600d4440000080000002c0e0100020000005400000004000000bcffffff1c00000004000000100000009c35fde41efb4cc884aaf2635c5a72e61c0000006172656e615f63727970745f636f6e636572745f706f6c5f69636f6e0000000008000c0004000800080000001c00000004000000100000003abf91fdf83148b2abcbdaa89772e6b5180000006172656e615f63727970745f636f6e636572745f69636f6e00000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

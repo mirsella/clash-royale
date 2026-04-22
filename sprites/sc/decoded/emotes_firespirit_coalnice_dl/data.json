@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_firespirit_coalnice_dl.sc",
+  "original_stem": "emotes_firespirit_coalnice_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000a981520158f9510c35fb7079e433125f16fe39701c002800040008000c001000140000000000000018001c00200024001c00000001000000010000001500000006000000010000000896000090d206000800000060c80000020000003c00000004000000d4ffffff1c000000040000001000000083c9a27236e142b2ab1751dedbffeaf20500000069636f6e3100000008000c0004000800080000001c00000004000000100000005d57e1f0bae44118add80579a0cbc40706000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

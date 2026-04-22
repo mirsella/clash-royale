@@ -1,0 +1,11 @@
+{
+  "exports_found": 43,
+  "exports_rendered": 42,
+  "frames_rendered": 42,
+  "sc": "level_clashfest_arena_dl.sc",
+  "skipped_empty": [
+    "clashfest_fire"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/level_clashfest_arena_dl"
+}

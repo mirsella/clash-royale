@@ -1,0 +1,15 @@
+{
+  "exports_found": 34,
+  "exports_rendered": 29,
+  "frames_rendered": 29,
+  "sc": "ui_deck_builder_autochess.sc",
+  "skipped_empty": [
+    "ruler_collection",
+    "top_gradient",
+    "card_slot_event",
+    "card_slot",
+    "collection_card_size"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/ui_deck_builder_autochess"
+}

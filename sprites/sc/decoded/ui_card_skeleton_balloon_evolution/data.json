@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_card_skeleton_balloon_evolution.sc",
+  "original_stem": "ui_card_skeleton_balloon_evolution",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000005d312f80f2987923c0d7469578f402e217ab8cb01c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000b80000007c0000000800000000010000010000000c00000008000c0004000800080000001c0000000400000010000000bc35a08fe83c46968c2ca01890276ab41f000000736b656c65746f6e5f62616c6c6f6f6e5f65766f6c7574696f6e5f6361726400",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

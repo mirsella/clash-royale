@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_royalghostevo_vanish_dl.sc",
+  "original_stem": "emotes_royalghostevo_vanish_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000d2dd12d19ccd1212dd20e58b5c760e23c3c9523e1c002800040008000c001000140000000000000018001c00200024001c000000010000000100000008000000020000000100000074780000d0c805000800000088d70000020000003c00000004000000d4ffffff1c00000004000000100000008b03ae30f12540e5b8522337f3d37b8e0500000069636f6e3100000008000c0004000800080000001c0000000400000010000000b7c1f77ff7a849d88711556ca9b7c8fa06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

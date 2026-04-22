@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "55_ThunderValkyrie_FG.sc",
+  "original_stem": "55_ThunderValkyrie_FG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000f66ee43b4c0e4bd94907262ef1667b6ece82e9561c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000d40000001076180008000000b06b0500010000000c00000008000c0004000800080000001c00000004000000100000001f9743ea49f64512ad904e85cef5d9d30900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

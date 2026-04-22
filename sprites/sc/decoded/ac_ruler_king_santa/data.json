@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ac_ruler_king_santa.sc",
+  "original_stem": "ac_ruler_king_santa",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000461cbffe01d43076a9d28996753ca882ca56b2901c002c00040008000c00100014001800000000001c002000240028001c0000000100000001000000020000000200000001000000010000007c010000b400000008000000b0010000020000004c00000004000000c4ffffff1c000000040000001000000024deaf46c0e842b0aa0ca08f7cfd1d20160000007468756d625f72756c65725f6b696e675f73616e7461000008000c0004000800080000001c0000000400000010000000caf2fb1dc4dc432ebba4beb5cd7ce6581a00000061635f72756c65725f696e67616d655f6b696e675f73616e74610000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

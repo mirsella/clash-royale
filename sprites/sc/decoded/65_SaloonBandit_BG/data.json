@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "65_SaloonBandit_BG.sc",
+  "original_stem": "65_SaloonBandit_BG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000002447f41a4de68be986b3c7003385aa7d1a7623011c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000a400000030ab1a0008000000c0ae0400010000000c00000008000c0004000800080000001c00000004000000100000006495f0f55248469dbe7f7268615c92ae0900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_goblin_brawler_01_dl.sc",
+  "original_stem": "emotes_goblin_brawler_01_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000005c35b7e2f0b47e3cb2c29fb91ef17197e3783a1b1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000180000000c0000000100000030d3000050fd080008000000a4d80000040000009c0000006400000034000000040000007cffffff1c0000000400000010000000b54fe2e433ba44a9a7efe6640514b1bd0500000069636f6e32000000a8ffffff1c00000004000000100000009a64f00be35d4552a22259e8f6cb7ce10500000069636f6e31000000d4ffffff1c0000000400000010000000c23c7a23f8214051b9340fa5d4e2f55c06000000656d6f746532000008000c0004000800080000001c0000000400000010000000a0e0ca980a09456382ddaf2b1051274506000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

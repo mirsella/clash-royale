@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_herominipekka_switchon_dl.sc",
+  "original_stem": "emotes_herominipekka_switchon_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000ac8db4732fe97f2647d1d0412308a82db12f59c51c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000100000000200000001000000e86a000040e105000800000038c80000020000003c00000004000000d4ffffff1c00000004000000100000001a71627e499748a4b58f6b664944f6e50500000069636f6e3100000008000c0004000800080000001c00000004000000100000008bcf00d8391c485097ddefba655909f606000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

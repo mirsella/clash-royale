@@ -1,0 +1,11 @@
+{
+  "exports_found": 64,
+  "exports_rendered": 63,
+  "frames_rendered": 63,
+  "sc": "ui_trophy_road.sc",
+  "skipped_empty": [
+    "tr_vignette"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/ui_trophy_road"
+}

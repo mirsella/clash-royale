@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_pekka_rabbitsuit_dl.sc",
+  "original_stem": "emotes_pekka_rabbitsuit_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000000bf301e706333fa81ade3a50fa72d4fe9e335dc51c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000a0000000200000001000000c095000050d804000800000084880000020000003c00000004000000d4ffffff1c00000004000000100000004cd1e6b1d4e942a0afb3f922c71895e80500000069636f6e3100000008000c0004000800080000001c0000000400000010000000e419e58837044aecab785adcdd93bdae06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,11 @@
+{
+  "exports_found": 27,
+  "exports_rendered": 26,
+  "frames_rendered": 26,
+  "sc": "ui_battle_end.sc",
+  "skipped_empty": [
+    "battleEnd_loot_template"
+  ],
+  "textures_resolved": 2,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/ui_battle_end"
+}

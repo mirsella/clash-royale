@@ -1,0 +1,12 @@
+{
+  "exports_found": 21,
+  "exports_rendered": 19,
+  "frames_rendered": 19,
+  "sc": "ui_battle_banners.sc",
+  "skipped_empty": [
+    "pvp_blind_deck_txt",
+    "banner_fg"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/ui_battle_banners"
+}

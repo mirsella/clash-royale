@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_ranked.sc",
+  "original_stem": "ui_arena_icon_ranked",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000009475b4ced6380cd165352c66406ae1ea91930241c002c00040008000c00100014001800000000001c002000240028001c0000000100000001000000320000000900000001000000010000002c2f0000d40c000008000000cc160000010000000c00000008000c0004000800080000001c0000000400000010000000a06495d7a2294ad2b38c3afc331790870c0000006172656e615f72616e6b656400000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

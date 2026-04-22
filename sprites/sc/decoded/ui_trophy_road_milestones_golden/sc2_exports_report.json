@@ -1,0 +1,13 @@
+{
+  "exports_found": 83,
+  "exports_rendered": 80,
+  "frames_rendered": 80,
+  "sc": "ui_trophy_road_milestones_golden.sc",
+  "skipped_empty": [
+    "tr_wait_download",
+    "empty",
+    "bar_trophycount"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/ui_trophy_road_milestones_golden"
+}

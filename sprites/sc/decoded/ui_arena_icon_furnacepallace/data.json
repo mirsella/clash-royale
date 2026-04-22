@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_furnacepallace.sc",
+  "original_stem": "ui_arena_icon_furnacepallace",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000007b8812fed97ec810f9bfe15d834c98b53b23c34f1c002c00040008000c00100014001800000000001c002000240028001c0000000100000001000000070000000a0000000100000001000000a4790000c026000008000000b8310000020000005400000004000000bcffffff1c0000000400000010000000db2a0c75288346638b28358a252efb4f1d0000006172656e615f6675726e61636570616c6c6163655f706f6c5f69636f6e00000008000c0004000800080000001c00000004000000100000002630810618644b70b6795bf9577fe5f8190000006172656e615f6675726e61636570616c6c6163655f69636f6e000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

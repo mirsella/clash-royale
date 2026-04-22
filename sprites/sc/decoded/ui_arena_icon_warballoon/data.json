@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_warballoon.sc",
+  "original_stem": "ui_arena_icon_warballoon",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000005da3d95f78e6401b9e6a302f1b0268f36952db2f1c002c00040008000c00100014001800000000001c002000240028001c00000001000000010000002000000004000000010000000100000008af0e005c4d000008000000dc170200020000004c00000004000000c4ffffff1c000000040000001000000088e6f9bf635c41419a477b2858d63375150000006172656e615f62616c6f6f6e5f706f6c5f69636f6e00000008000c0004000800080000001c00000004000000100000001498fbab973f46af9351a2ec434f5df7110000006172656e615f62616c6f6f6e5f69636f6e000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

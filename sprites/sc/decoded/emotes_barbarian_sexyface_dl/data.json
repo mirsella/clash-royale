@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_barbarian_sexyface_dl.sc",
+  "original_stem": "emotes_barbarian_sexyface_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000131394c9f2eed91c92aa07e97c821fc1acb86e091c002800040008000c001000140000000000000018001c00200024001c00000001000000010000001700000002000000010000009c030100500e04000800000068bd0000020000003c00000004000000d4ffffff1c000000040000001000000088e40c0a93424db3a11d58c4a2454d580500000069636f6e3100000008000c0004000800080000001c0000000400000010000000f91fc7922dba4fbba4ed02abf08fb30606000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

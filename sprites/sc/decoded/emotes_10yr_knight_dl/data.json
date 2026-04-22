@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_10yr_knight_dl.sc",
+  "original_stem": "emotes_10yr_knight_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000005a8382ce56864df8b24cd1bc23d0b37d810cb6fa1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000e00000002000000010000008841000050bc0700080000005c5e0000020000003c00000004000000d4ffffff1c0000000400000010000000aebcd3b248174f688e79b610dbaa81970500000069636f6e3100000008000c0004000800080000001c000000040000001000000079046fe5d17940b68459a11928c695f606000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_text_ok_dl.sc",
+  "original_stem": "emotes_text_ok_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000006442cdf9bc64f860295212ca7b870567a90bf7801c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000400000002000000010000008023000010c9010008000000843a0000020000003c00000004000000d4ffffff1c0000000400000010000000e90dff9e8081439c837adfa011ac26ef0500000069636f6e3100000008000c0004000800080000001c0000000400000010000000255c5e4cce454466a570b0693d0f319406000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

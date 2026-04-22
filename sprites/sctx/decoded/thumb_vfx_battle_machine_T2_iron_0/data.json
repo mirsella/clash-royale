@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "kind": "sctx",
+  "original_file_name": "thumb_vfx_battle_machine_T2_iron_0.sctx",
+  "original_stem": "thumb_vfx_battle_machine_T2_iron_0",
+  "source_backup": "original.sctx",
+  "texture": "thumb_vfx_battle_machine_T2_iron_0.png",
+  "type": "ASTC_RGBA8_8x8",
+  "type_enum": 212,
+  "width": 232,
+  "height": 236,
+  "generate_mip_maps": false,
+  "mip_count": 1,
+  "unknown_flag": false,
+  "unknown_flag_1": true,
+  "compressed": true,
+  "streaming": {
+    "ids": [
+      3
+    ],
+    "textures": [
+      {
+        "texture": "thumb_vfx_battle_machine_T2_iron_0_variant_0.png",
+        "type": "ASTC_RGBA8_8x8",
+        "type_enum": 212,
+        "width": 29,
+        "height": 29
+      }
+    ]
+  },
+  "container": {
+    "identifier": "SCTX",
+    "compressed": true,
+    "payload_encoding": "zstd",
+    "use_padding": false,
+    "unk1": 0,
+    "unk3": 0,
+    "unk5": 0,
+    "unk6": 0,
+    "flags": 5,
+    "texture_length": 13920,
+    "root_chunk_length": 396,
+    "mipmaps_chunk_length": 44,
+    "data_offset": 448
+  },
+  "mip_levels": [
+    {
+      "index": 0,
+      "width": 232,
+      "height": 236,
+      "offset": 0,
+      "length": 13920,
+      "hash_hex": "79df87c07d69ac83"
+    }
+  ]
+}

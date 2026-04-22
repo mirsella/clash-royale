@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_cw_goblinDance_dl.sc",
+  "original_stem": "emotes_cw_goblinDance_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000003d508099a2a85adb791ebd60f84f2918aaaa59ee1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000150000000200000001000000a05600008078060008000000e8830000020000003c00000004000000d4ffffff1c0000000400000010000000afdd3adce0d84075996f36d9417e153a0500000069636f6e3100000008000c0004000800080000001c00000004000000100000001cd1731a1d604025be60bdae3830a06806000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

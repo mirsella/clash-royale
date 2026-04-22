@@ -1,0 +1,11 @@
+{
+  "exports_found": 8,
+  "exports_rendered": 7,
+  "frames_rendered": 7,
+  "sc": "spell_royale_delivery_dl.sc",
+  "skipped_empty": [
+    "royale_delivery_blue_anim"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/spell_royale_delivery_dl"
+}

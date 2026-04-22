@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ability_icon_ice_golem.sc",
+  "original_stem": "ability_icon_ice_golem",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000006f7025af4578033fb732fb3241fc4e57aba043101c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000300000001000000640100003801000008000000a8010000010000000c00000008000c0004000800080000001c000000040000001000000006862d2fe4e24f6c824cde116d7a8cf6160000006162696c6974795f69636f6e5f6963655f676f6c656d0000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

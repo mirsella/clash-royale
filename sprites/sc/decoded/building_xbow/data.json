@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "building_xbow.sc",
+  "original_stem": "building_xbow",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000003915e0de045fb8694e56a9427ce1973e56700dd01c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000150000000300000001000000340b000098f0010008000000c03e0100020000005000000004000000c0ffffff1c0000000400000010000000557758cc9a2941b3960032bee65fed5c190000006275696c64696e675f78626f775f7265645f61747461636b3100000008000c0004000800080000001c0000000400000010000000264585ead07349fd82a2fd38e08f4ee0170000006275696c64696e675f78626f775f61747461636b315f3100",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "building_xbow_000.png",
+      "source": "embedded_ktx",
+      "offset": 4672,
+      "length": 127044,
+      "width": 492,
+      "height": 1018,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

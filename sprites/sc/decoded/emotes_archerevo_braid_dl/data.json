@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_archerevo_braid_dl.sc",
+  "original_stem": "emotes_archerevo_braid_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000029d69407f4767fd27483779ed3dd7a339af611ea1c002800040008000c001000140000000000000018001c00200024001c000000010000000100000024000000060000000100000014cf000080c40b000800000040770100020000003c00000004000000d4ffffff1c000000040000001000000095789e1777c841b7922f09d92cb349430500000069636f6e3100000008000c0004000800080000001c0000000400000010000000ed9fad3e235c4d39a1fa015177e65fb606000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

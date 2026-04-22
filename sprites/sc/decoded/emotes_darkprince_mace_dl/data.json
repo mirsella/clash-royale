@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_darkprince_mace_dl.sc",
+  "original_stem": "emotes_darkprince_mace_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000bffcf129b7c8ed9a7b77ae5fdba4c0f3013823711c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000d000000020000000100000020450000b06d050008000000e8a70000020000003c00000004000000d4ffffff1c0000000400000010000000d9697124b28246108b73680baa8bfcdf0500000069636f6e3100000008000c0004000800080000001c00000004000000100000005829307ab4074010a975461b523aa5c306000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

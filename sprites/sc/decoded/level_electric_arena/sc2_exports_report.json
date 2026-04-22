@@ -1,0 +1,11 @@
+{
+  "exports_found": 59,
+  "exports_rendered": 58,
+  "frames_rendered": 58,
+  "sc": "level_electric_arena.sc",
+  "skipped_empty": [
+    "electric_base_lights_01_pre"
+  ],
+  "textures_resolved": 2,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/level_electric_arena"
+}

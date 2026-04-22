@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_chess.sc",
+  "original_stem": "ui_arena_icon_chess",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000020ba94be5ba025f58ccdd6758b9a7291ae08a0e1c002c00040008000c00100014001800000000001c002000240028001c00000001000000010000004d0000001f00000001000000010000003ccf0100844d000008000000406f0000020000004000000004000000d0ffffff1c0000000400000010000000e64270e0b334420897471827d07553cb0b0000006172656e615f63686573730008000c0004000800080000001c0000000400000010000000037414eaf6d54e2bb416355435d60f220e0000006172656e615f626f6f7463616d700000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

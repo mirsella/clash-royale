@@ -1,0 +1,12 @@
+{
+  "exports_found": 92,
+  "exports_rendered": 90,
+  "frames_rendered": 90,
+  "sc": "chr_berserker.sc",
+  "skipped_empty": [
+    "berserker_death_weapon",
+    "berserker_death2_weapon"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_berserker"
+}

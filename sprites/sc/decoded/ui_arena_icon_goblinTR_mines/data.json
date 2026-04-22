@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_goblinTR_mines.sc",
+  "original_stem": "ui_arena_icon_goblinTR_mines",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000007e0ea878b4d7fe577981e2b4186508aa817c70e61c002c00040008000c00100014001800000000001c002000240028001c000000010000000100000002000000010000000100000001000000980100008c00000008000000f4010000010000000c00000008000c0004000800080000001c000000040000001000000004d320c6301b40dcba3cc0f44637edb9140000006172656e615f676f626c696e54525f6d696e657300000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

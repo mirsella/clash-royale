@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "58_DaggerDuchessThrone_BG.sc",
+  "original_stem": "58_DaggerDuchessThrone_BG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000002771038d2757da574752efa703bdfe0627d8087c1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000a400000090961a0008000000e4ce0300010000000c00000008000c0004000800080000001c0000000400000010000000b2164f3f7b3c426e9daca32b3cc5a9450900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,69 @@
+{
+  "schema_version": 2,
+  "original_file_name": "level_clanboat_arena.sc",
+  "original_stem": "level_clanboat_arena",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000783ca0c60301fc513e4e5d1ab22845368b4cfb671c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000520000000d0000000200000060480000f0a40c0008000000e4f90700060000004801000004010000c0000000840000004000000004000000d8feffff1c0000000400000010000000cfd3616c060f4a89ac63fe09d66dfd1712000000636c616e626f61745f7265645f30335f7569000010ffffff1c000000040000001000000024240250a77445a88f1ea155056ffc1219000000636c616e626f61745f7265645f30335f62726f6b656e5f756900000050ffffff1c0000000400000010000000fd48d0146eac413f8664e4976f6f04ff13000000636c616e626f61745f626c75655f30335f75690088ffffff1c0000000400000010000000b65a28cb27ba45df821ac72d9f509d351a000000636c616e626f61745f626c75655f30335f62726f6b656e5f75690000c8ffffff1c000000040000001000000098daedc1dfe44b259451c17c3ccf8dbc10000000636c616e626f61745f626173655f30330000000008000c0004000800080000001c000000040000001000000094367c91a89943599bef6739540f4ac91d00000061746c617367656e657261746f725f746578747572655f726762353635000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "level_clanboat_arena_000.png",
+      "source": "embedded_ktx",
+      "offset": 26456,
+      "length": 212,
+      "width": 20,
+      "height": 20,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    },
+    {
+      "index": 1,
+      "png_name": "level_clanboat_arena_001.png",
+      "source": "embedded_ktx",
+      "offset": 26720,
+      "length": 828308,
+      "width": 1620,
+      "height": 2040,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

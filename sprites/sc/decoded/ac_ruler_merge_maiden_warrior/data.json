@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ac_ruler_merge_maiden_warrior.sc",
+  "original_stem": "ac_ruler_merge_maiden_warrior",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000008de05cb2fb7c9c1de16098400445b04de6b6e3ff1c002c00040008000c00100014001800000000001c002000240028001c00000001000000010000000200000002000000010000000100000094010000b400000008000000c4010000020000005800000004000000b8ffffff1c0000000400000010000000aead911a570e40f4974c899f85401de9200000007468756d625f72756c65725f6d657267655f6d616964656e5f77617272696f720000000008000c0004000800080000001c0000000400000010000000df6fe7e4f1fb4fe1846a83b93ac450262400000061635f72756c65725f696e67616d655f6d657267655f6d616964656e5f77617272696f7200000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

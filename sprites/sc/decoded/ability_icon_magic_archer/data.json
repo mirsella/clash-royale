@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ability_icon_magic_archer.sc",
+  "original_stem": "ability_icon_magic_archer",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000e11d7b13f8b7e1ed24e2ca06f91dd2adfb69c5971c002800040008000c001000140000000000000018001c00200024001c000000010000000100000001000000010000000100000008010000740000000800000030010000010000000c00000008000c0004000800080000001c00000004000000100000007f21b1d7ae634e0eb291157295beeca2190000006162696c6974795f69636f6e5f6d616769635f617263686572000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

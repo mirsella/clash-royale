@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "68_BerserkerRage_FG.sc",
+  "original_stem": "68_BerserkerRage_FG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000bc2251d291c3e0130a08ef01f141d0be18950f311c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000d400000090a0130008000000601b0200010000000c00000008000c0004000800080000001c0000000400000010000000834b422f88d54b4fbf5700d2dc1e8c460900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

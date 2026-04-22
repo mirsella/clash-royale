@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_icepiritevo_swordfreeze_dl.sc",
+  "original_stem": "emotes_icepiritevo_swordfreeze_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000028c9a4aa04447940d61b043e25b227fc1344bab81c002800040008000c001000140000000000000018001c00200024001c000000010000000100000014000000020000000100000054cb0000307a03000800000058bb0000020000003c00000004000000d4ffffff1c0000000400000010000000eb1bf81deaf140df82e606375b9764310500000069636f6e3100000008000c0004000800080000001c0000000400000010000000c41e59fcedc74199965022b19d9997b406000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

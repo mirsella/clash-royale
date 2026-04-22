@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ac_ruler_echo_monk_recolor_purple.sc",
+  "original_stem": "ac_ruler_echo_monk_recolor_purple",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000002d6a75cd1159567cf79cf9839b90b0d5565f009a1c002c00040008000c00100014001800000000001c002000240028001c0000000100000001000000020000000200000001000000010000009c010000b400000008000000d0010000020000005c00000004000000b4ffffff1c0000000400000010000000bbaae7c137bd4db5a793d4cb4c158a00240000007468756d625f72756c65725f6563686f5f6d6f6e6b5f7265636f6c6f725f707572706c650000000008000c0004000800080000001c0000000400000010000000e29f47b181c24eb589ecd52ff325cf902800000061635f72756c65725f696e67616d655f6563686f5f6d6f6e6b5f7265636f6c6f725f707572706c6500000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

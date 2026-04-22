@@ -1,0 +1,21 @@
+{
+  "exports_found": 25,
+  "exports_rendered": 14,
+  "frames_rendered": 14,
+  "sc": "chr_wizard_hero.sc",
+  "skipped_empty": [
+    "vmc_wizard_hero_tornado_whirl_ground",
+    "vmc_wizard_hero_tornado_whirl_02",
+    "vmc_wizard_hero_meta_idlebreak_02_smoke",
+    "vmc_wizard_hero_meta_intro_03_hit",
+    "vmc_wizard_hero_tornado_smoke_01",
+    "vmc_wizard_hero_deploy_fire_backglow",
+    "vmc_wizard_hero_meta_intro_01_charge_backglow",
+    "vmc_wizard_hero_ability_fly_impact",
+    "vmc_wizard_hero_ability_fly_back",
+    "vmc_wizard_hero_meta_idlebreak_01_smoke",
+    "vmc_wizard_hero_tornado_whirl"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_wizard_hero"
+}

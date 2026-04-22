@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_king_squadspiral_dl.sc",
+  "original_stem": "emotes_king_squadspiral_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000ccc1a44c235797a6c69969975b0c1a3b987ce2031c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000120000000300000001000000646f000050880b0008000000a8770100020000003c00000004000000d4ffffff1c0000000400000010000000d2389e74427340798484b69cb5f60a7b0500000069636f6e3100000008000c0004000800080000001c000000040000001000000082b52bd9e0404214a8f0234d751f867106000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

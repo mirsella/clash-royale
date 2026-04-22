@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "DarkGolemBG_dl.sc",
+  "original_stem": "DarkGolemBG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000d96720b364262061fb6003f81573ff103a3ab23f1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000a400000030ab1a00080000005c090300010000000c00000008000c0004000800080000001c0000000400000010000000a1997cbcbe354a52808b6a93391798850900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

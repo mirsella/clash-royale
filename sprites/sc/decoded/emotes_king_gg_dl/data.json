@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_king_gg_dl.sc",
+  "original_stem": "emotes_king_gg_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000002c16e0d3c39ba1bce02fbc612a7e7f7bc3a90a7b1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000070000000900000001000000f0450000706e020008000000c4580000020000003c00000004000000d4ffffff1c000000040000001000000047f5ded196d64e259ca6c9f12813e54a0500000069636f6e3100000008000c0004000800080000001c000000040000001000000025f4e067a1404a3da7019e3eab11fd4806000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

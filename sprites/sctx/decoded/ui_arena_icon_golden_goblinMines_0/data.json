@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "kind": "sctx",
+  "original_file_name": "ui_arena_icon_golden_goblinMines_0.sctx",
+  "original_stem": "ui_arena_icon_golden_goblinMines_0",
+  "source_backup": "original.sctx",
+  "texture": "ui_arena_icon_golden_goblinMines_0.png",
+  "type": "RGBA8Unorm",
+  "type_enum": 70,
+  "width": 496,
+  "height": 824,
+  "generate_mip_maps": false,
+  "mip_count": 1,
+  "unknown_flag": false,
+  "unknown_flag_1": true,
+  "compressed": true,
+  "streaming": {
+    "ids": [
+      3
+    ],
+    "textures": [
+      {
+        "texture": "ui_arena_icon_golden_goblinMines_0_variant_0.png",
+        "type": "RGBA8Unorm",
+        "type_enum": 70,
+        "width": 62,
+        "height": 103
+      }
+    ]
+  },
+  "container": {
+    "identifier": "SCTX",
+    "compressed": true,
+    "payload_encoding": "zstd",
+    "use_padding": false,
+    "unk1": 0,
+    "unk3": 0,
+    "unk5": 0,
+    "unk6": 0,
+    "flags": 5,
+    "texture_length": 1634816,
+    "root_chunk_length": 25676,
+    "mipmaps_chunk_length": 44,
+    "data_offset": 25728
+  },
+  "mip_levels": [
+    {
+      "index": 0,
+      "width": 496,
+      "height": 824,
+      "offset": 0,
+      "length": 1634816,
+      "hash_hex": "4e299746725056a6"
+    }
+  ]
+}

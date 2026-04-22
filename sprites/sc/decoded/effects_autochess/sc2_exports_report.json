@@ -1,0 +1,11 @@
+{
+  "exports_found": 54,
+  "exports_rendered": 53,
+  "frames_rendered": 53,
+  "sc": "effects_autochess.sc",
+  "skipped_empty": [
+    "vfx_autochess_merge_card_temp"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/effects_autochess"
+}

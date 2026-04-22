@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_goblinqueen_thumbsdown_dl.sc",
+  "original_stem": "emotes_goblinqueen_thumbsdown_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000433a03518418bb8beae41597d64e3fed43fdcaf31c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000090000000200000001000000185b0000b049030008000000d07b0000020000003c00000004000000d4ffffff1c0000000400000010000000d69885eb53a24294b6526be72cc3bf120500000069636f6e3100000008000c0004000800080000001c0000000400000010000000cfd1ee96fd4044aa89b1e2802e3922b106000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

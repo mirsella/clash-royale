@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_barbarian_toiletpaper_dl.sc",
+  "original_stem": "emotes_barbarian_toiletpaper_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000032a65b3d745d801cec084a483ea1b3a4b66754af1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000300000002000000010000009823000090590300080000007c4a0000020000003c00000004000000d4ffffff1c00000004000000100000009396494e34d04a6b8299b123e74ef11d0500000069636f6e3100000008000c0004000800080000001c0000000400000010000000f663585853a4438285304bb8dd5c274f06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

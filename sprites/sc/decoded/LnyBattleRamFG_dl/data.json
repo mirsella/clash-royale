@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "LnyBattleRamFG_dl.sc",
+  "original_stem": "LnyBattleRamFG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000025e222bbd6dda30e2c7aac421c41eb70120681051c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000d4000000106210000800000044750200010000000c00000008000c0004000800080000001c000000040000001000000062bef761ea9e4b89a175542f164af5430900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

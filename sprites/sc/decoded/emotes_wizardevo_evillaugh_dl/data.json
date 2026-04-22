@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_wizardevo_evillaugh_dl.sc",
+  "original_stem": "emotes_wizardevo_evillaugh_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000009c62e4736abc2b784dbbae6e1946412d63a76a9a1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000e000000040000000100000040b9000050e0070008000000b8090100020000003c00000004000000d4ffffff1c000000040000001000000087f9f4ba39cd471e8f28777c2ca773c10500000069636f6e3100000008000c0004000800080000001c0000000400000010000000110eea7fe36e493d9b378eb230ce274906000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

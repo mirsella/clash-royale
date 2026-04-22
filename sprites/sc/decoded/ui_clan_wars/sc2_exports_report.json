@@ -1,0 +1,16 @@
+{
+  "exports_found": 157,
+  "exports_rendered": 151,
+  "frames_rendered": 151,
+  "sc": "ui_clan_wars.sc",
+  "skipped_empty": [
+    "map_total_score",
+    "tooltip_defense_editor",
+    "map_clan_boat_ui_search",
+    "wobble_anim",
+    "rules_fame_row",
+    "trade_select_tick"
+  ],
+  "textures_resolved": 2,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/ui_clan_wars"
+}

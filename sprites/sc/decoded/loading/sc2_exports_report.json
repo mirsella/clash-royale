@@ -1,0 +1,12 @@
+{
+  "exports_found": 22,
+  "exports_rendered": 20,
+  "frames_rendered": 20,
+  "sc": "loading.sc",
+  "skipped_empty": [
+    "floater_text",
+    "kunlun_message"
+  ],
+  "textures_resolved": 3,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/loading"
+}

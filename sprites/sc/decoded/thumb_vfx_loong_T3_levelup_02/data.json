@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "thumb_vfx_loong_T3_levelup_02.sc",
+  "original_stem": "thumb_vfx_loong_T3_levelup_02",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000089e8fb8b44dcb05483e23fa9400def4043e0fb221c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000b80000007800000008000000f4000000010000000c00000008000c0004000800080000001c0000000400000010000000f9467e60d8964b1ba2d6d33fd818aa121d0000007468756d625f7666785f6c6f6f6e675f54335f6c6576656c75705f3032000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

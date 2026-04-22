@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_blacksmith_toothpick_dl.sc",
+  "original_stem": "emotes_blacksmith_toothpick_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000001b4dbe18cb3c6084947b561ad2390271e31af2d81c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000c000000020000000100000084700000b0f803000800000050910000020000003c00000004000000d4ffffff1c000000040000001000000051b92ddb9e9d47aa9859534764d8b79a0500000069636f6e3100000008000c0004000800080000001c0000000400000010000000cf643624f51b412f90841253f5b5c72206000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

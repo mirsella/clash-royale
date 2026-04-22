@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ac_ruler_goblin_queen_medusa.sc",
+  "original_stem": "ac_ruler_goblin_queen_medusa",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000005e8e8e8eade263f68d066aa90c8eed2f6747ada31c002c00040008000c00100014001800000000001c002000240028001c0000000100000001000000020000000200000001000000010000008c010000b400000008000000c0010000020000005400000004000000bcffffff1c0000000400000010000000f2ea86a0b61843a9b5928724145d04361f0000007468756d625f72756c65725f676f626c696e5f717565656e5f6d65647573610008000c0004000800080000001c00000004000000100000002e8fd268f8e34484bc071da4a2184ecd2300000061635f72756c65725f696e67616d655f676f626c696e5f717565656e5f6d656475736100",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

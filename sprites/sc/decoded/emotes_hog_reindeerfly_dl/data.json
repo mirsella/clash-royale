@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_hog_reindeerfly_dl.sc",
+  "original_stem": "emotes_hog_reindeerfly_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000002e589db71bfa611cbe615b6ca17f029c4311731d1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000001100000003000000010000005cc50000600f0400080000003cc90000020000003c00000004000000d4ffffff1c0000000400000010000000218eb39cb7294e6dbf5c73ce862ec5030500000069636f6e3100000008000c0004000800080000001c0000000400000010000000f79b8df6227c4ec8a701dfdff83cab0b06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

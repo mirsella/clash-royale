@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_10thbirthday.sc",
+  "original_stem": "ui_arena_icon_10thbirthday",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000045a32a0b3b65201d7355ddf9911a5435c7f0b2c61c002c00040008000c00100014001800000000001c002000240028001c000000010000000100000050000000040000000100000001000000a49c0400842a00000800000044e70000020000005400000004000000bcffffff1c0000000400000010000000cdb37016c3c64670805273471edd97b21c0000006172656e615f62697274686461795f323032365f706f6c5f69636f6e0000000008000c0004000800080000001c0000000400000010000000cb41a84ec9d44746b8297b2c0c424d57180000006172656e615f62697274686461795f323032365f69636f6e00000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

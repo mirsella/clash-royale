@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_firecracker_chimney_dl.sc",
+  "original_stem": "emotes_firecracker_chimney_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000c8c2d6c7bcaa2a8e28af5c6921c8068fd77c26b81c002800040008000c001000140000000000000018001c00200024001c000000010000000100000014000000020000000100000078880000505004000800000050b20000020000003c00000004000000d4ffffff1c0000000400000010000000137f69d285624cb2b28cd793767099a10500000069636f6e3100000008000c0004000800080000001c000000040000001000000005d11c6d6471493c9ad650f33e078fe006000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

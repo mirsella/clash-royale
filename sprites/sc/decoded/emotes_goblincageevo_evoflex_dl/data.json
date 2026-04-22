@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_goblincageevo_evoflex_dl.sc",
+  "original_stem": "emotes_goblincageevo_evoflex_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000f8f3ccc37611f1d6d43286e3dcb807e7220170d31c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000800000002000000010000008059000050be020008000000e4690000020000003c00000004000000d4ffffff1c0000000400000010000000004241504283437697f691935c6973110500000069636f6e3100000008000c0004000800080000001c0000000400000010000000c18324a05f6f46168a0e7f84c1b9d4c206000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

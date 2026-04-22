@@ -1,0 +1,21 @@
+{
+  "exports_found": 200,
+  "exports_rendered": 189,
+  "frames_rendered": 189,
+  "sc": "chr_goblin_giant_dl.sc",
+  "skipped_empty": [
+    "goblin_bag_prestige_attack1_9",
+    "goblin_bag_prestige_attack1_8",
+    "goblin_bag_prestige_attack1_7",
+    "goblin_bag_prestige_attack1_6",
+    "goblin_bag_prestige_attack1_5",
+    "goblin_bag_prestige_attack1_4",
+    "goblin_bag_prestige_attack1_3",
+    "goblin_bag_prestige_attack1_2",
+    "goblin_bag_prestige_attack1_1",
+    "goblin_bag_prestige_run1_1",
+    "goblin_bag_prestige_idle1_1"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_goblin_giant_dl"
+}

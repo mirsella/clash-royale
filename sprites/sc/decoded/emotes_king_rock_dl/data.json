@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_king_rock_dl.sc",
+  "original_stem": "emotes_king_rock_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000b2574c0495e832c20cf74297fa6035a294de1e301c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000020000000400000001000000e0140000b0080100080000002c290000020000003c00000004000000d4ffffff1c0000000400000010000000fd93bfe857bd408da9fb3c1fb401d45f0500000069636f6e3100000008000c0004000800080000001c00000004000000100000002ad79571701e42859791d7b3402f280a06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

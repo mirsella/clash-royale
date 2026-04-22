@@ -1,0 +1,11 @@
+{
+  "exports_found": 90,
+  "exports_rendered": 89,
+  "frames_rendered": 89,
+  "sc": "chr_minionhorde_evolution.sc",
+  "skipped_empty": [
+    "vmc_minionhorde_evo_ability_sparks"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_minionhorde_evolution"
+}

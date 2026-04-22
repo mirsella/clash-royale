@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "54_GoblinsChristmasChoirFG.sc",
+  "original_stem": "54_GoblinsChristmasChoirFG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000bb9734be90eace9c515d2f02526b6f7debb8dc281c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000d400000070471d00080000005cf70500010000000c00000008000c0004000800080000001c000000040000001000000015507a5ea44b471e987269a8256338860900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

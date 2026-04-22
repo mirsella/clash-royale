@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "66_Anim_CozyWinter_FG.sc",
+  "original_stem": "66_Anim_CozyWinter_FG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000027a70ed6a615da165e80db966ddc9c0fdfd1d8e61c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000e00000002000000010000001079000080a62000080000001c320500010000000c00000008000c0004000800080000001c000000040000001000000025736201d91b4abe8aa9cb4adb3e56fc0900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

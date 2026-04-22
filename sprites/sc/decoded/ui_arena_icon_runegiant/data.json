@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_runegiant.sc",
+  "original_stem": "ui_arena_icon_runegiant",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000050ae7c60a0327ed3d9ef0c04454b43b4142dff9f1c002c00040008000c00100014001800000000001c002000240028001c000000010000000100000006000000060000000100000001000000e838000020110000080000004c0c0000020000004800000004000000c8ffffff1c00000004000000100000006f68498ba2524fbeb0f3c21a9b3bf17a130000006172656e615f72756e656769616e745f706f6c0008000c0004000800080000001c00000004000000100000007beeff509fa7400487d606b67d7d41420f0000006172656e615f72756e656769616e7400",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

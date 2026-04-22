@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "62_AnimGoblinBush_FG.sc",
+  "original_stem": "62_AnimGoblinBush_FG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000006aaf199fd777447d418fb762eaaf6a8a0205c5d61c002800040008000c001000140000000000000018001c00200024001c00000001000000010000001f0000001f0000000100000094950000b0a0110008000000d08e0300010000000c00000008000c0004000800080000001c0000000400000010000000ff59a126216b41a6971c0d3574cd54f20900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

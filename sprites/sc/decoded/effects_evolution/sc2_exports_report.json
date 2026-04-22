@@ -1,0 +1,20 @@
+{
+  "exports_found": 67,
+  "exports_rendered": 57,
+  "frames_rendered": 57,
+  "sc": "effects_evolution.sc",
+  "skipped_empty": [
+    "evo_hunter_weights",
+    "evo_hunter_net_back",
+    "evo_hunter_shadow",
+    "evo_hunter_net",
+    "generic_deploy_evo_hover_particles01",
+    "generic_deploy_evo_hover_ground",
+    "generic_deploy_evo_spawn_above",
+    "evolution_skele_spwan_lines",
+    "battle_ram_evo_pushback",
+    "filter_card_evolution"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/effects_evolution"
+}

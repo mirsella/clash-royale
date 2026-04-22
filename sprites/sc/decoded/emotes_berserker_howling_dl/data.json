@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_berserker_howling_dl.sc",
+  "original_stem": "emotes_berserker_howling_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000de4511b20d7c5f2e8d5eb588092a15fae5465e331c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000f0000000200000001000000b08f0000f04a030008000000208a0000020000003c00000004000000d4ffffff1c00000004000000100000006ceb721c21ad42fa9f989dfa2ef844140500000069636f6e3100000008000c0004000800080000001c0000000400000010000000d0796ddb5fdb43cc8ccfcf3bc3329e8d06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

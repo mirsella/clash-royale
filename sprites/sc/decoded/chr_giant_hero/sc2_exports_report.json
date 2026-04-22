@@ -1,0 +1,14 @@
+{
+  "exports_found": 24,
+  "exports_rendered": 20,
+  "frames_rendered": 20,
+  "sc": "chr_giant_hero.sc",
+  "skipped_empty": [
+    "vmc_giant_hero_meta_intro_03_add",
+    "vmc_giant_hero_meta_intro_02_backglow",
+    "vmc_giant_hero_ability_swipe_hit",
+    "vmc_giant_hero_ability_swipe_hit_shockwave"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_giant_hero"
+}

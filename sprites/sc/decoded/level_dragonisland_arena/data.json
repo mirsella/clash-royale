@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "level_dragonisland_arena.sc",
+  "original_stem": "level_dragonisland_arena",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000e2e7d41dbadf18042fb6ca3d7bac68e48fff02471c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000a0000000800000001000000008e0300585a0b000800000088330a00020000005000000004000000c0ffffff1c00000004000000100000002e6490925877498c88d6a59f68da397e18000000647261676f6e5f6669676874696e675f626173655f3276320000000008000c0004000800080000001c00000004000000100000009f58af1f47d84f0aa5cf8136bf3d947d17000000647261676f6e5f6669676874696e675f626173655f303100",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "level_dragonisland_arena_000.png",
+      "source": "embedded_ktx",
+      "offset": 352896,
+      "length": 743940,
+      "width": 1575,
+      "height": 1884,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

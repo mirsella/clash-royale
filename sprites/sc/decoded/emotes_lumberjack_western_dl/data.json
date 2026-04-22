@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_lumberjack_western_dl.sc",
+  "original_stem": "emotes_lumberjack_western_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000c086fa924fa1b1e65aa72abbbb179b9c5dbf74781c002800040008000c001000140000000000000018001c00200024001c00000001000000010000001600000002000000010000001c6f0000e0640b0008000000cc2c0100020000003c00000004000000d4ffffff1c0000000400000010000000554bc6884d604e718e07d9236bf9319e0500000069636f6e3100000008000c0004000800080000001c0000000400000010000000df7b7ab9d7234346bd1ab72cb9dffee306000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

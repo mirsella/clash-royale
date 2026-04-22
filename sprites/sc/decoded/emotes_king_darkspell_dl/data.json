@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_king_darkspell_dl.sc",
+  "original_stem": "emotes_king_darkspell_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000fa025323b8249aa3216e551432a8acb56e06bcfa1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000120000000200000001000000a49a0000d0750a0008000000603b0100020000003c00000004000000d4ffffff1c00000004000000100000006aada1bfee4e44f994715c1125de4b070500000069636f6e3100000008000c0004000800080000001c00000004000000100000003813b1f6da5a475e93b67e00f1ec8a5a06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_ultimateclash.sc",
+  "original_stem": "ui_arena_icon_ultimateclash",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000d8cf46e49a37df923bed766462654fa71f91aa8c1c002c00040008000c00100014001800000000001c002000240028001c0000000100000001000000020000000100000001000000010000009c0100008c00000008000000f8010000010000000c00000008000c0004000800080000001c0000000400000010000000f3155c77ae0c4976b1b3f3cd539e85ed180000006172656e615f756c74696d617465636c6173685f69636f6e00000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

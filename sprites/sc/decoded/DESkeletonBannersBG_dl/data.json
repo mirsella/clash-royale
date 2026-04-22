@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "DESkeletonBannersBG_dl.sc",
+  "original_stem": "DESkeletonBannersBG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000e569f1fdd27f1402fbf0ed90d2c704a6cc3c77541c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000a400000030ab1a000800000064480400010000000c00000008000c0004000800080000001c00000004000000100000002fc4b41569634739a232e846a5a48cd50900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

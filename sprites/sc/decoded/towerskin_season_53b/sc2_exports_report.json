@@ -1,0 +1,11 @@
+{
+  "exports_found": 13,
+  "exports_rendered": 12,
+  "frames_rendered": 12,
+  "sc": "towerskin_season_53b.sc",
+  "skipped_empty": [
+    "atlasgenerator_texture_rgba5656"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/towerskin_season_53b"
+}

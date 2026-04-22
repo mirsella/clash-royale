@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_hogrider_jinglebells_dl.sc",
+  "original_stem": "emotes_hogrider_jinglebells_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000001e6359c493c9c9302ba7241ab92e64ab9c08f1e81c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000f0000000300000001000000a8f700005080040008000000b8dd0000020000003c00000004000000d4ffffff1c00000004000000100000008838dde0024a449d8c5300cc99a5129f0500000069636f6e3100000008000c0004000800080000001c0000000400000010000000c550f416c92a416cb9c83da438ffe53006000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

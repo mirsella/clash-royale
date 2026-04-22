@@ -1,0 +1,18 @@
+{
+  "exports_found": 42,
+  "exports_rendered": 34,
+  "frames_rendered": 34,
+  "sc": "ui_deck_builder.sc",
+  "skipped_empty": [
+    "card_evolution_slot_v2",
+    "card_hero_slot",
+    "card_flex_slot",
+    "card_evolution_slot",
+    "towerskins_00_original",
+    "card_evolution_slot_event",
+    "collection_card_size",
+    "solo_tower"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/ui_deck_builder"
+}

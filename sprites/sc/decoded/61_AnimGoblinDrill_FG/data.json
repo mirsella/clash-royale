@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "61_AnimGoblinDrill_FG.sc",
+  "original_stem": "61_AnimGoblinDrill_FG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000004f4c1b4d78fad79788f05160b5dd9bfb124bb86c1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000160000000e0000000100000034a10000b0c0070008000000e4370200010000000c00000008000c0004000800080000001c000000040000001000000070622401a4eb458eb90253c9c6fbb5060900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

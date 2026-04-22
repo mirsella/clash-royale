@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_pekka_activate_dl.sc",
+  "original_stem": "emotes_pekka_activate_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000748e6e730da69336fc2e92e941d832ea2db90a421c002800040008000c001000140000000000000018001c00200024001c00000001000000010000001000000002000000010000008077000010ae090008000000ccfa0000020000003c00000004000000d4ffffff1c0000000400000010000000a6831ab274ac43be81e50667a0a73fbf0500000069636f6e3100000008000c0004000800080000001c0000000400000010000000ad3e0efb456f467bafdb20488894f12006000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

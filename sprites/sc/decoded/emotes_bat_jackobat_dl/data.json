@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_bat_jackobat_dl.sc",
+  "original_stem": "emotes_bat_jackobat_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000006be124bfcf161508096e47663ef54cd38e22e3dd1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000a000000020000000100000018a70000e0b202000800000094870000020000003c00000004000000d4ffffff1c0000000400000010000000dc6a6762e0364ea28bcf35c6db7ecfa00500000069636f6e3100000008000c0004000800080000001c0000000400000010000000f1ab8feafac149878d8c3b8803bef97506000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_clan_wars_map_water.sc",
+  "original_stem": "ui_clan_wars_map_water",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000008c59a18aef64d640f2b8d21ff348e14ca312b0d81c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000a8000000740000000800000000010000010000000c00000008000c0004000800080000001c0000000400000010000000a71944be46964d0cbac24c5c6c089bc30e000000636c616e5f7761725f77617465720000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

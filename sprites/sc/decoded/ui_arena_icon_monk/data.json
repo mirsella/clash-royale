@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_monk.sc",
+  "original_stem": "ui_arena_icon_monk",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000990a26e87233dd2f33087865778ec5b2df4e32f11c002c00040008000c00100014001800000000001c002000240028001c0000000100000001000000100000000c0000000100000001000000300f040040900000080000004c7d0100010000000c00000008000c0004000800080000001c0000000400000010000000206917880d1445c780402454722436230a0000006172656e615f6d6f6e6b0000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_lvl16_spiritempress.sc",
+  "original_stem": "ui_arena_icon_lvl16_spiritempress",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000021045c738302cbc05ce90205c79bf149c70e650b1c002c00040008000c00100014001800000000001c002000240028001c000000010000000100000026000000060000000100000001000000a47f0100c014000008000000388d0000020000005400000004000000bcffffff1c0000000400000010000000f8e9dab90f5f4f04a174f785e61a8a931c0000006172656e615f737069726974656d70726573735f706f6c5f69636f6e0000000008000c0004000800080000001c000000040000001000000057a5556b2dbc4348a11bbaa83bdff968180000006172656e615f737069726974656d70726573735f69636f6e00000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

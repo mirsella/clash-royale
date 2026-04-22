@@ -1,0 +1,21 @@
+{
+  "exports_found": 90,
+  "exports_rendered": 79,
+  "frames_rendered": 79,
+  "sc": "chr_little_prince_guard_dl.sc",
+  "skipped_empty": [
+    "PrinceGuard_enemy_deploy1_8",
+    "PrinceGuard_enemy_deploy1_6",
+    "PrinceGuard_enemy_deploy1_5",
+    "PrinceGuard_enemy_deploy1_4",
+    "PrinceGuard_enemy_deploy1_3",
+    "PrinceGuard_enemy_deploy1_2",
+    "PrinceGuard_enemy_deploy1_1",
+    "PrinceGuard_enemy_deploy1_9",
+    "PrinceGuard_deploy1_9",
+    "PrinceGuard_enemy_deploy1_7",
+    "PrinceGuard_deploy1_1"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_little_prince_guard_dl"
+}

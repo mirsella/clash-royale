@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_golden_goblinMudpit.sc",
+  "original_stem": "ui_arena_icon_golden_goblinMudpit",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000417ceccbeaf613fc3dda9da830917d4a524432131c002c00040008000c00100014001800000000001c002000240028001c000000010000000100000002000000010000000100000001000000980100008c0000000800000004020000010000000c00000008000c0004000800080000001c0000000400000010000000770480cb6e9b4538ac2a17ec28bb255e150000006172656e615f676f626c696e54525f6d7564706974000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

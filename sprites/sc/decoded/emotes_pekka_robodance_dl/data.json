@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_pekka_robodance_dl.sc",
+  "original_stem": "emotes_pekka_robodance_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000006d70d184576cee637b3d4d470889ae09e1e5ba941c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000e00000003000000010000007cdd0000e053030008000000ac9f0000020000003c00000004000000d4ffffff1c000000040000001000000066d870765aa84bc7890b4ff062ab9d7a0500000069636f6e3100000008000c0004000800080000001c0000000400000010000000c60182c68fb84f83b02b90431fc4ac2a06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

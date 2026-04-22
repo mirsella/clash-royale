@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_golden_clashoween.sc",
+  "original_stem": "ui_arena_icon_golden_clashoween",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000d284a8098e6b0b62fc4e14a1002cf37dc7a85e7f1c002c00040008000c00100014001800000000001c002000240028001c0000000100000001000000040000000400000001000000010000000c0e00006c07000008000000f0050000010000000c00000008000c0004000800080000001c000000040000001000000055634ae002e94c0da2dd5ca85536b061120000006172656e615f636c6173685f6f5f7765656e0000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

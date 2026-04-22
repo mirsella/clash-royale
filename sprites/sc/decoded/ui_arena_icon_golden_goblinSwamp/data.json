@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_golden_goblinSwamp.sc",
+  "original_stem": "ui_arena_icon_golden_goblinSwamp",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000079c26addc8b5c4b8839d66016b760dc6d9961e541c002c00040008000c00100014001800000000001c002000240028001c000000010000000100000006000000040000000100000001000000c80b01000c4a0000080000009c3c0000010000000c00000008000c0004000800080000001c0000000400000010000000c48b28aa4dd34076a871176fa6952d25120000006172656e615f676f626c696e5f7377616d700000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

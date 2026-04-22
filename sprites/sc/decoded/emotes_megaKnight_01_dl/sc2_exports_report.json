@@ -1,0 +1,12 @@
+{
+  "exports_found": 6,
+  "exports_rendered": 4,
+  "frames_rendered": 4,
+  "sc": "emotes_megaKnight_01_dl.sc",
+  "skipped_empty": [
+    "emote2",
+    "emote1"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/emotes_megaKnight_01_dl"
+}

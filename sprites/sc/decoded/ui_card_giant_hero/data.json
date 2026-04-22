@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_card_giant_hero.sc",
+  "original_stem": "ui_card_giant_hero",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000f11a6563baaf7c4a17d2b806f02650274f2f678f1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000a80000007400000008000000f4000000010000000c00000008000c0004000800080000001c000000040000001000000062fd1ce6de3645298e7fc2697c7e5a000f0000006769616e745f6865726f5f6361726400",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

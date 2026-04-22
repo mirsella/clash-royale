@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_heroessummit.sc",
+  "original_stem": "ui_arena_icon_heroessummit",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000004f63fdb6611b8f06747c2e09fe3fa6deeed611e51c002c00040008000c00100014001800000000001c002000240028001c00000001000000010000000b0000000900000001000000010000005c360500c44e000008000000702d0100020000005400000004000000bcffffff1c00000004000000100000009cf2878fd6b64d4a86a6101bdc7ecd4c1f0000006172656e615f6865726f69635f6368726973746d61735f706f6c5f69636f6e0008000c0004000800080000001c000000040000001000000007846858b2534f59a6f38da8b6e79ddd1b0000006172656e615f6865726f69635f6368726973746d61735f69636f6e00",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

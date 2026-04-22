@@ -1,0 +1,11 @@
+{
+  "exports_found": 80,
+  "exports_rendered": 79,
+  "frames_rendered": 79,
+  "sc": "building_cannon_evolution.sc",
+  "skipped_empty": [
+    "evo_cannon_trail1"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/building_cannon_evolution"
+}

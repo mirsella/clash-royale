@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_healspirit_jellydance_dl.sc",
+  "original_stem": "emotes_healspirit_jellydance_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000c255e6f773c89e2e87ef7bf271f640517d898f851c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000120000000200000001000000fc2c0100d09d050008000000e8da0000020000003c00000004000000d4ffffff1c00000004000000100000007f28f948ef9245808aa66e2ed111bf650500000069636f6e3100000008000c0004000800080000001c000000040000001000000024c85027d06643ada6a0dc44e796f79306000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

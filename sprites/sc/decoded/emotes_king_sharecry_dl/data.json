@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_king_sharecry_dl.sc",
+  "original_stem": "emotes_king_sharecry_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000793a1fff10a41bcc45fc301dfd5b3c80ffcc330a1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000130000000200000001000000a89900009033040008000000f09e0000020000003c00000004000000d4ffffff1c00000004000000100000003655c5dd0c614cd68874b5c90e217e1a0500000069636f6e3100000008000c0004000800080000001c000000040000001000000006295eec7bbc4fcf960df4a855da2e1d06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

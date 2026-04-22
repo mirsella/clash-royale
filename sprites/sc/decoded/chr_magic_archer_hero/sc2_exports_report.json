@@ -1,0 +1,22 @@
+{
+  "exports_found": 44,
+  "exports_rendered": 32,
+  "frames_rendered": 32,
+  "sc": "chr_magic_archer_hero.sc",
+  "skipped_empty": [
+    "vmc_magicarcher_hero_atk_hit_geometry_02",
+    "vmc_magicarcher_hero_atk_hit_geometry_01",
+    "vmc_magicarcher_hero_meta_idlebreak_ring",
+    "vmc_magicarcher_hero_meta_intro_03_ring",
+    "vmc_magicarcher_hero_ability_warp_smoke",
+    "vmc_magicarcher_hero_ability_warp_trail",
+    "vmc_magicarcher_hero_atk_hit_geometry_03",
+    "vmc_magicarcher_hero_atk_smoke",
+    "vmc_magicarcher_hero_meta_intro_03_geometry_01",
+    "vmc_magicarcher_hero_meta_intro_03_geometry_02",
+    "vmc_magicarcher_hero_meta_intro_03_geometry_03",
+    "vmc_magicarcher_hero_smoke_green"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_magic_archer_hero"
+}

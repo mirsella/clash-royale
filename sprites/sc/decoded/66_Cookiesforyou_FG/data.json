@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "66_Cookiesforyou_FG.sc",
+  "original_stem": "66_Cookiesforyou_FG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000506eb6458a1a52bd70ea5dc18ae860075d7fefdc1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000d4000000003b06000800000044420100010000000c00000008000c0004000800080000001c000000040000001000000020e5b1ebaf994d7c93e36f4abb0593d30900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

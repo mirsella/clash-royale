@@ -1,0 +1,11 @@
+{
+  "exports_found": 155,
+  "exports_rendered": 154,
+  "frames_rendered": 154,
+  "sc": "chr_royal_chef.sc",
+  "skipped_empty": [
+    "Royal_Chef_pancake_export"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_royal_chef"
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_crazy_arena_ingame.sc",
+  "original_stem": "ui_crazy_arena_ingame",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000e78077c8739326e3c7d971c71250f5479804ce551c002c00040008000c00100014001800000000001c002000240028001c000000010000000100000003000000030000000100000001000000f80d0000a80800000800000078050000020000004000000004000000d0ffffff1c0000000400000010000000b48bed26c24e444d87582847faae771c0a00000069636f6e5f636c6f636b000008000c0004000800080000001c0000000400000010000000a2bbd23ed7fd4ddfbc870e803f43cc071400000062675f6d6f6469666965725f73656c6563746f7200000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

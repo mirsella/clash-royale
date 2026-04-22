@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_babydragonevo_facelick_dl.sc",
+  "original_stem": "emotes_babydragonevo_facelick_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000000db552aa55053932c7ea18f02b22fa0e74a76afd1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000150000000200000001000000401001005000050008000000ace60000020000003c00000004000000d4ffffff1c00000004000000100000009550416cccf348b9af51191db9883bc00500000069636f6e3100000008000c0004000800080000001c00000004000000100000009a73d3c2e62b4bf3bec34d8f94776d0c06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

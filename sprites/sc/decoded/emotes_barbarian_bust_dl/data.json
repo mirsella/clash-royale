@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_barbarian_bust_dl.sc",
+  "original_stem": "emotes_barbarian_bust_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000c2ac9afda7077e2e8270b3f1017ca296a8cccbd41c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000300000002000000010000002c160000103f01000800000008570000020000003c00000004000000d4ffffff1c0000000400000010000000c381044bd62b49f79f80f3c54bafaba70500000069636f6e3100000008000c0004000800080000001c000000040000001000000093b842519f214516ba9f7ef838ffa6cd06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "thumb_vfx_grand_warden_T2_soapman.sc",
+  "original_stem": "thumb_vfx_grand_warden_T2_soapman",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000dff91eab080ff99bf5aae071fa634cdfb046b9a61c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000bc0000007c00000008000000f8000000010000000c00000008000c0004000800080000001c000000040000001000000081798102c29b4521ae1a07b62dd9191d210000007468756d625f7666785f6772616e645f77617264656e5f54325f736f61706d616e000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

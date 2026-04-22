@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_king_chessthink_dl.sc",
+  "original_stem": "emotes_king_chessthink_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000363546fa500ca48695f7074141f9e4f747e4990d1c002800040008000c001000140000000000000018001c00200024001c000000010000000100000013000000020000000100000078ab000050fc030008000000047d0000020000003c00000004000000d4ffffff1c0000000400000010000000d36d8083fb844103b5d32ee386f9ace40500000069636f6e3100000008000c0004000800080000001c000000040000001000000004a0ca4edb7f407dadd583f3fbd6a9b906000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

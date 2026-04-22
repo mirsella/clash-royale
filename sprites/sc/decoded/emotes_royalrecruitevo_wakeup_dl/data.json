@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_royalrecruitevo_wakeup_dl.sc",
+  "original_stem": "emotes_royalrecruitevo_wakeup_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000002f1c56a1805a2259f76fcd1cbfd0c5922c674f2e1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000c00000003000000010000009c6a00001078040008000000d4a40000020000003c00000004000000d4ffffff1c000000040000001000000067411dc1a3b94e0b99c565341a9ab3a90500000069636f6e3100000008000c0004000800080000001c00000004000000100000003b46ec28a97540fb85da2e8a805ee86506000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

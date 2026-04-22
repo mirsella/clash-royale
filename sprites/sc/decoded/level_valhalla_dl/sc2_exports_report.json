@@ -1,0 +1,11 @@
+{
+  "exports_found": 10,
+  "exports_rendered": 9,
+  "frames_rendered": 9,
+  "sc": "level_valhalla_dl.sc",
+  "skipped_empty": [
+    "valhalla_arena_godray_L"
+  ],
+  "textures_resolved": 2,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/level_valhalla_dl"
+}

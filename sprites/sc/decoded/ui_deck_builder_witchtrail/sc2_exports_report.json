@@ -1,0 +1,16 @@
+{
+  "exports_found": 32,
+  "exports_rendered": 26,
+  "frames_rendered": 26,
+  "sc": "ui_deck_builder_witchtrail.sc",
+  "skipped_empty": [
+    "card_evolution_slot_v2",
+    "card_hero_slot",
+    "card_flex_slot",
+    "card_evolution_slot",
+    "card_evolution_slot_event",
+    "collection_card_size"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/ui_deck_builder_witchtrail"
+}

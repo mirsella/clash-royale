@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_dragonest.sc",
+  "original_stem": "ui_arena_icon_dragonest",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000002b4fefcfc3ae88c362e8853e18a33af9a0dbdedd1c002c00040008000c00100014001800000000001c002000240028001c000000010000000100000019000000050000000100000001000000a09503009cf50000080000004cb20000020000005000000004000000c0ffffff1c00000004000000100000001b78351daf9e4a22925a1627deaed202180000006172656e615f647261676f6e6573745f706f6c5f69636f6e0000000008000c0004000800080000001c0000000400000010000000af6be09af4a44770a694973a23016316140000006172656e615f647261676f6e6573745f69636f6e00000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

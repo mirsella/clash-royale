@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "level_lumberlove_arena.sc",
+  "original_stem": "level_lumberlove_arena",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000008a815f64b577c16cbf29f692aec62cb7fda4c9111c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000040000000300000001000000501f000048ba0a0008000000584e0a00020000004800000004000000c8ffffff1c00000004000000100000000d692f9ed13d4b129fcff9bbd9e7635f130000006c756d6265726c6f76655f626173655f3276320008000c0004000800080000001c0000000400000010000000f6e0440e7d024ec6b1d77524cc7a87a5120000006c756d6265726c6f76655f626173655f30310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "level_lumberlove_arena_000.png",
+      "source": "embedded_ktx",
+      "offset": 11588,
+      "length": 702964,
+      "width": 1575,
+      "height": 1778,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

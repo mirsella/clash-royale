@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_knightevo_arrow_dl.sc",
+  "original_stem": "emotes_knightevo_arrow_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000004e8de119ca2f81ea68612c13a883e58fafed93a61c002800040008000c001000140000000000000018001c00200024001c000000010000000100000016000000050000000100000010ad0000d0a9030008000000509e0000020000003c00000004000000d4ffffff1c00000004000000100000008e2982f9680c4a8d9d9e590842c21e750500000069636f6e3100000008000c0004000800080000001c00000004000000100000009b2cc002ec3b492ba23a0995bde797b306000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

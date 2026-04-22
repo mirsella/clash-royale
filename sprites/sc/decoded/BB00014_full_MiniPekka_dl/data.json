@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "BB00014_full_MiniPekka_dl.sc",
+  "original_stem": "BB00014_full_MiniPekka_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000009cf55f914fcdda5682e1b131ed44388f51ceeeb21c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000200000002000000010000001c0100007818040008000000545a0200020000004000000004000000d0ffffff1c0000000400000010000000c3a4f8338a92474bb997fca0deaf4f8b0900000062616e6e65725f666700000008000c0004000800080000001c00000004000000100000000bb0ddc83a30460b8e9d3b9cec9c6f990900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "BB00014_full_MiniPekka_dl_000.png",
+      "source": "embedded_ktx",
+      "offset": 740,
+      "length": 268324,
+      "width": 806,
+      "height": 1324,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

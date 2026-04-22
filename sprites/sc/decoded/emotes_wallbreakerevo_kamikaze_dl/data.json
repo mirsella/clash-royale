@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_wallbreakerevo_kamikaze_dl.sc",
+  "original_stem": "emotes_wallbreakerevo_kamikaze_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000e84e6b046febd6c27e326afafee13c1b57760cd01c002800040008000c001000140000000000000018001c00200024001c000000010000000100000010000000040000000100000050ab000050a50600080000002c120100020000003c00000004000000d4ffffff1c0000000400000010000000fbf369741a744b3cacf4bfcb064a4b840500000069636f6e3100000008000c0004000800080000001c00000004000000100000000f8b3a77fd3c4936a40353e8b07d0de106000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

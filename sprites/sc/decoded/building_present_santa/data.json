@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "building_present_santa.sc",
+  "original_stem": "building_present_santa",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000053e1fab6fecee12986d53840c930d9677f4e60911c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000200000005000000010000005c1200009822000008000000c821000004000000c800000084000000480000000400000050ffffff1c0000000400000010000000dd432692a9ed4e298bcb86e4c59d29e11800000050726573656e745f53616e74615f49646c655f456e656d790000000090ffffff1c0000000400000010000000615a1b042ed9497f9e9b0e459e3b49421200000050726573656e745f53616e74615f49646c650000c8ffffff1c000000040000001000000006e3ca187f4f46e3b0e2880e5ed8b0ca1300000050726573656e745f53616e74615f456e656d790008000c0004000800080000001c00000004000000100000005f4d178273fc40d2b1cde7f66a6f36ff0d00000050726573656e745f53616e7461000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "building_present_santa_000.png",
+      "source": "embedded_ktx",
+      "offset": 6524,
+      "length": 8772,
+      "width": 134,
+      "height": 252,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "chr_skeleton_balloon.sc",
+  "original_stem": "chr_skeleton_balloon",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000003ecf6fdc7423be323804dabaaf25ca56d49291b61c002800040008000c001000140000000000000018001c00200024001c000000010000000100000006000000100000000100000004ee000098820000080000005070000007000000ac0100005c01000018010000d000000088000000440000000400000078feffff1c00000004000000100000000a27d33f94454cdaac4466b826970ee017000000736b656c65746f6e5f62616c6c6f6f6e5f72756e315f3100b4feffff1c00000004000000100000007fb72f0c8dda47df80a77e41db3765e41b000000736b656c65746f6e5f62616c6c6f6f6e5f7265645f72756e315f3100f4feffff1c0000000400000010000000495f37295fbc46c28a54b8169ca99ea91c000000736b656c65746f6e5f62616c6c6f6f6e5f7265645f69646c65315f310000000038ffffff1c0000000400000010000000bda61156b9e2439aa58c4a5103e57c6f1e000000736b656c65746f6e5f62616c6c6f6f6e5f7265645f61747461636b315f3100007cffffff1c0000000400000010000000cc20d2c11a75402fb38748d60407791518000000736b656c65746f6e5f62616c6c6f6f6e5f69646c65315f3100000000bcffffff1c0000000400000010000000dbd86c0264ce475186720c8ce3aad9021c000000736b656c65746f6e5f62616c6c6f6f6e5f62617272656c5f64726f700000000008000c0004000800080000001c0000000400000010000000615d6b6d66e049e390d8b016a973f72d1a000000736b656c65746f6e5f62616c6c6f6f6e5f61747461636b315f310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "chr_skeleton_balloon_000.png",
+      "source": "embedded_ktx",
+      "offset": 84280,
+      "length": 33348,
+      "width": 160,
+      "height": 208,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b0",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37808,
+      "gl_base_internal_format": 6408,
+      "astc_block": "4x4",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

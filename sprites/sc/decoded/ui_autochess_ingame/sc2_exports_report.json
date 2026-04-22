@@ -1,0 +1,12 @@
+{
+  "exports_found": 144,
+  "exports_rendered": 142,
+  "frames_rendered": 142,
+  "sc": "ui_autochess_ingame.sc",
+  "skipped_empty": [
+    "vfx_augment_light_burst",
+    "item_player_bg_highlight_anim"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/ui_autochess_ingame"
+}

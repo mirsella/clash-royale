@@ -1,0 +1,11 @@
+{
+  "exports_found": 49,
+  "exports_rendered": 48,
+  "frames_rendered": 48,
+  "sc": "spell_vine.sc",
+  "skipped_empty": [
+    "vfx_sprouts_1"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/spell_vine"
+}

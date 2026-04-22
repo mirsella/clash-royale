@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ac_ruler_grand_warden_recolor_white.sc",
+  "original_stem": "ac_ruler_grand_warden_recolor_white",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000009fd3758e106a814f79dafddc1b4d7bc1f2296a041c002c00040008000c00100014001800000000001c002000240028001c00000001000000010000000200000002000000010000000100000090010000b400000008000000c0010000020000005c00000004000000b4ffffff1c00000004000000100000009b717a655e6d49289dfcac6d17528c1e260000007468756d625f72756c65725f6772616e645f77617264656e5f7265636f6c6f725f7768697465000008000c0004000800080000001c0000000400000010000000539e7105261b4e0992f04562e38425e82a00000061635f72756c65725f696e67616d655f6772616e645f77617264656e5f7265636f6c6f725f77686974650000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

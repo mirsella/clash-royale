@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "kind": "sctx",
+  "original_file_name": "ui_season_popup_0.sctx",
+  "original_stem": "ui_season_popup_0",
+  "source_backup": "original.sctx",
+  "texture": "ui_season_popup_0.png",
+  "type": "RGBA8Unorm",
+  "type_enum": 70,
+  "width": 472,
+  "height": 608,
+  "generate_mip_maps": false,
+  "mip_count": 1,
+  "unknown_flag": false,
+  "unknown_flag_1": true,
+  "compressed": true,
+  "streaming": {
+    "ids": [
+      3
+    ],
+    "textures": [
+      {
+        "texture": "ui_season_popup_0_variant_0.png",
+        "type": "RGBA8Unorm",
+        "type_enum": 70,
+        "width": 59,
+        "height": 76
+      }
+    ]
+  },
+  "container": {
+    "identifier": "SCTX",
+    "compressed": true,
+    "payload_encoding": "zstd",
+    "use_padding": false,
+    "unk1": 0,
+    "unk3": 0,
+    "unk5": 0,
+    "unk6": 0,
+    "flags": 5,
+    "texture_length": 1147904,
+    "root_chunk_length": 18076,
+    "mipmaps_chunk_length": 44,
+    "data_offset": 18128
+  },
+  "mip_levels": [
+    {
+      "index": 0,
+      "width": 472,
+      "height": 608,
+      "offset": 0,
+      "length": 1147904,
+      "hash_hex": "ff447dc29e72f8a4"
+    }
+  ]
+}

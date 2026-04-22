@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ability_icon_wizard.sc",
+  "original_stem": "ability_icon_wizard",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000003497d7ad9fc47c73b62cfa320dd167541eb873c41c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000100000003000000010000004801000038010000080000007c010000010000000c00000008000c0004000800080000001c00000004000000100000002fa9b504d39e4bb98fad7d995ee9aea7130000006162696c6974795f69636f6e5f77697a61726400",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_barbarian_clasharamapecs_dl.sc",
+  "original_stem": "emotes_barbarian_clasharamapecs_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000009173478af6ab2321cf3d510d180b81617aad40c81c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000c0000000200000001000000c0340000a03a020008000000304d0000020000003c00000004000000d4ffffff1c0000000400000010000000cf2697dc066d4b02a225000d1179d0880500000069636f6e3100000008000c0004000800080000001c0000000400000010000000f576fc22ce0b4c2db9225d0a3f36732406000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_ultimateclash_PoL.sc",
+  "original_stem": "ui_arena_icon_ultimateclash_PoL",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000004f6e14b58e8abf7322b6356def0e280a03809d911c002c00040008000c00100014001800000000001c002000240028001c000000010000000100000002000000010000000100000001000000a00100008c0000000800000008020000010000000c00000008000c0004000800080000001c000000040000001000000095131949ee774c3e95d9fa446f45623b1c0000006172656e615f756c74696d617465636c6173685f69636f6e5f706f6c00000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

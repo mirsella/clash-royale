@@ -1,0 +1,12 @@
+{
+  "exports_found": 158,
+  "exports_rendered": 156,
+  "frames_rendered": 156,
+  "sc": "chr_royal_hog_evolution.sc",
+  "skipped_empty": [
+    "vmc_royal_hog_fly_evo_step",
+    "vmc_royal_hog_fly_evo_step_above"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_royal_hog_evolution"
+}

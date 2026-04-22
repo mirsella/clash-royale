@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "BB00106_bg_barbarian_pixel3D_dl.sc",
+  "original_stem": "BB00106_bg_barbarian_pixel3D_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000fcc0bdee5ce4e2bd64c824dc60dbe74b6ba99a9c1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000a400000030ab1a0008000000cc3d0400010000000c00000008000c0004000800080000001c000000040000001000000099ed524b9b894d8ab3d45260a60eb7b00900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

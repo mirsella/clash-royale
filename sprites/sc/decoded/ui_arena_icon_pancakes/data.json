@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_pancakes.sc",
+  "original_stem": "ui_arena_icon_pancakes",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000ac3a9c4adc2e03ee45c68ab21c3feea1508aa3d41c002c00040008000c00100014001800000000001c002000240028001c0000000100000001000000050000000600000001000000010000007c8a0000d42a0000080000007c350000010000000c00000008000c0004000800080000001c00000004000000100000006c4076b4beb04e37b8f959e3dd9c29da0e0000006172656e615f70616e63616b65730000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

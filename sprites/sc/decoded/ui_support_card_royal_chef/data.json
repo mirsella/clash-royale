@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_support_card_royal_chef.sc",
+  "original_stem": "ui_support_card_royal_chef",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000f6391e26469d7112b8a5ea655415ce23cf929c2a1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000b00000007400000008000000f4000000010000000c00000008000c0004000800080000001c0000000400000010000000250645d428a34d49aee192170e37465017000000737570706f72745f636172645f726f79616c5f6368656600",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_chef_fooddelivery_dl.sc",
+  "original_stem": "emotes_chef_fooddelivery_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000470b9e6aef4078a6b94fdd91ffd0bdcf2d4ff3f61c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000b0000000200000001000000808e000050350500080000000c9f0000020000003c00000004000000d4ffffff1c000000040000001000000023319fa89d7c461293f1d9f9dfce79780500000069636f6e3100000008000c0004000800080000001c0000000400000010000000f193a2cc316849238f06078bd2c8547906000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

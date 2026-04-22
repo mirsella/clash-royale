@@ -1,0 +1,11 @@
+{
+  "exports_found": 58,
+  "exports_rendered": 57,
+  "frames_rendered": 57,
+  "sc": "chr_valkyrie_evolution.sc",
+  "skipped_empty": [
+    "Valkyrie_Evolution_whirl_fx"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_valkyrie_evolution"
+}

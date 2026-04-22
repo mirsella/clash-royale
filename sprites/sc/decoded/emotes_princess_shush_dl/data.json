@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_princess_shush_dl.sc",
+  "original_stem": "emotes_princess_shush_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000d911d5fb6c7a9dc0f5b42992508b3200fbbce69b1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000100000000200000001000000a49500003022040008000000388d0000020000003c00000004000000d4ffffff1c000000040000001000000030082ac21be642369dc8a0b0033bca8f0500000069636f6e3100000008000c0004000800080000001c0000000400000010000000f40026ddbd06417093ad19bb40311cba06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_graveyardkid.sc",
+  "original_stem": "ui_arena_icon_graveyardkid",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000004562586144ee74eff34c892569bcd981214f6c121c002c00040008000c00100014001800000000001c002000240028001c00000001000000010000000600000005000000010000000200000034dd0100287f000008000000c8460000020000005000000004000000c0ffffff1c0000000400000010000000ae8d69940ac84944a915573bae58d7ba1b0000006172656e615f6772617665796172646b69645f706f6c5f69636f6e0008000c0004000800080000001c00000004000000100000000e811ee892244e98b27c96246b060c0e170000006172656e615f6772617665796172646b69645f69636f6e00",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

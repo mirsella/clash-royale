@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "XT_SquadGoblinChase_FG.sc",
+  "original_stem": "XT_SquadGoblinChase_FG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000058ab5ac2f3010ba95a34ce375cc181b0f588cfdf1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000d400000010090a0008000000988d0100010000000c00000008000c0004000800080000001c0000000400000010000000e5f5b0144cff4eef9db35a75e97b4f5f0900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

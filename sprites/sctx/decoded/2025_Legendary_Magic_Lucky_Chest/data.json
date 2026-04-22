@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "kind": "sctx",
+  "original_file_name": "2025_Legendary_Magic_Lucky_Chest.sctx",
+  "original_stem": "2025_Legendary_Magic_Lucky_Chest",
+  "source_backup": "original.sctx",
+  "texture": "2025_Legendary_Magic_Lucky_Chest.png",
+  "type": "RGBA8Unorm",
+  "type_enum": 70,
+  "width": 3072,
+  "height": 3968,
+  "generate_mip_maps": false,
+  "mip_count": 1,
+  "unknown_flag": false,
+  "unknown_flag_1": true,
+  "compressed": true,
+  "streaming": {
+    "ids": [
+      3
+    ],
+    "textures": [
+      {
+        "texture": "2025_Legendary_Magic_Lucky_Chest_variant_0.png",
+        "type": "RGBA8Unorm",
+        "type_enum": 70,
+        "width": 384,
+        "height": 496
+      }
+    ]
+  },
+  "container": {
+    "identifier": "SCTX",
+    "compressed": true,
+    "payload_encoding": "zstd",
+    "use_padding": false,
+    "unk1": 0,
+    "unk3": 0,
+    "unk5": 0,
+    "unk6": 0,
+    "flags": 5,
+    "texture_length": 48758784,
+    "root_chunk_length": 761996,
+    "mipmaps_chunk_length": 44,
+    "data_offset": 762048
+  },
+  "mip_levels": [
+    {
+      "index": 0,
+      "width": 3072,
+      "height": 3968,
+      "offset": 0,
+      "length": 48758784,
+      "hash_hex": "06d29498268845a5"
+    }
+  ]
+}

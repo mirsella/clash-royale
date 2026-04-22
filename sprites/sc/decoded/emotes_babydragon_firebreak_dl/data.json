@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_babydragon_firebreak_dl.sc",
+  "original_stem": "emotes_babydragon_firebreak_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000047e673cdb83d75ebedee4a2ca2084772cf6b59291c002800040008000c001000140000000000000018001c00200024001c00000001000000010000001600000005000000010000004086000000a406000800000094f80000020000003c00000004000000d4ffffff1c0000000400000010000000bcd58e5f4389443291086874bf71eb630500000069636f6e3100000008000c0004000800080000001c00000004000000100000004f30c501d9844c9fbff0c1730659924d06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

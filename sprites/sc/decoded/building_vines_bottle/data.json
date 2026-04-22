@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "building_vines_bottle.sc",
+  "original_stem": "building_vines_bottle",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000b23bd3f1fd6f72e43ca379304682e687eb31afe41c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000a0000000300000001000000ac180000d8240000080000006c260000020000004800000004000000c8ffffff1c000000040000001000000097af811558d649dcba1b7e7af18ad5091000000076696e65735f626f74746c655f6e65770000000008000c0004000800080000001c000000040000001000000066fe7b8fc47c45d39bfb0c86f161b2021100000076696e65735f626f74746c655f66616c6c000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "building_vines_bottle_000.png",
+      "source": "embedded_ktx",
+      "offset": 8232,
+      "length": 9348,
+      "width": 156,
+      "height": 230,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

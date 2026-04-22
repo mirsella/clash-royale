@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_infernodragonevo_crownmelt_dl.sc",
+  "original_stem": "emotes_infernodragonevo_crownmelt_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000002487102f5b86ac817ea8ca3407a00f09ce8df78e1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000001700000007000000010000004c6b0000501906000800000030db0000020000003c00000004000000d4ffffff1c000000040000001000000003a6d3c6fc7c44709d8c45c01408d1370500000069636f6e3100000008000c0004000800080000001c00000004000000100000002f863454f0f14efa85da24cb18f620f406000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

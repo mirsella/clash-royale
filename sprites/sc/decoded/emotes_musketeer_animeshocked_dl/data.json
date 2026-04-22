@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_musketeer_animeshocked_dl.sc",
+  "original_stem": "emotes_musketeer_animeshocked_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000230ed5b27fa7ba5f4ee441b315a21b7f085d58061c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000140000000400000001000000a09a000090b903000800000004a00000020000003c00000004000000d4ffffff1c0000000400000010000000a62259577b384d2ab50c703050f70abb0500000069636f6e3100000008000c0004000800080000001c000000040000001000000056bac46b643f47009dab738166cd9bd206000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

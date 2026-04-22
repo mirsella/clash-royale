@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_blacksmith_biglaugh_dl.sc",
+  "original_stem": "emotes_blacksmith_biglaugh_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000081fadd3615aa565b3dfb77ed91e9815fcfac34ec1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000900000002000000010000002071000050d4030008000000d4780000020000003c00000004000000d4ffffff1c00000004000000100000005bd673f8e253457397ee3410ac8436990500000069636f6e3100000008000c0004000800080000001c0000000400000010000000bb1058933e6c4bb6bfe87658d87686b806000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_wizardevo_superflame_dl.sc",
+  "original_stem": "emotes_wizardevo_superflame_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000f86a45b5f37615c172b7fb9cb055d48971a53d601c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000180000000300000001000000847d00009008080008000000a8010100020000003c00000004000000d4ffffff1c000000040000001000000002181c92f1bb4790b448ff7208b56f760500000069636f6e3100000008000c0004000800080000001c000000040000001000000038b02b4cdb2b4f27ba6c945f0f5639a106000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

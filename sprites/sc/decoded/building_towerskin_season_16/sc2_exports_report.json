@@ -1,0 +1,11 @@
+{
+  "exports_found": 5,
+  "exports_rendered": 4,
+  "frames_rendered": 4,
+  "sc": "building_towerskin_season_16.sc",
+  "skipped_empty": [
+    "atlasgenerator_texture_rgba5656"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/building_towerskin_season_16"
+}

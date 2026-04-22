@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_golden_littleprince.sc",
+  "original_stem": "ui_arena_icon_golden_littleprince",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000001c0a8402050f8bbd3859bac4490d7cc5a355fa521c002c00040008000c00100014001800000000001c002000240028001c000000010000000100000007000000040000000100000001000000a00a00006408000008000000fc040000010000000c00000008000c0004000800080000001c00000004000000100000003285d054426f4f879070995682c4971a120000006172656e615f6c6974746c657072696e63650000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

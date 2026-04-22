@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "thumb_vfx_king_T3_levelup_03.sc",
+  "original_stem": "thumb_vfx_king_T3_levelup_03",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000003f14812e61ad6177049644007a5b15ed8816bbaa1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000b80000007400000008000000f0000000010000000c00000008000c0004000800080000001c0000000400000010000000fe78a3f602af4d8098b72c53fea7af8b1c0000007468756d625f7666785f6b696e675f54335f6c6576656c75705f303300000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

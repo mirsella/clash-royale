@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "FolkBandPlayFG_dl.sc",
+  "original_stem": "FolkBandPlayFG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000029caa9e8dda5bcce3e918804aaf1726b88df50181c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000c8000000209312000800000028060400010000000c00000008000c0004000800080000001c0000000400000010000000d0a1ad7a10b14066922fd928de65fee30900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

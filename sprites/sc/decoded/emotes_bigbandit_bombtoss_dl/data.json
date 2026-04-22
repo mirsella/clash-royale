@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_bigbandit_bombtoss_dl.sc",
+  "original_stem": "emotes_bigbandit_bombtoss_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000086c6648e080159c0c511758c0bdfe0c5329a47f21c002800040008000c001000140000000000000018001c00200024001c00000001000000010000001000000003000000010000005ca00000f08c04000800000028b90000020000003c00000004000000d4ffffff1c0000000400000010000000ea4656488e83421dad37137725b645ce0500000069636f6e3100000008000c0004000800080000001c0000000400000010000000ad9e04fed1ad43e59df10d825a53a61306000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

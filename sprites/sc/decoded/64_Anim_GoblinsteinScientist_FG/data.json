@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "64_Anim_GoblinsteinScientist_FG.sc",
+  "original_stem": "64_Anim_GoblinsteinScientist_FG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000055d702f1b82911df887cb935fae531be1b78e1201c002800040008000c001000140000000000000018001c00200024001c00000001000000010000001c0000000400000001000000e4610000d00b3f000800000068900600010000000c00000008000c0004000800080000001c0000000400000010000000528fb123bb374865a7ef2d2f0d8ce9a70900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

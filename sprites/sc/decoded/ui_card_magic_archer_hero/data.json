@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_card_magic_archer_hero.sc",
+  "original_stem": "ui_card_magic_archer_hero",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000a8d4d9eda487d3036158516d4a4439e7d0a17d6a1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000e0000000740000000800000034010000010000000c00000008000c0004000800080000001c00000004000000100000007f55ce308f38471186142e687ea4fd40160000006d616769635f6172636865725f6865726f5f636172640000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

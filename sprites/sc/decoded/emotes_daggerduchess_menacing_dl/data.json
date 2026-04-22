@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_daggerduchess_menacing_dl.sc",
+  "original_stem": "emotes_daggerduchess_menacing_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000000ea3af33042bce46a78504a899f84695b719938c1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000d000000020000000100000068510000504005000800000050a20000020000003c00000004000000d4ffffff1c0000000400000010000000d7af7de714244c38845268d267ab59410500000069636f6e3100000008000c0004000800080000001c00000004000000100000009a139995eb9246d2bc87f3209dd273f606000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

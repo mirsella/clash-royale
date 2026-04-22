@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "Chibi_LGBTQ_Couple_FG_dl.sc",
+  "original_stem": "Chibi_LGBTQ_Couple_FG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000004f8cab30e0a2ac8877ae8c314843c9718fe2ac2d1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000d4000000f07418000800000094b60300010000000c00000008000c0004000800080000001c0000000400000010000000d9c594fd721945c6a75040dad2cd1ab40900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

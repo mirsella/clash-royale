@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_ability_button.sc",
+  "original_stem": "ui_ability_button",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000021cdd42673e79aff90ab9f1d4065dd02ba2bab791c002c00040008000c00100014001800000000001c002000240028001c00000001000000010000000a00000013000000010000000600000050230000f80a000008000000780e0000010000000c00000008000c0004000800080000001c0000000400000010000000ad74b63bcc5144c18aee284de1005a6a150000006162696c6974795f696e67616d655f627574746f6e000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

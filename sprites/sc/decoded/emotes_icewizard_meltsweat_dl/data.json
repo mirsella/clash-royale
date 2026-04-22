@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_icewizard_meltsweat_dl.sc",
+  "original_stem": "emotes_icewizard_meltsweat_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000004992accc2137ce92831efb720b50a008cde421c81c002800040008000c001000140000000000000018001c00200024001c000000010000000100000012000000020000000100000048fb0000209103000800000070ab0000020000003c00000004000000d4ffffff1c0000000400000010000000fca4d99d8b1c4ecd829148ddc05562030500000069636f6e3100000008000c0004000800080000001c00000004000000100000002463f0e8c7984f0b8e196cca1f5f6d2806000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "56_ArcherMagicArrow_FG.sc",
+  "original_stem": "56_ArcherMagicArrow_FG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000004ee5b65f1cec96c24b52c28815bb7cf8f6491de21c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000d4000000508d180008000000b8710400010000000c00000008000c0004000800080000001c0000000400000010000000e1483d6b0a62400388dfdd2f4eeaf0d80900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

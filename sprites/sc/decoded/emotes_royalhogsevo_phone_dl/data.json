@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_royalhogsevo_phone_dl.sc",
+  "original_stem": "emotes_royalhogsevo_phone_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000007e114a721e73c62a11a8bea006a6486e31eed07c1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000050000000200000001000000b4360000504f0300080000002c7a0000020000003c00000004000000d4ffffff1c000000040000001000000030c75887ec9645c08878e9e99d9116200500000069636f6e3100000008000c0004000800080000001c0000000400000010000000f7f364837da64c61ba658bcc9e1a28ab06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

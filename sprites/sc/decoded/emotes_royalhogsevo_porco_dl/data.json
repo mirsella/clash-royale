@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_royalhogsevo_porco_dl.sc",
+  "original_stem": "emotes_royalhogsevo_porco_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000003361e4d97d8fcabdaf5cd337ac58a45ad6d761311c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000c000000020000000100000098e00000d0d0030008000000b09e0000020000003c00000004000000d4ffffff1c00000004000000100000008e49d80c65a942f8a32f16e1671d8e540500000069636f6e3100000008000c0004000800080000001c00000004000000100000003a7410af19d447f287d7aa91f6e27b5506000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_LNY_2021_03_dl.sc",
+  "original_stem": "emotes_LNY_2021_03_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000b189121b9f04c81264f784bccaf72016417684fc1c002800040008000c001000140000000000000018001c00200024001c000000010000000100000016000000030000000100000048d80000108f08000800000040740100020000003c00000004000000d4ffffff1c0000000400000010000000ddc2986d8a66472a84fc5b7646101a9f0500000069636f6e3100000008000c0004000800080000001c00000004000000100000002c20e8dee76f450bbe2e7c82660ee5b106000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

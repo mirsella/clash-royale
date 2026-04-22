@@ -1,0 +1,17 @@
+{
+  "exports_found": 40,
+  "exports_rendered": 33,
+  "frames_rendered": 33,
+  "sc": "chr_goblins_hero.sc",
+  "skipped_empty": [
+    "vmc_goblins_hero_deploy_pattern",
+    "vmc_goblins_hero_backup_deploy_addglow",
+    "vmc_goblins_hero_banner_break_backglow_blue",
+    "vmc_goblins_hero_special_death_smoke",
+    "vmc_goblins_hero_banner_break_smoke_red",
+    "vmc_goblins_hero_banner_break_smoke_blue",
+    "vmc_goblins_hero_banner_break_backglow_red"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_goblins_hero"
+}

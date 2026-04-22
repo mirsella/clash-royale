@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_card_royal_hogs_evolution.sc",
+  "original_stem": "ui_card_royal_hogs_evolution",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000008b7e5981004ef5f4a476749a38e737f15beb06341c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000b4000000740000000800000000010000010000000c00000008000c0004000800080000001c00000004000000100000007dfcac68a3654baa8effa11b5616720918000000726f79616c5f686f675f65766f6c7574696f6e5f6361726400000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_support_card_knife_thrower.sc",
+  "original_stem": "ui_support_card_knife_thrower",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000fbb868e5aa235e3220f8e489899fc4920f0917231c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000b40000007800000008000000f8000000010000000c00000008000c0004000800080000001c000000040000001000000088774322b0eb4b5b9c07cc84f03579c81a000000737570706f72745f636172645f6b6e6966655f7468726f7765720000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

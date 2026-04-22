@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "BB00064_full_clouds_prince_dl.sc",
+  "original_stem": "BB00064_full_clouds_prince_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000d9aa6f11845434706eb9f2250ef47ab13d40cbc21c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000200000002000000010000001c010000d8ad030008000000bcfa0100020000004000000004000000d0ffffff1c000000040000001000000026320ced44534e73b0c8108036f5cf720900000062616e6e65725f666700000008000c0004000800080000001c0000000400000010000000561e2f230d454e6ab742f092e43b1d170900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "BB00064_full_clouds_prince_dl_000.png",
+      "source": "embedded_ktx",
+      "offset": 740,
+      "length": 241028,
+      "width": 480,
+      "height": 2002,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

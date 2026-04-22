@@ -1,0 +1,20 @@
+{
+  "exports_found": 42,
+  "exports_rendered": 32,
+  "frames_rendered": 32,
+  "sc": "ui_hero_form_reveal.sc",
+  "skipped_empty": [
+    "magic_item_key",
+    "magic_item_coin",
+    "magic_item_book_legendary",
+    "magic_item_book_of_books",
+    "magic_item_book_rare",
+    "magic_item_book_epic",
+    "tap_flash_opening",
+    "reward_item_tower_skin",
+    "magic_item_book_common",
+    "reward_item_emote"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/ui_hero_form_reveal"
+}

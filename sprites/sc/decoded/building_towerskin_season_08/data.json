@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "building_towerskin_season_08.sc",
+  "original_stem": "building_towerskin_season_08",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000003455fbcbc03876950fc833741918c5e26583e6f1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000020000000200000001000000ac010000b837000008000000fc2b0000020000005400000004000000bcffffff1c0000000400000010000000c3779ec02e2c435982ff265d486a002b1c000000736561736f6e5f385f7072696e636573735f6469655f67726f756e640000000008000c0004000800080000001c0000000400000010000000c8cafb7ddc9c43d5a199a6b7787d20d118000000736561736f6e5f385f6b696e675f6469655f67726f756e6400000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "building_towerskin_season_08_000.png",
+      "source": "embedded_ktx",
+      "offset": 884,
+      "length": 14180,
+      "width": 166,
+      "height": 336,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

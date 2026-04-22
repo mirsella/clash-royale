@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_golden_stolencrown.sc",
+  "original_stem": "ui_arena_icon_golden_stolencrown",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000002a24652334b9359e118b38279f349c1e1d5a481e1c002c00040008000c00100014001800000000001c002000240028001c0000000100000001000000030000000200000001000000010000002c020000e4000000080000007c020000020000005000000004000000c0ffffff1c000000040000001000000082ccff1bab24444daeca059650a6a0c51a0000006172656e615f73746f6c656e63726f776e5f706f6c5f69636f6e000008000c0004000800080000001c0000000400000010000000196942adf01a41b58fb6059ec72f164a160000006172656e615f73746f6c656e63726f776e5f69636f6e0000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

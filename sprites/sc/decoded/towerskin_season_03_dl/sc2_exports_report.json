@@ -1,0 +1,12 @@
+{
+  "exports_found": 9,
+  "exports_rendered": 7,
+  "frames_rendered": 7,
+  "sc": "towerskin_season_03_dl.sc",
+  "skipped_empty": [
+    "princesstower_blue_top",
+    "princesstower_red_top"
+  ],
+  "textures_resolved": 2,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/towerskin_season_03_dl"
+}

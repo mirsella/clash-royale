@@ -1,0 +1,18 @@
+{
+  "exports_found": 70,
+  "exports_rendered": 62,
+  "frames_rendered": 62,
+  "sc": "level_boat_arena.sc",
+  "skipped_empty": [
+    "flood_small_wave7",
+    "flood_small_wave5",
+    "flood_small_wave4",
+    "flood_small_wave3",
+    "flood_small_wave2",
+    "flood_small_wave1",
+    "flood_small_wave6",
+    "flood_small_wave8"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/level_boat_arena"
+}

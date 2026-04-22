@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_archer_supersight_dl.sc",
+  "original_stem": "emotes_archer_supersight_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000000f4afb1ab801980642c4f0cb31e768d0f6def4ce1c002800040008000c001000140000000000000018001c00200024001c000000010000000100000013000000030000000100000010e80000904c05000800000018b10000020000003c00000004000000d4ffffff1c0000000400000010000000a8008381654c40ac9803f2df1cc0f6160500000069636f6e3100000008000c0004000800080000001c0000000400000010000000f53440f096164ae0a8e2fbed3a292cf706000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

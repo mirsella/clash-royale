@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_goblin_boohoo_dl.sc",
+  "original_stem": "emotes_goblin_boohoo_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000006298e7b773f1e6997b8cf598159b59a0f0ae80ae1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000001400000003000000010000000c0201005094020008000000dc930000020000003c00000004000000d4ffffff1c0000000400000010000000ae2d77f04eee4810bd585568ac3432a60500000069636f6e3100000008000c0004000800080000001c0000000400000010000000fd1545093d0645b2a92df7092b2b9f5606000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

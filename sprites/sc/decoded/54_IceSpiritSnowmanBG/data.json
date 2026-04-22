@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "54_IceSpiritSnowmanBG.sc",
+  "original_stem": "54_IceSpiritSnowmanBG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000084ee190f4a4354d450de37578b524ac4d0ab95201c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000a40000005012510008000000d8950700010000000c00000008000c0004000800080000001c00000004000000100000000fd7bbfbb80749f7a0684dccb5f54c2f0900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

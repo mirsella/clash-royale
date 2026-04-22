@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_royalhogsevo_flying_dl.sc",
+  "original_stem": "emotes_royalhogsevo_flying_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000cf5aabc66eb0c67d4317d0fc243ef6af53f7b8391c002800040008000c001000140000000000000018001c00200024001c000000010000000100000003000000020000000100000000460000507601000800000020500000020000003c00000004000000d4ffffff1c0000000400000010000000bfa59330d77c404e9105da5be4a6ad3d0500000069636f6e3100000008000c0004000800080000001c00000004000000100000005ce25fbc36ac4241857e39fd10a9d61d06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

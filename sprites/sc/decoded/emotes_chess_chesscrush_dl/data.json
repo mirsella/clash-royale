@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_chess_chesscrush_dl.sc",
+  "original_stem": "emotes_chess_chesscrush_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000008e0b7f92bb20e0a144d52e6533f6794adf0595431c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000e000000020000000100000064440000209103000800000050950000020000003c00000004000000d4ffffff1c0000000400000010000000d692ba9aab5d43408c93b0402d452b5a0500000069636f6e3100000008000c0004000800080000001c000000040000001000000030a0c67e034c4a40bfeac80a7d58144c06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,58 @@
+Clash Royale public asset dump report
+====================================
+
+Package: com.supercell.clashroyale_phone_arm64
+Dump root: .
+
+Excluded non-asset/config content
+-------------------------------
+.assetdbhash
+*.csv
+*.ini
+*.json
+*.number
+*.scdb
+*.toml
+data/
+misc/
+
+Counts
+------
+sc: {"decoded": 1975, "failed": 0, "found": 1975, "modern_exports_rendered": 28758, "modern_frames_rendered": 28758, "modern_parsed": 1842}
+sctx: {"decoded": 296, "failed": 0, "found": 296}
+ktx: {"blocks": {"4x4": 10, "6x6": 526, "8x8": 548}, "decoded": 1122, "failed": 0, "found": 1122, "kinds": {"ktx1": 38, "ktx2": 1084}, "ktx1_internal_formats": {"36196": 38}, "vk_formats": {"157": 9, "158": 1, "165": 515, "166": 11, "171": 363, "172": 185}}
+glb: {"decoded": 1054, "failed": 0, "found": 1054, "missing_texture_refs": {"chr_archer_diff.png": 1, "chr_archer_mra.png": 1, "sc3d/characters/babydragon/materials/chr_wavemaster_skin_dragon_diff.ktx": 1, "sc3d/characters/babydragon/materials/chr_wavemaster_skin_dragon_mra.ktx": 1, "sc3d/characters/skeletondragon/materials/chr_skeletonguard_diff.ktx": 1, "sc3d/characters/skeletondragon/materials/chr_skeletonguard_mra.ktx": 1}, "with_animations": 800, "with_base_color": 206, "with_materials": 253}
+merge: {"animations": 797, "invalid": 0, "merged": 795, "no_rig": 2, "skipped_no_animation": 3}
+previews: {"decoded": 253, "merged": 795, "total": 1048}
+
+Misc buckets
+------------
+audio/bank: 286
+audio/ogg: 558
+fonts/fnt: 1
+fonts/ttf: 6
+images/png: 194
+images/pvr: 38
+materials/rmat: 1079
+shaders/fsh: 1
+shaders/shader: 123
+shaders/vsh: 1
+special/scw: 7
+
+Paths
+-----
+audio: audio
+fonts: fonts
+images: images
+materials: materials
+previews: previews
+sc3d_models_decoded: sc3d/models/decoded
+sc3d_models_merged: sc3d/models/merged
+sc3d_textures_png: sc3d/textures/png
+sc_decoded: supercell_sc/decoded
+sctx_decoded: supercell_sctx/decoded
+shaders: shaders
+special: special
+
+Failures
+--------

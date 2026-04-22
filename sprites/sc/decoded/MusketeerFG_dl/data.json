@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "MusketeerFG_dl.sc",
+  "original_stem": "MusketeerFG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000041fe73167663fb4159685cf89793252e9684b9ac1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000d4000000502109000800000024f30100010000000c00000008000c0004000800080000001c000000040000001000000017942d51ca1544f68f54f17d4f44d9730900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

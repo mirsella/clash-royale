@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_golden_spiritempress.sc",
+  "original_stem": "ui_arena_icon_golden_spiritempress",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000000a0b9c33c62a230e65f36168d80864e053f484d21c002c00040008000c00100014001800000000001c002000240028001c000000010000000100000026000000060000000100000001000000a47f0100c0140000080000005c8d0000020000005400000004000000bcffffff1c00000004000000100000003870c23ef534423e84d088477e063f781c0000006172656e615f737069726974656d70726573735f706f6c5f69636f6e0000000008000c0004000800080000001c0000000400000010000000dcce3694488b406a968fba2e8dec280b180000006172656e615f737069726974656d70726573735f69636f6e00000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

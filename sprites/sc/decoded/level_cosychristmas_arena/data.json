@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "level_cosychristmas_arena.sc",
+  "original_stem": "level_cosychristmas_arena",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000071932560bb0d7aa53df5db8d813d827047b84f0d1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000a0000000d000000010000007c370000d8bc0b0008000000a49609000500000010010000c8000000800000003c000000040000000cffffff1c000000040000001000000075c33012fa714c29ae50374d3c0a07990f0000006d6964646c654172656e61426173650040ffffff1c0000000400000010000000dec8dbbc3b234bf6982106e4f0173a6618000000636f73796368726973746d61735f626173655f7461626c650000000080ffffff1c00000004000000100000002d415a4728a749b5a4c8046845b1320d1c000000636f73796368726973746d61735f626173655f3276325f7461626c6500000000c4ffffff1c000000040000001000000016493dfb5d9d4248b57fab159b57caa616000000636f73796368726973746d61735f626173655f327632000008000c0004000800080000001c0000000400000010000000f85469766eab4fc39f403ecb258d9bcb15000000636f73796368726973746d61735f626173655f3031000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "level_cosychristmas_arena_000.png",
+      "source": "embedded_ktx",
+      "offset": 19192,
+      "length": 769156,
+      "width": 1576,
+      "height": 1948,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

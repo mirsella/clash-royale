@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "70_BeatTheOdds_BG.sc",
+  "original_stem": "70_BeatTheOdds_BG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000000a1ce41dfe5894c8bd278ae23db2fcca79384a671c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000a400000030ab1a0008000000f4a60500010000000c00000008000c0004000800080000001c0000000400000010000000d623137ebd2c4da8bb562f718bdb51f00900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

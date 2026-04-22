@@ -1,0 +1,25 @@
+{
+  "exports_found": 47,
+  "exports_rendered": 32,
+  "frames_rendered": 32,
+  "sc": "vfx_hero_generic.sc",
+  "skipped_empty": [
+    "vmc_hero_artifact_break_glass_gold_02",
+    "vmc_hero_deploy_s_aura",
+    "vmc_hero_artifact_break_glass_white_03",
+    "vmc_hero_artifact_break_def_backglow",
+    "vmc_hero_artifact_break_glass_gold_01",
+    "vmc_hero_artifact_break_glass_gold_03",
+    "vmc_hero_artifact_break_glass_white_01",
+    "vmc_hero_artifact_break_glass_white_02",
+    "vmc_hero_death_smoke",
+    "vmc_hero_deploy_l_aura",
+    "vmc_hero_deploy_l_pattern",
+    "vmc_hero_deploy_m_aura",
+    "vmc_hero_deploy_m_aura_ice",
+    "vmc_hero_deploy_m_pattern",
+    "vmc_hero_deploy_s_pattern"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/vfx_hero_generic"
+}

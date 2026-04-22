@@ -1,0 +1,11 @@
+{
+  "exports_found": 8,
+  "exports_rendered": 7,
+  "frames_rendered": 7,
+  "sc": "building_goblin_hut.sc",
+  "skipped_empty": [
+    "filter_deploy_goblin_hut_rework"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/building_goblin_hut"
+}

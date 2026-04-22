@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_king_belt_dl.sc",
+  "original_stem": "emotes_king_belt_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000008b7c61ea81d93090c051449cde50c48b2de8d54b1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000001a000000020000000100000010d00000d00c05000800000080d50000020000003c00000004000000d4ffffff1c0000000400000010000000c0320314bea548fd8ea85af55bbaa03b0500000069636f6e3100000008000c0004000800080000001c0000000400000010000000491d0206d5b040b78c09f148b3e8721c06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_card_musketeer_hero.sc",
+  "original_stem": "ui_card_musketeer_hero",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000069dcffb96ff9c87920dc7183c94439b5ebc66e751c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000ac0000007400000008000000f8000000010000000c00000008000c0004000800080000001c00000004000000100000001d0a14ddd984436085ceff31055a3c6c130000006d75736b65746565725f6865726f5f6361726400",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

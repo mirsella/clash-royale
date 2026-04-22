@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "CherryblossomOutlawPicnicBG_dl.sc",
+  "original_stem": "CherryblossomOutlawPicnicBG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000dc28a08319509b3d73f93e5f2cffe723e5e28c361c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000a400000030ab1a0008000000b05a0500010000000c00000008000c0004000800080000001c00000004000000100000004121885bd2e146fdb9bed03bb5df0e840900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,15 @@
+{
+  "exports_found": 13,
+  "exports_rendered": 8,
+  "frames_rendered": 8,
+  "sc": "chr_musketeer_hero.sc",
+  "skipped_empty": [
+    "vmc_musketeer_hero_turret_deploy_back",
+    "vmc_musketeer_hero_meta_intro_03_turret_glow",
+    "vmc_musketeer_hero_meta_intro_smoke",
+    "vmc_musketeer_hero_muzzle_ring",
+    "vmc_musketeer_hero_meta_intro_02_02"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_musketeer_hero"
+}

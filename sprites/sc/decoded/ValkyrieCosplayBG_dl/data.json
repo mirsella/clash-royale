@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ValkyrieCosplayBG_dl.sc",
+  "original_stem": "ValkyrieCosplayBG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000600e9a3ddd2b1e63fad0196407edcec7be5634881c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000a400000030ab1a0008000000d8e20100010000000c00000008000c0004000800080000001c00000004000000100000009aed5ae71f3441e19411343fa922f1940900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "thumb_vfx_king_T3_levelup_02_santa.sc",
+  "original_stem": "thumb_vfx_king_T3_levelup_02_santa",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000005f877f3955ad1628bccc78d658fb176aa4a8ae2d1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000bc0000007c00000008000000f8000000010000000c00000008000c0004000800080000001c0000000400000010000000b6fe31a6399c409c84b6f91a4fc5c063220000007468756d625f7666785f6b696e675f54335f6c6576656c75705f30325f73616e74610000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

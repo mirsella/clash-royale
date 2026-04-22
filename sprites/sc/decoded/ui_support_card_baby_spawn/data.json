@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_support_card_baby_spawn.sc",
+  "original_stem": "ui_support_card_baby_spawn",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000c6af164cda11b4ee1daf9e28a9c6e3d63b75ead51c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000b00000007400000008000000f4000000010000000c00000008000c0004000800080000001c000000040000001000000072247dea47bf4a64a08c28eed6270c4b17000000737570706f72745f636172645f626162795f737061776e00",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

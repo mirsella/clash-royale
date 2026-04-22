@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_wizard_67_dl.sc",
+  "original_stem": "emotes_wizard_67_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000dafb77697f86c40e6ccaed6e5a4eb30d321fc5761c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000800000005000000010000003c67000050a80300080000009c9f0000020000003c00000004000000d4ffffff1c00000004000000100000002644849c8a5d427dba491467a562e1760500000069636f6e3100000008000c0004000800080000001c00000004000000100000008bdcd947e23a4b189275c3fd9ca6b33506000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

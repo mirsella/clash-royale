@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_goblin_guitarfire_dl.sc",
+  "original_stem": "emotes_goblin_guitarfire_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000bc64bf80709987827fc17a778efe4d889b5350f81c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000140000000300000001000000fc9d0000308207000800000064050100020000003c00000004000000d4ffffff1c00000004000000100000000f372d8d91854d66bdf4ec9af8721af90500000069636f6e3100000008000c0004000800080000001c00000004000000100000005b5089a7ea024e3da837d06c60e9feab06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "60_CrownFishing_FG.sc",
+  "original_stem": "60_CrownFishing_FG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000b062c19ddc3638e6459639f7f1ce4c8e42249fc51c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000c800000010ea0a0008000000e0df0100010000000c00000008000c0004000800080000001c000000040000001000000001e14f239259464990a21e04b60da5570900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

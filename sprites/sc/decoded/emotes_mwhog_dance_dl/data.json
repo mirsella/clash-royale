@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_mwhog_dance_dl.sc",
+  "original_stem": "emotes_mwhog_dance_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000024fc5130c9ee4c981b461347364c8bcd85977c361c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000100000000200000001000000ac8b000050500300080000008c7f0000020000003c00000004000000d4ffffff1c0000000400000010000000f2d78b5f7a3049998ee3943b9db33e6d0500000069636f6e3100000008000c0004000800080000001c00000004000000100000001ebe739817d34a15a5fc110a5587abb606000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

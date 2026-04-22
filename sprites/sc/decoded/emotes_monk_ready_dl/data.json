@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_monk_ready_dl.sc",
+  "original_stem": "emotes_monk_ready_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000002539e90c54b18184db1cc28984bd0aae554e19431c002800040008000c001000140000000000000018001c00200024001c000000010000000100000010000000020000000100000060ab00008003040008000000e8990000020000003c00000004000000d4ffffff1c0000000400000010000000b984ca3475874b5981958a4b7092a8bd0500000069636f6e3100000008000c0004000800080000001c0000000400000010000000d5629833440b469a8b0e3461fccff2e006000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

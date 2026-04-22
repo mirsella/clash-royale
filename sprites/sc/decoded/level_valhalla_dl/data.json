@@ -1,0 +1,69 @@
+{
+  "schema_version": 2,
+  "original_file_name": "level_valhalla_dl.sc",
+  "original_stem": "level_valhalla_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000450cd98807683e48256116ee436ebcd31a0bbebc1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000080000000a00000002000000e8190000b429450008000000bc431d000a00000044020000fc010000bc0100007c0100003c010000fc000000bc0000007c0000004000000004000000ecfdffff1c0000000400000010000000105b854a526e494b96cafd2e61a0a7621100000076616c68616c6c615f626173655f32763200000024feffff1c000000040000001000000021979f164b874187866f3b591956bfc01000000076616c68616c6c615f626173655f3031000000005cfeffff1c0000000400000010000000007cfc2e8ec54614a950877ee86cb5d61700000076616c68616c6c615f6172656e615f706f7274616c5f520098feffff1c00000004000000100000003e8583d357d144a09619ce70c0b3bb0c1700000076616c68616c6c615f6172656e615f706f7274616c5f4c00d4feffff1c00000004000000100000009c426dfccee74757a5fd57db39ef46611700000076616c68616c6c615f6172656e615f676f647261795f520010ffffff1c0000000400000010000000c3bbd3ce5faf40618d96ca1dfbd848161700000076616c68616c6c615f6172656e615f676f647261795f4c004cffffff1c00000004000000100000002d7ad41288274b259aa0e219140f91f21500000076616c68616c6c615f6172656e615f636c6f75647300000088ffffff1c0000000400000010000000ff7f008f303341d1ab7b33b72e558a5a1700000076616c68616c6c615f6172656e615f636c6f75645f303300c4ffffff1c000000040000001000000019cebc2cdfdd42068d00ccd9b70d84161700000076616c68616c6c615f6172656e615f636c6f75645f30320008000c0004000800080000001c0000000400000010000000975ca28c79be40c3b17d5333e1ef13891700000076616c68616c6c615f6172656e615f636c6f75645f303100",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "level_valhalla_dl_000.png",
+      "source": "embedded_ktx",
+      "offset": 9156,
+      "length": 411604,
+      "width": 708,
+      "height": 2310,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    },
+    {
+      "index": 1,
+      "png_name": "level_valhalla_dl_001.png",
+      "source": "embedded_ktx",
+      "offset": 420812,
+      "length": 4120932,
+      "width": 4044,
+      "height": 4070,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

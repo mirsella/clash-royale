@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_lumberjackevo_loghug_dl.sc",
+  "original_stem": "emotes_lumberjackevo_loghug_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000499cd49615880cbe8878fa025e5fa141719301571c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000b0000000200000001000000388c0000509803000800000008b10000020000003c00000004000000d4ffffff1c00000004000000100000009cc769dfefbb438eb7e00533434a28bb0500000069636f6e3100000008000c0004000800080000001c0000000400000010000000b0640c7952f34b958987736471f9bf7806000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

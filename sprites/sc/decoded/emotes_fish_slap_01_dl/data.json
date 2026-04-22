@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_fish_slap_01_dl.sc",
+  "original_stem": "emotes_fish_slap_01_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000002e9d09f7723448f6f11c8ea630c53eff3e8241b31c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000700000003000000010000000c3600005025030008000000003b0000020000003c00000004000000d4ffffff1c000000040000001000000091272a9d570f4a87bc23bc8053c914390500000069636f6e3100000008000c0004000800080000001c0000000400000010000000499e0e23affb4def901f73a38e2b7db306000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

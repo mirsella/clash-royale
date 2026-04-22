@@ -1,0 +1,15 @@
+{
+  "exports_found": 201,
+  "exports_rendered": 196,
+  "frames_rendered": 196,
+  "sc": "chr_royal_ghost_evolution.sc",
+  "skipped_empty": [
+    "vfx_rc_evo_summon_sword",
+    "vmc_royal_ghost_evo_deploy",
+    "vmc_royal_ghost_evo_trail_01",
+    "vmc_royal_ghost_evo_aura_up",
+    "filter_royal_ghost_evolution_alpha_zero"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_royal_ghost_evolution"
+}

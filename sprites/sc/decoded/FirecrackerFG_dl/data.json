@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "FirecrackerFG_dl.sc",
+  "original_stem": "FirecrackerFG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000ab1a2e2d8e1faedc982cd719ec0fb760700dc9e61c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000c8000000f07316000800000014770400010000000c00000008000c0004000800080000001c00000004000000100000007dc3a724db2546ceae287d10f9ca02d50900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

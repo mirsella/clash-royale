@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "BB00065_full_dart_goblin_dl.sc",
+  "original_stem": "BB00065_full_dart_goblin_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000a2d8b1da9b09ed05a905223c27086d37ac06096b1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000200000002000000010000001c010000d82204000800000074900100020000004000000004000000d0ffffff1c0000000400000010000000d2e579709abd414dad28b5294a411bd30900000062616e6e65725f666700000008000c0004000800080000001c000000040000001000000017e356b350b14dc4838df08ba95ea0390900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "BB00065_full_dart_goblin_dl_000.png",
+      "source": "embedded_ktx",
+      "offset": 740,
+      "length": 270980,
+      "width": 814,
+      "height": 1324,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

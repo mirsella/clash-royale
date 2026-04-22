@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_clash_o_ween.sc",
+  "original_stem": "ui_arena_icon_clash_o_ween",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000008825acde6f4f21cf1c15691be06a944572806e401c002c00040008000c00100014001800000000001c002000240028001c000000010000000100000004000000040000000100000001000000ec0d00006c07000008000000d0050000010000000c00000008000c0004000800080000001c00000004000000100000003f15c79ff84b49c98108ddea3cbfbf57120000006172656e615f636c6173685f6f5f7765656e0000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

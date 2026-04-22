@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_goblinqueen_cry_dl.sc",
+  "original_stem": "emotes_goblinqueen_cry_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000ff98536e2e2402425d9a5f1df00f4a25288857921c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000900000006000000010000009ca70000b05a020008000000b86e0000020000003c00000004000000d4ffffff1c00000004000000100000002bd21b71f32f47cdb282e53fb2361c510500000069636f6e3100000008000c0004000800080000001c0000000400000010000000edcee85514a6445a8b33cc375fef1b1906000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

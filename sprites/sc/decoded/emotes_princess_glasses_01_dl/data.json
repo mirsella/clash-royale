@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_princess_glasses_01_dl.sc",
+  "original_stem": "emotes_princess_glasses_01_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000247e44e168ea2ca32dfedbb6cc90362912459b181c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000140000000200000001000000f4b600005009030008000000b4950000020000003c00000004000000d4ffffff1c000000040000001000000066f833bb275041d399162eca3ff34b940500000069636f6e3100000008000c0004000800080000001c00000004000000100000002bc762c9ec8a402191f8ea323f5416dd06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

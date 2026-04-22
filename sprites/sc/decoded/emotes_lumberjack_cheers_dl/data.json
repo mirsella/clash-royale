@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_lumberjack_cheers_dl.sc",
+  "original_stem": "emotes_lumberjack_cheers_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000d2e23414cb73f464928e488532d3bc2c717bb7b11c002800040008000c001000140000000000000018001c00200024001c00000001000000010000001700000002000000010000004c5d0100b095040008000000e8ec0000020000003c00000004000000d4ffffff1c0000000400000010000000be5c25e320b54c17a9047d285213fd630500000069636f6e3100000008000c0004000800080000001c0000000400000010000000dc5015b539b34e7ea7ad98592050d43306000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

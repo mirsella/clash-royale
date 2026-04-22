@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ChibiValentineBG_dl.sc",
+  "original_stem": "ChibiValentineBG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000025ff7ebbaed679871feae4442ea52df4d6b7c5321c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000a400000030ab1a00080000006c910400010000000c00000008000c0004000800080000001c0000000400000010000000edb1b53aa8be4b6f9127bfa52ba797ed0900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

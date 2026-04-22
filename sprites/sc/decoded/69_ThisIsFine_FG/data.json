@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "69_ThisIsFine_FG.sc",
+  "original_stem": "69_ThisIsFine_FG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000e498c587989d15f4c4455d14038c9933f8f98c101c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000d40000005033110008000000e4540200010000000c00000008000c0004000800080000001c000000040000001000000024075bbbd38547e3b417ffb6e2ceac850900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

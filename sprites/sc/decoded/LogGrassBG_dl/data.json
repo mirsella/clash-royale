@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "LogGrassBG_dl.sc",
+  "original_stem": "LogGrassBG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000093b502b77a4f4b8cb698b930c7b1989685a3c8db1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000a4000000d0811a000800000074590600010000000c00000008000c0004000800080000001c000000040000001000000046da95c6959043df9033788553a192820900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

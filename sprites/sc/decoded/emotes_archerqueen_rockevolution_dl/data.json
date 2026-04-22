@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_archerqueen_rockevolution_dl.sc",
+  "original_stem": "emotes_archerqueen_rockevolution_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000002ca81b5dc11e24b00ccdf8c9f9c8e3ed708047761c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000190000000200000001000000f0030100d074090008000000e0030100020000003c00000004000000d4ffffff1c00000004000000100000008e1fb488967c49b5b822762333ac0f7d0500000069636f6e3100000008000c0004000800080000001c0000000400000010000000a38a0e0668e040439eb20214a14e882406000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "BullseyeFG_dl.sc",
+  "original_stem": "BullseyeFG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000003161968a5266480f6d230e5de044c4494df2270f1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000d400000090c11200080000005c7f0300010000000c00000008000c0004000800080000001c00000004000000100000004d60e01ab7584eea9eb877f0d8512ba00900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

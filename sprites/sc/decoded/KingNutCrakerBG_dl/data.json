@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "KingNutCrakerBG_dl.sc",
+  "original_stem": "KingNutCrakerBG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000005c92742e2410f2e29b1ee75a39228a538ec7949e1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000a400000030ab1a0008000000e83b0100010000000c00000008000c0004000800080000001c0000000400000010000000eca1531d21dc4470b82afe379fd0f3810900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

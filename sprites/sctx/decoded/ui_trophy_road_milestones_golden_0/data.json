@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "kind": "sctx",
+  "original_file_name": "ui_trophy_road_milestones_golden_0.sctx",
+  "original_stem": "ui_trophy_road_milestones_golden_0",
+  "source_backup": "original.sctx",
+  "texture": "ui_trophy_road_milestones_golden_0.png",
+  "type": "ASTC_RGBA8_8x8",
+  "type_enum": 212,
+  "width": 1992,
+  "height": 3684,
+  "generate_mip_maps": false,
+  "mip_count": 1,
+  "unknown_flag": false,
+  "unknown_flag_1": true,
+  "compressed": true,
+  "streaming": {
+    "ids": [
+      3
+    ],
+    "textures": [
+      {
+        "texture": "ui_trophy_road_milestones_golden_0_variant_0.png",
+        "type": "ASTC_RGBA8_8x8",
+        "type_enum": 212,
+        "width": 249,
+        "height": 460
+      }
+    ]
+  },
+  "container": {
+    "identifier": "SCTX",
+    "compressed": true,
+    "payload_encoding": "zstd",
+    "use_padding": false,
+    "unk1": 0,
+    "unk3": 0,
+    "unk5": 0,
+    "unk6": 0,
+    "flags": 5,
+    "texture_length": 1836624,
+    "root_chunk_length": 29836,
+    "mipmaps_chunk_length": 44,
+    "data_offset": 29888
+  },
+  "mip_levels": [
+    {
+      "index": 0,
+      "width": 1992,
+      "height": 3684,
+      "offset": 0,
+      "length": 1836624,
+      "hash_hex": "3505cd4be930ff32"
+    }
+  ]
+}

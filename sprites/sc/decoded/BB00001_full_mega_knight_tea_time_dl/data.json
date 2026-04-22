@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "BB00001_full_mega_knight_tea_time_dl.sc",
+  "original_stem": "BB00001_full_mega_knight_tea_time_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000069f460e15d7ff1450c388ae8f56938e7879f78011c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000200000002000000010000001c010000d8ad030008000000b0860100020000004000000004000000d0ffffff1c000000040000001000000064a371b48e18415ea2ca76e8952463960900000062616e6e65725f666700000008000c0004000800080000001c00000004000000100000009c31f4df0f6c4159a043107ab5660fcc0900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "BB00001_full_mega_knight_tea_time_dl_000.png",
+      "source": "embedded_ktx",
+      "offset": 740,
+      "length": 241028,
+      "width": 480,
+      "height": 2002,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

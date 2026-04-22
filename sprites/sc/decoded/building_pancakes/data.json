@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "building_pancakes.sc",
+  "original_stem": "building_pancakes",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000003c0d019c224e0fd24c3ebb0da156d8e1d9ca5f6f1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000020000000400000001000000680a0000a85b0000080000006446000004000000b000000070000000380000000400000068ffffff1c00000004000000100000004e5150330a9f41e68e2bb523809fd26f0b00000070616e63616b655f7265640098ffffff1c0000000400000010000000adc6117a67f14d928764033730c984b20c00000070616e63616b655f69646c6500000000ccffffff1c00000004000000100000009489a64a7255481e9867365efbc95fd70c00000070616e63616b655f626c75650000000008000c0004000800080000001c00000004000000100000006d4c4538ef244854a43183977faaa32a16000000626f6d625f6465737472756374696f6e5f73746174650000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "building_pancakes_000.png",
+      "source": "embedded_ktx",
+      "offset": 4364,
+      "length": 23380,
+      "width": 248,
+      "height": 372,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "exports_found": 27,
+  "exports_rendered": 17,
+  "frames_rendered": 17,
+  "sc": "ui_support_cards_autochess.sc",
+  "skipped_empty": [
+    "card_type_passive_ruler",
+    "card_trait_champion_unit",
+    "support_card_rarity_type_champion",
+    "support_card_rarity_type_common",
+    "support_card_unlock",
+    "support_card_rarity_type_epic",
+    "support_card_rarity_type_legendary",
+    "support_card_rarity_type_rare",
+    "support_card_ability_rarity_type_common",
+    "support_card_info_bg"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/ui_support_cards_autochess"
+}

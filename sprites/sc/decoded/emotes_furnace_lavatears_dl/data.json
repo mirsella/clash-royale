@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_furnace_lavatears_dl.sc",
+  "original_stem": "emotes_furnace_lavatears_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000005c5488464f586c919164b6cc3f9423f9f28ae7b91c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000c00000002000000010000002cbd0000f071020008000000a4780000020000003c00000004000000d4ffffff1c000000040000001000000060698a269a104869bb81054459b012b40500000069636f6e3100000008000c0004000800080000001c0000000400000010000000fcd041fcd2314148b5cd360df6f97d8706000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

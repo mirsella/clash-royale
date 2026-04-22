@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "BB00101_fg_clash_past_barb_dl.sc",
+  "original_stem": "BB00101_fg_clash_past_barb_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000b619be2c48064a724115663db39d48eb293dba911c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000d4000000201a100008000000c8310000010000000c00000008000c0004000800080000001c0000000400000010000000f1a6ef310bb64f9ba2702c0287ad817b0900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

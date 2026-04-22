@@ -1,0 +1,14 @@
+{
+  "exports_found": 21,
+  "exports_rendered": 16,
+  "frames_rendered": 16,
+  "sc": "ui_trophy_road_milestones_royals2v2.sc",
+  "skipped_empty": [
+    "tr_road_end",
+    "tr_ribbon",
+    "tr_royals2v2_mp_path",
+    "bar_trophycount"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/ui_trophy_road_milestones_royals2v2"
+}

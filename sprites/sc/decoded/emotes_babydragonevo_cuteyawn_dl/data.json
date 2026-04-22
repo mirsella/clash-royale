@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_babydragonevo_cuteyawn_dl.sc",
+  "original_stem": "emotes_babydragonevo_cuteyawn_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000061c9c6e702063c605ac118a51765ec69e99044f91c002800040008000c001000140000000000000018001c00200024001c000000010000000100000013000000020000000100000090a0000090d405000800000074b10000020000003c00000004000000d4ffffff1c00000004000000100000009725d401f55349dfaa2b5d5142465d8b0500000069636f6e3100000008000c0004000800080000001c000000040000001000000027d211e3869c4112b60e6e6b86bf3bff06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

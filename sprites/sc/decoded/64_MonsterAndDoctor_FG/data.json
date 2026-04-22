@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "64_MonsterAndDoctor_FG.sc",
+  "original_stem": "64_MonsterAndDoctor_FG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000b7cf127ea96aacf1f839acc2ad1819656d5679c21c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000d400000070d905000800000040740100010000000c00000008000c0004000800080000001c000000040000001000000016cbefeaf46c455a937422eff851b53d0900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

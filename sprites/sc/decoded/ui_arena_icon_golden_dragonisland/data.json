@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_golden_dragonisland.sc",
+  "original_stem": "ui_arena_icon_golden_dragonisland",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000031e19853218bca252a57f409f6d6f4c4fec121401c002c00040008000c00100014001800000000001c002000240028001c00000001000000010000000700000006000000010000000100000008f10100841400000800000098b20000020000005000000004000000c0ffffff1c00000004000000100000000037fcad7a0b4dbbb8a29f5eecc0ce2c1b0000006172656e615f647261676f6e69736c616e645f706f6c5f69636f6e0008000c0004000800080000001c0000000400000010000000fd9ccadc3d9f48a7aecc696eef73ff2c170000006172656e615f647261676f6e69736c616e645f69636f6e00",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

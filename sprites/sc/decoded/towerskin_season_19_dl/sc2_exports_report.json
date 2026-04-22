@@ -1,0 +1,13 @@
+{
+  "exports_found": 9,
+  "exports_rendered": 6,
+  "frames_rendered": 6,
+  "sc": "towerskin_season_19_dl.sc",
+  "skipped_empty": [
+    "atlasgenerator_texture_rgba5656",
+    "princesstower_blue_top",
+    "princesstower_red_top"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/towerskin_season_19_dl"
+}

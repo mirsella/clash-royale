@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ChessQueensAndPawnFG_dl.sc",
+  "original_stem": "ChessQueensAndPawnFG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000002614abc74c5fcf6c16a74d20515f31a0e41df1cb1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000bc000000509d17000800000060310300010000000c00000008000c0004000800080000001c00000004000000100000007c424a707d85492aa5c0207b467509650900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

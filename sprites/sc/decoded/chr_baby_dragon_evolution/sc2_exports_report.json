@@ -1,0 +1,12 @@
+{
+  "exports_found": 110,
+  "exports_rendered": 108,
+  "frames_rendered": 108,
+  "sc": "chr_baby_dragon_evolution.sc",
+  "skipped_empty": [
+    "vmc_babydragon_explosion",
+    "fireball_trail1"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_baby_dragon_evolution"
+}

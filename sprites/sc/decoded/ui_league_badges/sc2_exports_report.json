@@ -1,0 +1,11 @@
+{
+  "exports_found": 22,
+  "exports_rendered": 21,
+  "frames_rendered": 21,
+  "sc": "ui_league_badges.sc",
+  "skipped_empty": [
+    "league_badge_000"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/ui_league_badges"
+}

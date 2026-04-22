@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_goblin_robotdance_dl.sc",
+  "original_stem": "emotes_goblin_robotdance_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000005c21b433291564bb98ba067dd7bb474b78cdc2281c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000e00000004000000010000000c780000b03704000800000080ca0000020000003c00000004000000d4ffffff1c0000000400000010000000cce72381abc04d78b8286520c56bb2e90500000069636f6e3100000008000c0004000800080000001c0000000400000010000000f3d699f7a013451e8eebbf880618d5ff06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

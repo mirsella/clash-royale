@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_electrospirit_moustache_dl.sc",
+  "original_stem": "emotes_electrospirit_moustache_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000bda21e3acbc7bdb5d1e84eee5ef4cc9f79ee1a361c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000100000000200000001000000b8ff0000f0cc02000800000074ad0000020000003c00000004000000d4ffffff1c00000004000000100000009bedb87e76f14182aa28d7513d02656b0500000069636f6e3100000008000c0004000800080000001c0000000400000010000000fc23bc8df25f44ecbd77b46a487f606d06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

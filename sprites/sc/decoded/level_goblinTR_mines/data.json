@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "level_goblinTR_mines.sc",
+  "original_stem": "level_goblinTR_mines",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000eceb30b085cff6fdc6c74253d89c81445715d7231c002800040008000c001000140000000000000018001c00200024001c00000001000000010000003e00000002000000010000001c3b000050c0640008000000cc951000020000004c00000004000000c4ffffff1c000000040000001000000093b0ac8ef6e04e09813709264f3f863a15000000676f62656c696e5f6d696e655f626173655f32763200000008000c0004000800080000001c0000000400000010000000c2078d7951db4dc9a6df83c2861ebc6114000000676f62656c696e5f6d696e655f626173655f303100000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "SkeletonJacuziFG_dl.sc",
+  "original_stem": "SkeletonJacuziFG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000f08863961fb6ddd5488d96c2611aff94a699d12d1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000d400000050cd1400080000002c340400010000000c00000008000c0004000800080000001c00000004000000100000008fadfb7c45a845a694f77911a1f0db7b0900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

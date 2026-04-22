@@ -1,0 +1,11 @@
+{
+  "exports_found": 2,
+  "exports_rendered": 1,
+  "frames_rendered": 1,
+  "sc": "emotes_skeleton_dancing_dl.sc",
+  "skipped_empty": [
+    "emote1"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/emotes_skeleton_dancing_dl"
+}

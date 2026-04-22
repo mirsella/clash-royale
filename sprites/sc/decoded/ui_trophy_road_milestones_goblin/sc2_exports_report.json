@@ -1,0 +1,14 @@
+{
+  "exports_found": 53,
+  "exports_rendered": 47,
+  "frames_rendered": 47,
+  "sc": "ui_trophy_road_milestones_goblin.sc",
+  "skipped_empty": [
+    "bar_trophycount",
+    "tr_ribbon",
+    "empty",
+    "tr_road_end"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/ui_trophy_road_milestones_goblin"
+}

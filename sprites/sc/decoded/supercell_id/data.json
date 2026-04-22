@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "supercell_id.sc",
+  "original_stem": "supercell_id",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000b65314769a2aa046330635b25b40fc3113eb60a91c002c00040008000c00100014001800000000001c002000240028001c000000010000000100000007000000070000000100000005000000980f0000f8810000080000009032000003000000800000003c0000000400000094ffffff1c000000040000001000000007a6420a2f5244fe8bad5d2b0f5c47500f00000077696e646f775f706f72747261697400c8ffffff1c0000000400000010000000bfa969e1ff3142e6bc9aeb0696585a831000000077696e646f775f6c616e6473636170650000000008000c0004000800080000001c00000004000000100000001d2d001b0f224899a776f66b5fe5ae78060000006461726b656e0000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "supercell_id_000.png",
+      "source": "embedded_ktx",
+      "offset": 6088,
+      "length": 33188,
+      "width": 360,
+      "height": 362,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

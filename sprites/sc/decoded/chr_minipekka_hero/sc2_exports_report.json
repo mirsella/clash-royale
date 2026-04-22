@@ -1,0 +1,20 @@
+{
+  "exports_found": 32,
+  "exports_rendered": 22,
+  "frames_rendered": 22,
+  "sc": "chr_minipekka_hero.sc",
+  "skipped_empty": [
+    "vmc_minipekka_levelup_lv3_aura",
+    "vmc_minipekka_hero_meta_intro_03_impact",
+    "vmc_minipekka_hero_meta_intro_03_glow",
+    "vmc_minipekka_hero_meta_intro_03_flare",
+    "vmc_minipekka_hero_levelup_lv3_back",
+    "vmc_minipekka_hero_levelup_lv2_back",
+    "vmc_minipekka_hero_levelup_lv1_back",
+    "vmc_minipekka_hero_hit_twinkle",
+    "vmc_minipekka_hero_def_slash",
+    "vmc_minipekka_hero_meta_intro_01_shockwave"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_minipekka_hero"
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_magicmay.sc",
+  "original_stem": "ui_arena_icon_magicmay",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000475a5b49c4fc9b7f8c6adbd041eb3927f0babc4f1c002c00040008000c00100014001800000000001c002000240028001c000000010000000100000033000000060000000100000001000000a0330000780e000008000000ec160000010000000c00000008000c0004000800080000001c0000000400000010000000867874c0854f41608e596cbd4afbb44b130000006172656e615f6d616769636d61795f69636f6e00",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

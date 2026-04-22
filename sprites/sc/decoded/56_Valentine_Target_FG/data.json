@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "56_Valentine_Target_FG.sc",
+  "original_stem": "56_Valentine_Target_FG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000018d085386012d4df210c22809564934e53bef2f71c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000d40000001043110008000000f4ad0200010000000c00000008000c0004000800080000001c0000000400000010000000a654316e02c044fdbf507db5124443890900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

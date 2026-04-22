@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_batevo_spin_dl.sc",
+  "original_stem": "emotes_batevo_spin_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000001b43ee7ec46382e512355106e7fdf58e0b43ac9c1c002800040008000c001000140000000000000018001c00200024001c000000010000000100000013000000040000000100000084a5000050d0050008000000e0e40000020000003c00000004000000d4ffffff1c00000004000000100000006161abb555904609b5dfe306aab4057d0500000069636f6e3100000008000c0004000800080000001c00000004000000100000006f8b54ce28ec4a30af5b6fa5a2055e1e06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

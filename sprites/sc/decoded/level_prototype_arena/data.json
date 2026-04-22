@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "level_prototype_arena.sc",
+  "original_stem": "level_prototype_arena",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000f582ad768621d17646499676c2c68edce879b9cd1c002800040008000c001000140000000000000018001c00200024001c000000010000000100000004000000080000000100000024030000881e010008000000a07e000008000000b8010000740100003801000000010000c400000084000000400000000400000070feffff1c0000000400000010000000a1e35fe40d81453fa2318937b1e82b321300000070726f746f747970655f74696c655f6772617900a8feffff1c0000000400000010000000feb4dd1c56724734b3db3d6a89688fb71900000070726f746f747970655f74696c655f62726f776e5f6461726b000000e8feffff1c00000004000000100000008a2768f8e5364cab94387f8abd6e14d81400000070726f746f747970655f74696c655f62726f776e0000000024ffffff1c0000000400000010000000a6e34850fa664ae381811c5907f3d84c1300000070726f746f747970655f74696c655f626c7565005cffffff1c000000040000001000000011e380be90d845c6bfbacc89887cbb860f00000070726f746f747970655f72697665720090ffffff1c0000000400000010000000403f0e9736374c3d987541624d2561c21300000070726f746f747970655f677261737374696c6500c8ffffff1c000000040000001000000053872b0bbb674a49a902e1f3c2390e441000000070726f746f747970655f6272696467650000000008000c0004000800080000001c000000040000001000000012ae46b4dc594a68bc54ccf212ba6de50f00000070726f746f747970655f6172656e6100",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "level_prototype_arena_000.png",
+      "source": "embedded_ktx",
+      "offset": 1800,
+      "length": 73268,
+      "width": 194,
+      "height": 1464,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

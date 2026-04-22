@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_battleramevo_breakin_dl.sc",
+  "original_stem": "emotes_battleramevo_breakin_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000073f75d7c5b1cfc404e96108c89596aea9a5d57331c002800040008000c001000140000000000000018001c00200024001c000000010000000100000009000000020000000100000040630000a04b04000800000000a30000020000003c00000004000000d4ffffff1c000000040000001000000072e00f250ff3447bb3e12e475e43dc250500000069636f6e3100000008000c0004000800080000001c000000040000001000000090caac1a4948446bbf51e5f2df74e7cf06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

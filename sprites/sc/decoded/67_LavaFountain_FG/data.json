@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "67_LavaFountain_FG.sc",
+  "original_stem": "67_LavaFountain_FG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000008a0a85c0d8909713027363c71f7f0e55878f19281c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000c80000005061080008000000e8e60000010000000c00000008000c0004000800080000001c000000040000001000000010b29335ba22405383f5df92767b72380900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

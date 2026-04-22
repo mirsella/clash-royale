@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ac_ruler_echo_monk_exorcist.sc",
+  "original_stem": "ac_ruler_echo_monk_exorcist",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000004e58f5527d0b47532a32510d6f5f98f42343487e1c002c00040008000c00100014001800000000001c002000240028001c0000000100000001000000020000000200000001000000010000008c010000b400000008000000c0010000020000005400000004000000bcffffff1c0000000400000010000000928d3da2121f49c9af1c1759ad25e5bf1e0000007468756d625f72756c65725f6563686f5f6d6f6e6b5f65786f7263697374000008000c0004000800080000001c00000004000000100000004bf2bee2251f43cab5970e4ff7086e252200000061635f72756c65725f696e67616d655f6563686f5f6d6f6e6b5f65786f72636973740000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

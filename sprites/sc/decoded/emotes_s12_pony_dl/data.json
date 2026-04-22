@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_s12_pony_dl.sc",
+  "original_stem": "emotes_s12_pony_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000031d64ef88838eacec07f6def03c57c76993090bc1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000a0000000200000001000000b04a0000d0f3070008000000c84f0000020000003c00000004000000d4ffffff1c0000000400000010000000de749163f2064c41b8de96748e238e800500000069636f6e3100000008000c0004000800080000001c000000040000001000000015f75365a59f41258c61f879139121b606000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

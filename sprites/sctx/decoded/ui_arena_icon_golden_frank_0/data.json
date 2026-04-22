@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "kind": "sctx",
+  "original_file_name": "ui_arena_icon_golden_frank_0.sctx",
+  "original_stem": "ui_arena_icon_golden_frank_0",
+  "source_backup": "original.sctx",
+  "texture": "ui_arena_icon_golden_frank_0.png",
+  "type": "RGBA8Unorm",
+  "type_enum": 70,
+  "width": 768,
+  "height": 992,
+  "generate_mip_maps": false,
+  "mip_count": 1,
+  "unknown_flag": false,
+  "unknown_flag_1": true,
+  "compressed": true,
+  "streaming": {
+    "ids": [
+      3
+    ],
+    "textures": [
+      {
+        "texture": "ui_arena_icon_golden_frank_0_variant_0.png",
+        "type": "RGBA8Unorm",
+        "type_enum": 70,
+        "width": 96,
+        "height": 124
+      }
+    ]
+  },
+  "container": {
+    "identifier": "SCTX",
+    "compressed": true,
+    "payload_encoding": "zstd",
+    "use_padding": false,
+    "unk1": 0,
+    "unk3": 0,
+    "unk5": 0,
+    "unk6": 0,
+    "flags": 5,
+    "texture_length": 3047424,
+    "root_chunk_length": 47756,
+    "mipmaps_chunk_length": 44,
+    "data_offset": 47808
+  },
+  "mip_levels": [
+    {
+      "index": 0,
+      "width": 768,
+      "height": 992,
+      "offset": 0,
+      "length": 3047424,
+      "hash_hex": "2bf6bb3c2e4e9f04"
+    }
+  ]
+}

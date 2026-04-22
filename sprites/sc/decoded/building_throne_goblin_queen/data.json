@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "building_throne_goblin_queen.sc",
+  "original_stem": "building_throne_goblin_queen",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000923d9f9f42c892bdc7846e0f020bf010f07924701c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000410000000a0000000100000098380000983809000800000064760400060000004c01000008010000c8000000800000004400000004000000d4feffff1c0000000400000010000000ef3a89047b694032a6b518596bf45c8c170000007468726f6e655f717565656e5f7265645f736861646f770010ffffff1c00000004000000100000008c7b06e7ea7b4d42a45d348a38dd8241100000007468726f6e655f717565656e5f7265640000000048ffffff1c000000040000001000000066c2fca4924f450894a6b8fd8cec122a1c0000007468726f6e655f717565656e5f64657374726f7965645f66726f6e74000000008cffffff1c000000040000001000000094a13f93bb744216ab7ba0e0f73424b8150000007468726f6e655f717565656e5f626c75655f746f70000000c8ffffff1c0000000400000010000000783d50bab458494fb3cedbc703453f46110000007468726f6e655f717565656e5f626c756500000008000c0004000800080000001c0000000400000010000000e3984168d0e44ad0975b280501f76a0e17000000476f626c696e5f517565656e5f70726f6a656374696c6500",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "building_throne_goblin_queen_000.png",
+      "source": "embedded_ktx",
+      "offset": 19156,
+      "length": 604228,
+      "width": 640,
+      "height": 942,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b0",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37808,
+      "gl_base_internal_format": 6408,
+      "astc_block": "4x4",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

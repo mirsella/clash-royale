@@ -1,0 +1,11 @@
+{
+  "exports_found": 29,
+  "exports_rendered": 28,
+  "frames_rendered": 28,
+  "sc": "ui_snippet_collection.sc",
+  "skipped_empty": [
+    "snippet_collect"
+  ],
+  "textures_resolved": 3,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/ui_snippet_collection"
+}

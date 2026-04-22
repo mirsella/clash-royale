@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "thumb_vfx_dagger_duchess_T2_crystal.sc",
+  "original_stem": "thumb_vfx_dagger_duchess_T2_crystal",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000a6a2e3550efd06625efd79ddb55045460ae4b5031c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000bc0000007c00000008000000f8000000010000000c00000008000c0004000800080000001c0000000400000010000000b363de54d2a34aa7b44e442c20051fe9230000007468756d625f7666785f6461676765725f647563686573735f54325f6372797374616c00",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

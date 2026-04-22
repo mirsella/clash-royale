@@ -1,0 +1,12 @@
+{
+  "exports_found": 17,
+  "exports_rendered": 15,
+  "frames_rendered": 15,
+  "sc": "chr_knight_hero.sc",
+  "skipped_empty": [
+    "vmc_knight_hero_buff_acitve_mustache",
+    "vmc_knight_hero_meta_intro_02_flare"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_knight_hero"
+}

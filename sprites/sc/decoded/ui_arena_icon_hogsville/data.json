@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_hogsville.sc",
+  "original_stem": "ui_arena_icon_hogsville",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000066ed9cea35c4f0b80336ae6a86bea617fd8b1771c002c00040008000c00100014001800000000001c002000240028001c00000001000000010000002a000000040000000100000001000000fc1705002c280000080000002cbc0000020000005000000004000000c0ffffff1c0000000400000010000000b5e03d5341de48b692b1b964500be150180000006172656e615f6d75736b65746565725f706f6c5f69636f6e0000000008000c0004000800080000001c00000004000000100000009606fa84ab154bb68500722a96786584140000006172656e615f6d75736b65746565725f69636f6e00000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

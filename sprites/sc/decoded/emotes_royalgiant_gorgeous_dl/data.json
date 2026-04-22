@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_royalgiant_gorgeous_dl.sc",
+  "original_stem": "emotes_royalgiant_gorgeous_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000012c29bdd43e78d0aaef817ca879e39c0fec2dcc31c002800040008000c001000140000000000000018001c00200024001c00000001000000010000001c0000000200000001000000e4cd0000e0b00300080000003ca40000020000003c00000004000000d4ffffff1c0000000400000010000000847623aed6bb44f8933f7e9cf5e04e3d0500000069636f6e3100000008000c0004000800080000001c000000040000001000000080fee65ffe224e2dbe30a0b3d9c4ef8106000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

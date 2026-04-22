@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_clash_fest.sc",
+  "original_stem": "ui_arena_icon_clash_fest",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000047b1df5eb71ffcd7a9c4b3cb82ff8cb9b09004771c002c00040008000c00100014001800000000001c002000240028001c0000000100000001000000030000000300000001000000010000007c650000b01c000008000000002f0000010000000c00000008000c0004000800080000001c0000000400000010000000a1297d9737fe49159d634af59bc2031e0f0000006172656e615f636c6173686665737400",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

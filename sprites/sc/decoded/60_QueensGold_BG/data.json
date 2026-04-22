@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "60_QueensGold_BG.sc",
+  "original_stem": "60_QueensGold_BG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000ee0e52426acfd9f8fdfc09bad7e00bcd3ebf85341c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000a400000030ab1a0008000000dce60300010000000c00000008000c0004000800080000001c00000004000000100000008f30ebc572e745048b7980682377cdf50900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

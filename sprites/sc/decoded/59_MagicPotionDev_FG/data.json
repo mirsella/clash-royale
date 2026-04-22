@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "59_MagicPotionDev_FG.sc",
+  "original_stem": "59_MagicPotionDev_FG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000007cc8f76c57afaa8b73db2b0efb8b91dda8eb607c1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000d4000000f05818000800000028c00300010000000c00000008000c0004000800080000001c0000000400000010000000869fa883f2af494fa01f78dde5fd1e270900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

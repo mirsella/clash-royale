@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_golden_frank.sc",
+  "original_stem": "ui_arena_icon_golden_frank",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000006e22f969a923a5ec058fc28f12fcefbc14d41f981c002c00040008000c00100014001800000000001c002000240028001c00000001000000010000000f000000100000000100000001000000cc620000003d000008000000780a0000010000000c00000008000c0004000800080000001c0000000400000010000000e60c73c17a9c4334ad275da4575753e0190000006172656e615f6672616e6b68616c6c6f7765656e5f69636f6e000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

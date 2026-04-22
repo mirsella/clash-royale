@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "thumb_vfx_battle_machine_T3_levelup_01.sc",
+  "original_stem": "thumb_vfx_battle_machine_T3_levelup_01",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000e4106e457b947c43a7930cefeacb62a6d9d972421c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000c00000008000000008000000fc000000010000000c00000008000c0004000800080000001c00000004000000100000001422e97ac9b548cca940ad3bb29bb326260000007468756d625f7666785f626174746c655f6d616368696e655f54335f6c6576656c75705f30310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

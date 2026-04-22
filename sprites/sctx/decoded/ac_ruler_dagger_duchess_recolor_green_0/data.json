@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "kind": "sctx",
+  "original_file_name": "ac_ruler_dagger_duchess_recolor_green_0.sctx",
+  "original_stem": "ac_ruler_dagger_duchess_recolor_green_0",
+  "source_backup": "original.sctx",
+  "texture": "ac_ruler_dagger_duchess_recolor_green_0.png",
+  "type": "ASTC_RGBA8_8x8",
+  "type_enum": 212,
+  "width": 472,
+  "height": 760,
+  "generate_mip_maps": false,
+  "mip_count": 1,
+  "unknown_flag": false,
+  "unknown_flag_1": true,
+  "compressed": true,
+  "streaming": {
+    "ids": [
+      3
+    ],
+    "textures": [
+      {
+        "texture": "ac_ruler_dagger_duchess_recolor_green_0_variant_0.png",
+        "type": "ASTC_RGBA8_8x8",
+        "type_enum": 212,
+        "width": 59,
+        "height": 95
+      }
+    ]
+  },
+  "container": {
+    "identifier": "SCTX",
+    "compressed": true,
+    "payload_encoding": "zstd",
+    "use_padding": false,
+    "unk1": 0,
+    "unk3": 0,
+    "unk5": 0,
+    "unk6": 0,
+    "flags": 5,
+    "texture_length": 89680,
+    "root_chunk_length": 1676,
+    "mipmaps_chunk_length": 44,
+    "data_offset": 1728
+  },
+  "mip_levels": [
+    {
+      "index": 0,
+      "width": 472,
+      "height": 760,
+      "offset": 0,
+      "length": 89680,
+      "hash_hex": "d6497561c35fc7fe"
+    }
+  ]
+}

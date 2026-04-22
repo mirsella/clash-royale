@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "58_DaggerDuchessChill_BG.sc",
+  "original_stem": "58_DaggerDuchessChill_BG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000c3c15228ed4a1c7547e46495b6261686951f27451c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000a4000000e0a01a0008000000ec4b0500010000000c00000008000c0004000800080000001c0000000400000010000000493f0b8866fd464a9c2f0102f6062ee10900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

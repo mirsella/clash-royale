@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_blacksmith_buffpower_dl.sc",
+  "original_stem": "emotes_blacksmith_buffpower_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000009af3af3b598b90b006432aafc7f1e84081e06b8b1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000d00000002000000010000000892000050a50600080000006ceb0000020000003c00000004000000d4ffffff1c0000000400000010000000dda7a7d362774e0d8f1b48969f159e810500000069636f6e3100000008000c0004000800080000001c000000040000001000000013ff5de427c1410ca9bbd87a700c626a06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

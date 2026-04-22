@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_terms_of_service.sc",
+  "original_stem": "ui_terms_of_service",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000000c2450f420d47f03e3b0fcb8d57be42258d23a331c002c00040008000c00100014001800000000001c002000240028001c000000010000000100000005000000060000000100000006000000d00800005c0200000800000098040000010000000c00000008000c0004000800080000001c0000000400000010000000afb7061b19674149adebedf41ee4934716000000706f7075705f7465726d735f6f665f736572766963650000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

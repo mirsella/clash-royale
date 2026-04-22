@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_skeletondragon_jawdrop_dl.sc",
+  "original_stem": "emotes_skeletondragon_jawdrop_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000c63c57f6be314918a1def24e6deccc937bcb18c41c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000e0000000400000001000000f07b000090a20200080000005c640000020000003c00000004000000d4ffffff1c000000040000001000000064187e3ed9074f6f97928aa6a22cbda20500000069636f6e3100000008000c0004000800080000001c0000000400000010000000b4cb93451a1241e183e5e35ab0a7001106000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

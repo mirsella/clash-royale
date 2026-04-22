@@ -1,0 +1,14 @@
+{
+  "exports_found": 7,
+  "exports_rendered": 3,
+  "frames_rendered": 3,
+  "sc": "ui_trophy_road_milestones_touchdown.sc",
+  "skipped_empty": [
+    "tr_road_end",
+    "tr_ribbon",
+    "empty",
+    "bar_trophycount"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/ui_trophy_road_milestones_touchdown"
+}

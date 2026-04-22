@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_card_barbarian_barrel_hero.sc",
+  "original_stem": "ui_card_barbarian_barrel_hero",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000d8b971b0c1cbbd5ad2f901392e785e7036f1d2721c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000b40000007800000008000000fc000000010000000c00000008000c0004000800080000001c0000000400000010000000a4074d6d31f740b1be61ce995a07c4a81a00000062617262617269616e5f62617272656c5f6865726f5f636172640000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "GoldenKnightAnimation_FG_dl.sc",
+  "original_stem": "GoldenKnightAnimation_FG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000f387e8c3d0c2195d0cb0d7ad41f53d935b2048b91c002800040008000c001000140000000000000018001c00200024001c00000001000000010000001c0000000400000001000000941e010050500f000800000060170300010000000c00000008000c0004000800080000001c0000000400000010000000b3740b9fb931424ca3c734a6696a8d170900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

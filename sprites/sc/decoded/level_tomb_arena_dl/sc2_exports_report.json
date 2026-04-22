@@ -1,0 +1,13 @@
+{
+  "exports_found": 31,
+  "exports_rendered": 28,
+  "frames_rendered": 28,
+  "sc": "level_tomb_arena_dl.sc",
+  "skipped_empty": [
+    "tomb_vfx_sparkle_01",
+    "tomb_vfx_dust_01",
+    "tomb_vfx_dust_02"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/level_tomb_arena_dl"
+}

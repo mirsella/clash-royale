@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_infernodragonevo_hottonge_dl.sc",
+  "original_stem": "emotes_infernodragonevo_hottonge_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000008334d40f481a97543d0f2443a03b8e4e11a8b3421c002800040008000c001000140000000000000018001c00200024001c00000001000000010000001100000002000000010000007c9700007009040008000000a4b80000020000003c00000004000000d4ffffff1c0000000400000010000000d476a52f873f472a85a2d86900a946400500000069636f6e3100000008000c0004000800080000001c0000000400000010000000e9b7c921b2e54977b5c9f28eaa2f872406000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

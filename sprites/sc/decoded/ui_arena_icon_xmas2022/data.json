@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_xmas2022.sc",
+  "original_stem": "ui_arena_icon_xmas2022",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000c6a0890844e2bdd2b3ca60b556eba6565d52b10b1c002c00040008000c00100014001800000000001c002000240028001c000000010000000100000024000000120000000100000001000000dcc00f00fc98000008000000280b0500010000000c00000008000c0004000800080000001c0000000400000010000000e5ba478f55ef4b5bbba59862c6b3fccc0e0000006172656e615f786d6173323032320000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

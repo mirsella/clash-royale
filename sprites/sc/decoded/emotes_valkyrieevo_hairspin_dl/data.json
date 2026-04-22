@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_valkyrieevo_hairspin_dl.sc",
+  "original_stem": "emotes_valkyrieevo_hairspin_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000004fe2961b5895f9093684f58a4656f4e4be6773a31c002800040008000c001000140000000000000018001c00200024001c00000001000000010000001c0000000400000001000000501e0100d069090008000000e8750100020000003c00000004000000d4ffffff1c00000004000000100000003a06f133975642d394b79767e6c4b02f0500000069636f6e3100000008000c0004000800080000001c00000004000000100000004d7f191dc6ac47978919909c73e86fa006000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

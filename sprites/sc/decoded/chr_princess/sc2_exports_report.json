@@ -1,0 +1,11 @@
+{
+  "exports_found": 108,
+  "exports_rendered": 107,
+  "frames_rendered": 107,
+  "sc": "chr_princess.sc",
+  "skipped_empty": [
+    "princess_run1_9"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_princess"
+}

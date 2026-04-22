@@ -1,0 +1,16 @@
+{
+  "exports_found": 196,
+  "exports_rendered": 190,
+  "frames_rendered": 190,
+  "sc": "chr_inferno_dragon_evolution.sc",
+  "skipped_empty": [
+    "inferno_dragon_evo_glow_idle1_9",
+    "inferno_dragon_evo_glow_attack1_9",
+    "inferno_dragon_evo_glow_enemy_run1_9",
+    "inferno_dragon_evo_glow_enemy_attack1_9",
+    "inferno_dragon_evo_glow_enemy_idle1_9",
+    "inferno_dragon_evo_glow_run1_9"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_inferno_dragon_evolution"
+}

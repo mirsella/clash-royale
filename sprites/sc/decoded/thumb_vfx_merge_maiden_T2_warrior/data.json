@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "thumb_vfx_merge_maiden_T2_warrior.sc",
+  "original_stem": "thumb_vfx_merge_maiden_T2_warrior",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000bf843a6ee3b134bef387bfabee176ce7d82015881c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000bc0000007c00000008000000f8000000010000000c00000008000c0004000800080000001c00000004000000100000006fe8973baeb144aa87e387e84fee8ef4210000007468756d625f7666785f6d657267655f6d616964656e5f54325f77617272696f72000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

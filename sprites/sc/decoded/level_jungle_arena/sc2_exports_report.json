@@ -1,0 +1,18 @@
+{
+  "exports_found": 39,
+  "exports_rendered": 31,
+  "frames_rendered": 31,
+  "sc": "level_jungle_arena.sc",
+  "skipped_empty": [
+    "jungle_vfx_firefly_02",
+    "jungle_vfx_firefly_01",
+    "jungle_vfx_firefly_03",
+    "jungle_firefly_03",
+    "jungle_firefly_02",
+    "jungle_vfx_water_01",
+    "jungle_vfx_splash_01",
+    "jungle_firefly_01"
+  ],
+  "textures_resolved": 2,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/level_jungle_arena"
+}

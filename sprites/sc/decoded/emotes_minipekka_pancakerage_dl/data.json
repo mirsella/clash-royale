@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_minipekka_pancakerage_dl.sc",
+  "original_stem": "emotes_minipekka_pancakerage_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000000684572b002d6b92e53088a682d9d73b40139f201c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000100000000200000001000000086900005015040008000000c4a00000020000003c00000004000000d4ffffff1c0000000400000010000000c8accd80ca16421f890d3b299e41e3e30500000069636f6e3100000008000c0004000800080000001c0000000400000010000000878119d7ee48447c8a76fa4b4eaf5c9206000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

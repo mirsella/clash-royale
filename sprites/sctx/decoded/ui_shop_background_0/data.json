@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "kind": "sctx",
+  "original_file_name": "ui_shop_background_0.sctx",
+  "original_stem": "ui_shop_background_0",
+  "source_backup": "original.sctx",
+  "texture": "ui_shop_background_0.png",
+  "type": "ASTC_RGBA8_8x8",
+  "type_enum": 212,
+  "width": 820,
+  "height": 1576,
+  "generate_mip_maps": false,
+  "mip_count": 1,
+  "unknown_flag": false,
+  "unknown_flag_1": true,
+  "compressed": true,
+  "streaming": {
+    "ids": [
+      3
+    ],
+    "textures": [
+      {
+        "texture": "ui_shop_background_0_variant_0.png",
+        "type": "ASTC_RGBA8_8x8",
+        "type_enum": 212,
+        "width": 102,
+        "height": 197
+      }
+    ]
+  },
+  "container": {
+    "identifier": "SCTX",
+    "compressed": true,
+    "payload_encoding": "zstd",
+    "use_padding": false,
+    "unk1": 0,
+    "unk3": 0,
+    "unk5": 0,
+    "unk6": 0,
+    "flags": 5,
+    "texture_length": 324656,
+    "root_chunk_length": 5340,
+    "mipmaps_chunk_length": 44,
+    "data_offset": 5392
+  },
+  "mip_levels": [
+    {
+      "index": 0,
+      "width": 820,
+      "height": 1576,
+      "offset": 0,
+      "length": 324656,
+      "hash_hex": "1473df9b38984f22"
+    }
+  ]
+}

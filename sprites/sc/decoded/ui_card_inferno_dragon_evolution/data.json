@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_card_inferno_dragon_evolution.sc",
+  "original_stem": "ui_card_inferno_dragon_evolution",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000001320399d3f4342572140ab57bba1099051b5fb951c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000e8000000780000000800000038010000010000000c00000008000c0004000800080000001c0000000400000010000000ec84c52c5392434594240599aa62f7331d000000696e6665726e6f5f647261676f6e5f65766f6c7574696f6e5f63617264000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "level_heroessummit_arena.sc",
+  "original_stem": "level_heroessummit_arena",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000364aac104bc400b82f00351d01e8f7054dd4d7cd1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000b0000000300000001000000b03d0600a8e40b0008000000e4b30700020000004800000004000000c8ffffff1c00000004000000100000003184afbf8bdf49358b085919331758e5100000006865726f657353756d6d69745f3276320000000008000c0004000800080000001c0000000400000010000000b8d229aa3a5742a48b4c00c5190bed10100000006865726f657353756d6d69745f31763100000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "level_heroessummit_arena_000.png",
+      "source": "embedded_ktx",
+      "offset": 414876,
+      "length": 779348,
+      "width": 1526,
+      "height": 2039,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

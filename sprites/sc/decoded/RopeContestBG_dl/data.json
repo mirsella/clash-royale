@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "RopeContestBG_dl.sc",
+  "original_stem": "RopeContestBG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000f1292da96fc4e43b7dbc42f26925df19e18923ef1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000a400000030ab1a00080000003c9b0100010000000c00000008000c0004000800080000001c000000040000001000000033b86051d35c42e39aa35b6e88986a5c0900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

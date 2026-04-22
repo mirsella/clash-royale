@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "building_bomb_tower.sc",
+  "original_stem": "building_bomb_tower",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000a623e8751344a7117bdf1299b90f222fd0b85e9e1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000030000000300000001000000bc01000018350000080000004425000004000000d800000090000000480000000400000040ffffff1c00000004000000100000003c47682982f8489e8d840ee3645b8e2a1b0000006275696c64696e675f626f6d625f746f7765725f746f705f7265640080ffffff1c000000040000001000000070b282f4068744989da353577f1e23471c0000006275696c64696e675f626f6d625f746f7765725f746f705f626c756500000000c4ffffff1c0000000400000010000000a3d40da75af144b4a5137ed48c089216170000006275696c64696e675f626f6d625f746f7765725f7265640008000c0004000800080000001c0000000400000010000000068c2052caec4c02b8e87608850b2e4e180000006275696c64696e675f626f6d625f746f7765725f626c756500000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "building_bomb_tower_000.png",
+      "source": "embedded_ktx",
+      "offset": 1012,
+      "length": 13508,
+      "width": 218,
+      "height": 236,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_motherwitch_hogcharge_dl.sc",
+  "original_stem": "emotes_motherwitch_hogcharge_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000f9a4af760548786a11d07f6c920e24d7ee6b83651c002800040008000c001000140000000000000018001c00200024001c00000001000000010000001a0000000200000001000000a4570100905505000800000060e60000020000003c00000004000000d4ffffff1c0000000400000010000000c6ac2abd810748ec841c236258dfa2a00500000069636f6e3100000008000c0004000800080000001c0000000400000010000000a92213e2aa464c22be707da9a5e37cdb06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

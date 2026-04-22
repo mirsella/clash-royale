@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "kind": "sctx",
+  "original_file_name": "ui_card_info_fx_0.sctx",
+  "original_stem": "ui_card_info_fx_0",
+  "source_backup": "original.sctx",
+  "texture": "ui_card_info_fx_0.png",
+  "type": "ASTC_RGBA8_8x8",
+  "type_enum": 212,
+  "width": 2558,
+  "height": 3550,
+  "generate_mip_maps": false,
+  "mip_count": 1,
+  "unknown_flag": false,
+  "unknown_flag_1": true,
+  "compressed": true,
+  "streaming": {
+    "ids": [
+      3
+    ],
+    "textures": [
+      {
+        "texture": "ui_card_info_fx_0_variant_0.png",
+        "type": "ASTC_RGBA8_8x8",
+        "type_enum": 212,
+        "width": 319,
+        "height": 443
+      }
+    ]
+  },
+  "container": {
+    "identifier": "SCTX",
+    "compressed": true,
+    "payload_encoding": "zstd",
+    "use_padding": false,
+    "unk1": 0,
+    "unk3": 0,
+    "unk5": 0,
+    "unk6": 0,
+    "flags": 5,
+    "texture_length": 2273280,
+    "root_chunk_length": 35980,
+    "mipmaps_chunk_length": 44,
+    "data_offset": 36032
+  },
+  "mip_levels": [
+    {
+      "index": 0,
+      "width": 2558,
+      "height": 3550,
+      "offset": 0,
+      "length": 2273280,
+      "hash_hex": "3962a8de1e43f400"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "68_WinningDuo_FG.sc",
+  "original_stem": "68_WinningDuo_FG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000cfffdb815a5df9b4f46a91c10377f7ea30f0c19d1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000d400000010fe0e00080000005c4f0200010000000c00000008000c0004000800080000001c0000000400000010000000e6d70580b82041118952a60a7c6583900900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

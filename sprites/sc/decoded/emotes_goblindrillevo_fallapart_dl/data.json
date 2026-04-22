@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_goblindrillevo_fallapart_dl.sc",
+  "original_stem": "emotes_goblindrillevo_fallapart_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000a00cb6822e788cf8b3531634fe117937f923c5491c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000150000000300000001000000f0770000f05b04000800000080c80000020000003c00000004000000d4ffffff1c00000004000000100000008cabbae287634962aeb9b57aeb9df9f30500000069636f6e3100000008000c0004000800080000001c000000040000001000000031e7012b065545f88c6897ca44df21c506000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "GoblinMantaBG_BG_dl.sc",
+  "original_stem": "GoblinMantaBG_BG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000012a58f9985d0741a9ffe74bdf0ad52daeb1b48a91c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000a400000030ab1a0008000000541c0600010000000c00000008000c0004000800080000001c000000040000001000000007868a2c0b9c4fd0b7c56261f39a43b20900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

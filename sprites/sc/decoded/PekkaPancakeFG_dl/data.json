@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "PekkaPancakeFG_dl.sc",
+  "original_stem": "PekkaPancakeFG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000c12ccdbe1db91b05c54df9ef2884bf15e69d18e91c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000c800000010cc170008000000702c0400010000000c00000008000c0004000800080000001c000000040000001000000016044fea16304b178e17ba8144e4a0f10900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "level_goblintr_queenpalace.sc",
+  "original_stem": "level_goblintr_queenpalace",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000002fe5ec22f2a6987a8005f88bc038ec181cb6a69f1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000002e00000008000000010000004c3201005080da0208000000d4f14500020000004c00000004000000c4ffffff1c0000000400000010000000c7025a9ec9de443a94ed116c83049948150000007a696775726174655f746f705f626173655f32763200000008000c0004000800080000001c0000000400000010000000689caed409aa44fb9289ace6dbad32e2140000007a696775726174655f746f705f626173655f303100000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

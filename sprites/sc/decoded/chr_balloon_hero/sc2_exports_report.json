@@ -1,0 +1,27 @@
+{
+  "exports_found": 47,
+  "exports_rendered": 30,
+  "frames_rendered": 30,
+  "sc": "chr_balloon_hero.sc",
+  "skipped_empty": [
+    "vmc_balloon_hero_ability_target_aim_red",
+    "vmc_balloon_hero_meta_intro_leaf_falling_02",
+    "vmc_balloon_hero_ability_target_aim",
+    "vmc_balloon_hero_ability_skeletrooper_trail_dust_01",
+    "vmc_balloon_hero_explosion_smoke_beige",
+    "vmc_balloon_hero_meta_intro_leaf_falling_01",
+    "vmc_balloon_hero_deploy_ground_flare",
+    "vmc_balloon_hero_ability_explosion_smoke",
+    "vmc_balloon_hero_ability_skeletrooper_trail_dust_02",
+    "vmc_balloon_hero_deploy_bottom_glow_red",
+    "vmc_balloon_hero_atk_hit_smoke_beige",
+    "vmc_balloon_hero_death_explosion_cylinder_behind",
+    "vmc_balloon_hero_explosion_soot",
+    "vmc_balloon_hero_death_smoke_blue",
+    "vmc_balloon_hero_death_smoke_red",
+    "vmc_balloon_hero_deploy_bottom_glow",
+    "vmc_balloon_hero_deploy_particles"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_balloon_hero"
+}

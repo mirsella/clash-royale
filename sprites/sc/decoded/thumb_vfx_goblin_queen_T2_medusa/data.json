@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "thumb_vfx_goblin_queen_T2_medusa.sc",
+  "original_stem": "thumb_vfx_goblin_queen_T2_medusa",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000f334e7c36bdbd8bea3c733003aac9d84f1f313911c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000bc0000007800000008000000f8000000010000000c00000008000c0004000800080000001c0000000400000010000000eca4ab41b0b34b13bda9fc622f942b26200000007468756d625f7666785f676f626c696e5f717565656e5f54325f6d656475736100000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

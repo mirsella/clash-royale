@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "58_AnimDaggerDuch_FG.sc",
+  "original_stem": "58_AnimDaggerDuch_FG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000006977a08ace0852b4ffc23dc4cdfc4bda69eeaf1b1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000001f0000000600000001000000d0b20000502d08000800000098ae0100010000000c00000008000c0004000800080000001c0000000400000010000000cdd1da7fad8d459794e8318a007010da0900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

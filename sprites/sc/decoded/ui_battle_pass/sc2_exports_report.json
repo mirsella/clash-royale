@@ -1,0 +1,11 @@
+{
+  "exports_found": 120,
+  "exports_rendered": 119,
+  "frames_rendered": 119,
+  "sc": "ui_battle_pass.sc",
+  "skipped_empty": [
+    "pass_v3_royale_content_perk_title"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/ui_battle_pass"
+}

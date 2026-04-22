@@ -1,0 +1,21 @@
+{
+  "schema_version": 2,
+  "original_file_name": "74_FireDoggoWalk_BG.sc",
+  "original_stem": "74_FireDoggoWalk_BG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": false,
+    "version": 4,
+    "version_raw": 4,
+    "v4_extra": 3,
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

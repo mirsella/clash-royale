@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "FishermanFishFG_dl.sc",
+  "original_stem": "FishermanFishFG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000822499d72675651c22354e8d2c8e82d7452a014e1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000d4000000f0ce1a000800000084ca0400010000000c00000008000c0004000800080000001c0000000400000010000000b1d6a703910849c1834c0fc8d7ab2c850900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

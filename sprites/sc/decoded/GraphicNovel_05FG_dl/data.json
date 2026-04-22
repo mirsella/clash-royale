@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "GraphicNovel_05FG_dl.sc",
+  "original_stem": "GraphicNovel_05FG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000077ee133660fe66fd4576c88873990ce8bc6b1d951c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000d40000002017190008000000587c0300010000000c00000008000c0004000800080000001c00000004000000100000005bbf9ae52bb143f1a9085a6f5c754af20900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

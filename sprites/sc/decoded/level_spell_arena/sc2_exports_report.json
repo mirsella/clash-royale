@@ -1,0 +1,13 @@
+{
+  "exports_found": 21,
+  "exports_rendered": 18,
+  "frames_rendered": 18,
+  "sc": "level_spell_arena.sc",
+  "skipped_empty": [
+    "firefly_anim3",
+    "firefly_anim1",
+    "firefly_anim2"
+  ],
+  "textures_resolved": 2,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/level_spell_arena"
+}

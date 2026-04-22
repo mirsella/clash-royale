@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "chr_balloon.sc",
+  "original_stem": "chr_balloon",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000d27cfb7452bb8a70dd58231dc3782845ac5328381c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000a0000000900000001000000e8360000b8b5000008000000208a00000600000044010000f8000000b8000000780000003c00000004000000dcfeffff1c00000004000000100000004d96983ddc284c279e191654693b4e100f00000062616c6c6f6f6e315f72756e315f310010ffffff1c000000040000001000000059fadc73df1d4069a578f1d16693b65b1000000062616c6c6f6f6e315f69646c65315f310000000048ffffff1c0000000400000010000000b1a217e69fa14164820ce48ac39a980f1500000062616c6c6f6f6e315f656e656d795f72756e315f3100000084ffffff1c0000000400000010000000690f26534563461a83d96eca21f6a8041600000062616c6c6f6f6e315f656e656d795f69646c65315f310000c0ffffff1c0000000400000010000000bd491ebbb29845e0b4b5dabaa35320d11800000062616c6c6f6f6e315f656e656d795f61747461636b315f310000000008000c0004000800080000001c00000004000000100000000e57ad0ef441428a900ac555ce0e7ecc1200000062616c6c6f6f6e315f61747461636b315f310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "chr_balloon_000.png",
+      "source": "embedded_ktx",
+      "offset": 18220,
+      "length": 46436,
+      "width": 182,
+      "height": 252,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b0",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37808,
+      "gl_base_internal_format": 6408,
+      "astc_block": "4x4",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

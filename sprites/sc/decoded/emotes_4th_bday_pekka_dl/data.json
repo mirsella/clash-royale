@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_4th_bday_pekka_dl.sc",
+  "original_stem": "emotes_4th_bday_pekka_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000eea56cd441c9a738657c9f270281a9ff539caf7a1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000140000000200000001000000b0740000507410000800000038e50000020000003c00000004000000d4ffffff1c00000004000000100000001c1224f33163439c87982bb14d5884e80500000069636f6e3100000008000c0004000800080000001c00000004000000100000009367f7e8f7e34927b7ef5c67f136b90f06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

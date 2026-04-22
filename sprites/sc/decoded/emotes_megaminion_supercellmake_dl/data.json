@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_megaminion_supercellmake_dl.sc",
+  "original_stem": "emotes_megaminion_supercellmake_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000cfa8649a25f07a2c077c33a31005d169fab948e21c002800040008000c001000140000000000000018001c00200024001c00000001000000010000001f0000000400000001000000ec7b000050f40500080000009cd90000020000003c00000004000000d4ffffff1c00000004000000100000004345010b0b504b6c84f912e8a187d2a40500000069636f6e3100000008000c0004000800080000001c0000000400000010000000e7537f0d6522462f88e8864b46ca070606000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

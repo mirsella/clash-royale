@@ -1,0 +1,12 @@
+{
+  "exports_found": 53,
+  "exports_rendered": 51,
+  "frames_rendered": 51,
+  "sc": "level_clan_arena.sc",
+  "skipped_empty": [
+    "clan_torch_right",
+    "clan_torch_left"
+  ],
+  "textures_resolved": 2,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/level_clan_arena"
+}

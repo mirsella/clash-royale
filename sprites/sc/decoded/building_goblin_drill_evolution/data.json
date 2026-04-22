@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "building_goblin_drill_evolution.sc",
+  "original_stem": "building_goblin_drill_evolution",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000d5fe5fafb050b4a0604e36bc7eaab607ae212c2c1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000001700000004000000010000007c4e000018bd010008000000703e0100030000009c0000004c0000000400000078ffffff1c00000004000000100000007fb38f4516de4ae59b0f653f121f11771c000000676f626c696e5f6472696c6c5f65766f6c7574696f6e5f67686f737400000000bcffffff1c00000004000000100000000aaca731526a4c4a813dfd08ceab4fb01c000000676f626c696e5f6472696c6c5f65766f6c7574696f6e5f656e656d790000000008000c0004000800080000001c0000000400000010000000a912eb0e96f0479d8cd7bf4f5e12b10f16000000676f626c696e5f6472696c6c5f65766f6c7574696f6e0000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "building_goblin_drill_evolution_000.png",
+      "source": "embedded_ktx",
+      "offset": 24884,
+      "length": 113860,
+      "width": 444,
+      "height": 1014,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

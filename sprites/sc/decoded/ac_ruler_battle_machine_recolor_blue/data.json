@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ac_ruler_battle_machine_recolor_blue.sc",
+  "original_stem": "ac_ruler_battle_machine_recolor_blue",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000dc1608a1fe6216ceb00833acf97461ceff38be231c002c00040008000c00100014001800000000001c002000240028001c00000001000000010000000200000002000000010000000100000090010000b400000008000000c0010000020000005c00000004000000b4ffffff1c0000000400000010000000b74fb574b7bd44b2ace3fb913764e99b270000007468756d625f72756c65725f626174746c655f6d616368696e655f7265636f6c6f725f626c75650008000c0004000800080000001c0000000400000010000000da697570f6d040dab5da2a14dbe677832b00000061635f72756c65725f696e67616d655f626174746c655f6d616368696e655f7265636f6c6f725f626c756500",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

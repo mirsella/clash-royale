@@ -1,0 +1,11 @@
+{
+  "exports_found": 22,
+  "exports_rendered": 21,
+  "frames_rendered": 21,
+  "sc": "level_magicschool_dl.sc",
+  "skipped_empty": [
+    "magic_book_flying_dark"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/level_magicschool_dl"
+}

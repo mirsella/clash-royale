@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "68_GoingBerserk_FG.sc",
+  "original_stem": "68_GoingBerserk_FG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000000eeb04611a2499eed986d414b7e32d82aafeef911c002800040008000c001000140000000000000018001c00200024001c000000010000000100000026000000240000000100000090090100d0f83800080000006c5f0800010000000c00000008000c0004000800080000001c00000004000000100000002f1ce6224e3045d99dd7ebe1030839290900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

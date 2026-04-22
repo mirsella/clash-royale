@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "61_GoblinsGift_FG.sc",
+  "original_stem": "61_GoblinsGift_FG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000a7f7551ab237dfe9ff9ce8ce281ee5977abb408b1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000d4000000901c0d000800000068b60100010000000c00000008000c0004000800080000001c0000000400000010000000bb67aa1f50934f5795e2f1b2e9bc3c640900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

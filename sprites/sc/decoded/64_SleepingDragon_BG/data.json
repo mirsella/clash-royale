@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "64_SleepingDragon_BG.sc",
+  "original_stem": "64_SleepingDragon_BG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000005a03da7806d2a9775f21dc55acf1fc411b74e8601c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000a400000030ab1a000800000070420300010000000c00000008000c0004000800080000001c0000000400000010000000433be79fb29048c1ba6b309c9d6bff6d0900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

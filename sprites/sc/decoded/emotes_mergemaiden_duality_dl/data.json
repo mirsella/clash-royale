@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_mergemaiden_duality_dl.sc",
+  "original_stem": "emotes_mergemaiden_duality_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000002a02b46e1fbfb23f9b3d6fa0598dd0a713af34181c002800040008000c001000140000000000000018001c00200024001c00000001000000010000001c0000000200000001000000fc1501005028080008000000a8600100020000003c00000004000000d4ffffff1c00000004000000100000001132ba6c6f084cbe94baebd0d6fabb670500000069636f6e3100000008000c0004000800080000001c0000000400000010000000ae9dc873a0f548ffbc08c6d7d0b7d99406000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

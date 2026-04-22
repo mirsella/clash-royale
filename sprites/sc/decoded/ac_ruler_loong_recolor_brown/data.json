@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ac_ruler_loong_recolor_brown.sc",
+  "original_stem": "ac_ruler_loong_recolor_brown",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000003e1596bd0767aa99d826a25f1e76d05e007185d51c002c00040008000c00100014001800000000001c002000240028001c0000000100000001000000020000000200000001000000010000008c010000b400000008000000c4010000020000005400000004000000bcffffff1c000000040000001000000075b0decabea44b2e9288288b71d787511f0000007468756d625f72756c65725f6c6f6f6e675f7265636f6c6f725f62726f776e0008000c0004000800080000001c00000004000000100000007dc1a122a86f4163a19595d4ab7074e22300000061635f72756c65725f696e67616d655f6c6f6f6e675f7265636f6c6f725f62726f776e00",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

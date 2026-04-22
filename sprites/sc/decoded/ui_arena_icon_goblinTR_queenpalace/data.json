@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_goblinTR_queenpalace.sc",
+  "original_stem": "ui_arena_icon_goblinTR_queenpalace",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000c38161595b1c93b4a4eb37e6577e3f3d8c0e8adf1c002c00040008000c00100014001800000000001c002000240028001c00000001000000010000002b000000050000000100000001000000841a00001808000008000000300f0000010000000c00000008000c0004000800080000001c00000004000000100000002438d740a5af4cfa83d478a6c8721d75110000006172656e615f717565656e70616c616365000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "chr_king.sc",
+  "original_stem": "chr_king",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000ba289c652155df749f845e9aca64179add56c9201c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000920000000c0000000100000054720000d812250008000000f03a1700060000004001000004010000c8000000840000004400000004000000e0feffff1c00000004000000100000009e44b734375b4c18bfc2642b05d85f3e1600000064656661756c745f7265645f7475727265745f746f7000001cffffff1c00000004000000100000005df96847198740d9bb6f2b18567657a81600000064656661756c745f7265645f7475727265745f6d6964000058ffffff1c0000000400000010000000f01e26c082404631b88efcb0ac7a4cb41900000064656661756c745f7265645f7475727265745f626f74746f6d00000098ffffff1c000000040000001000000096f905713cca4ac5b567bd4cc4631e6a1300000064656661756c745f626c75655f74757272657400d0ffffff1c00000004000000100000001b9e98396e5a439aa8a77cff35d2a029080000004b696e675f7265640000000008000c0004000800080000001c00000004000000100000004aa78b0a8b2f4577bc626b02063b764d090000004b696e675f626c7565000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "chr_king_000.png",
+      "source": "embedded_ktx",
+      "offset": 54828,
+      "length": 2429572,
+      "width": 1274,
+      "height": 1904,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b0",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37808,
+      "gl_base_internal_format": 6408,
+      "astc_block": "4x4",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

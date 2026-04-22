@@ -1,0 +1,14 @@
+{
+  "exports_found": 85,
+  "exports_rendered": 81,
+  "frames_rendered": 81,
+  "sc": "chr_hunter_evolution.sc",
+  "skipped_empty": [
+    "evo_hunter_shadow",
+    "evo_hunter_net_back",
+    "evo_hunter_net",
+    "evo_hunter_net_projectile"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_hunter_evolution"
+}

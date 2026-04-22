@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "FlyingMachineFG_dl.sc",
+  "original_stem": "FlyingMachineFG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000005dcc2beee6c1090565d4e7a5e0f2aa7cebae98041c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000d400000090881300080000008cc90200010000000c00000008000c0004000800080000001c00000004000000100000007e9c2c4b1dbc4b9dad7326a8839622810900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

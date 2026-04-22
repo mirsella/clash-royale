@@ -1,0 +1,11 @@
+{
+  "exports_found": 175,
+  "exports_rendered": 174,
+  "frames_rendered": 174,
+  "sc": "chr_mighty_monk_dl.sc",
+  "skipped_empty": [
+    "Monk_dome_effect_top"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_mighty_monk_dl"
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "SkeletonBalloonFG_dl.sc",
+  "original_stem": "SkeletonBalloonFG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000e9d531899d92617f3217978f4fb8945f93519af91c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000bc000000a07e120008000000b0440300010000000c00000008000c0004000800080000001c000000040000001000000064c263bf61a344d5a947b1241e1d0c9f0900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

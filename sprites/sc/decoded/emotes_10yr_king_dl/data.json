@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_10yr_king_dl.sc",
+  "original_stem": "emotes_10yr_king_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000001b693456ab3dc3650676bd0a91995fa7c60c528f1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000d0000000200000001000000844e0000d06a050008000000f0510000020000003c00000004000000d4ffffff1c0000000400000010000000ed3921e6226f46cd97f3c58a1778d8c60500000069636f6e3100000008000c0004000800080000001c0000000400000010000000c52b7139ac964dc09e5448da8ebb5eb806000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

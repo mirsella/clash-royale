@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "thumb_vfx_battle_machine_T2_iron.sc",
+  "original_stem": "thumb_vfx_battle_machine_T2_iron",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000023710201b0ae5d38704fb705513b67f568d8c6431c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000bc0000007800000008000000f8000000010000000c00000008000c0004000800080000001c0000000400000010000000fa738b38bc2549928aee608729d7c869200000007468756d625f7666785f626174746c655f6d616368696e655f54325f69726f6e00000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

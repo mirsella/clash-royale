@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_nightwitch_papercut_dl.sc",
+  "original_stem": "emotes_nightwitch_papercut_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000017f1ab65722753550e1840ffc217f5013674074a1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000200000000300000001000000581c01005068030008000000f89d0000020000003c00000004000000d4ffffff1c00000004000000100000005793025623304fa696454267f19b8d990500000069636f6e3100000008000c0004000800080000001c0000000400000010000000eaf4ad64c77d441f94a3a62d9c0a5e1806000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

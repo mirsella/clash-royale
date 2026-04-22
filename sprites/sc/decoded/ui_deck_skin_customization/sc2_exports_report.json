@@ -1,0 +1,11 @@
+{
+  "exports_found": 17,
+  "exports_rendered": 16,
+  "frames_rendered": 16,
+  "sc": "ui_deck_skin_customization.sc",
+  "skipped_empty": [
+    "battle_banner_with_buttons"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/ui_deck_skin_customization"
+}

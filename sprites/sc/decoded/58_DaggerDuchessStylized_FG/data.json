@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "58_DaggerDuchessStylized_FG.sc",
+  "original_stem": "58_DaggerDuchessStylized_FG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000023527c50fffee2a7faf8cdc0c8431a2208ca39f11c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000c800000010b1070008000000e0210100010000000c00000008000c0004000800080000001c00000004000000100000001384e0b962464b6eb3efbbebc417040b0900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

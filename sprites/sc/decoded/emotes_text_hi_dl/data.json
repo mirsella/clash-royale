@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_text_hi_dl.sc",
+  "original_stem": "emotes_text_hi_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000007ba62d4d68240b5ad037a5b979a795178f1134321c002800040008000c001000140000000000000018001c00200024001c000000010000000100000005000000020000000100000064370000d0d8010008000000603f0000020000003c00000004000000d4ffffff1c0000000400000010000000e9516e57ab5c407b9f6fc3c7c94e125b0500000069636f6e3100000008000c0004000800080000001c0000000400000010000000c952031e2efa4fbdb1d62b67c136327c06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

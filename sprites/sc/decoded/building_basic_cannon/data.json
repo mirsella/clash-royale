@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "building_basic_cannon.sc",
+  "original_stem": "building_basic_cannon",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000008a982ef387ccab4d531058899cc3e5d7aca6f4941c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000770000000c000000010000007c3c00009899020008000000a8ca01000600000044010000fc000000c0000000800000004400000004000000dcfeffff1c0000000400000010000000b5369eb2aaf54637a36de4ef1c610f901500000063616e6e6f6e5f70726573746967655f325f72656400000018ffffff1c00000004000000100000009eb3c603042a4610ae0196a116a7eacd1100000063616e6e6f6e5f70726573746967655f3200000050ffffff1c00000004000000100000003e1fa6c8b40548718d391dab08c2b5441500000063616e6e6f6e5f70726573746967655f315f7265640000008cffffff1c0000000400000010000000e5865f7d7dd1414490be0bddbf5619391100000063616e6e6f6e5f70726573746967655f31000000c4ffffff1c00000004000000100000003bc7bb041efe4cf9ad8789a072bf457a150000006275696c64696e675f656e656d795f63616e6e6f6e00000008000c0004000800080000001c0000000400000010000000ecfd217e67bd4810aae478fce7d709e10f0000006275696c64696e675f63616e6e6f6e00",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "building_basic_cannon_000.png",
+      "source": "embedded_ktx",
+      "offset": 23896,
+      "length": 170308,
+      "width": 754,
+      "height": 894,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_card_furnace_evolution.sc",
+  "original_stem": "ui_card_furnace_evolution",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000009225bebe351dfcaf730770aa8240c556794f70811c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000b8000000740000000800000000010000010000000c00000008000c0004000800080000001c0000000400000010000000d3ce82b006804a91857db1031c5ba4b91c0000006675726e6163655f65766f6c7574696f6e5f636172645f696d61676500000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

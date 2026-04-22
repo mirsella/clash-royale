@@ -1,0 +1,13 @@
+{
+  "exports_found": 60,
+  "exports_rendered": 57,
+  "frames_rendered": 57,
+  "sc": "level_ice_arena.sc",
+  "skipped_empty": [
+    "ice_vfx_sparkle_01",
+    "ice_vfx_shine_01",
+    "ice_vfx_ripple_01_dummy"
+  ],
+  "textures_resolved": 2,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/level_ice_arena"
+}

@@ -1,0 +1,14 @@
+{
+  "exports_found": 25,
+  "exports_rendered": 21,
+  "frames_rendered": 21,
+  "sc": "chr_barbarian_barrel_hero.sc",
+  "skipped_empty": [
+    "vmc_barbarian_barrel_hero_explosion_backglow",
+    "vmc_barbarian_barrel_hero_meta_intro_03_glow",
+    "vmc_barbarian_barrel_hero_rolling_backglow",
+    "vmc_barbarian_barrel_hero_rolling_start_enemy"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_barbarian_barrel_hero"
+}

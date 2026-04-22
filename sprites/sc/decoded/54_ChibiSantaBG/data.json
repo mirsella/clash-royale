@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "54_ChibiSantaBG.sc",
+  "original_stem": "54_ChibiSantaBG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000d463f0d779acc6c8ed2001d77dcb4ddb40c6c46c1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000a400000030ab1a0008000000cc7b0500010000000c00000008000c0004000800080000001c000000040000001000000068e2156ec48f4de08a9b8d22321a02d10900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

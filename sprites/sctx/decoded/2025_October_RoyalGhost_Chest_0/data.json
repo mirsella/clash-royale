@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "kind": "sctx",
+  "original_file_name": "2025_October_RoyalGhost_Chest_0.sctx",
+  "original_stem": "2025_October_RoyalGhost_Chest_0",
+  "source_backup": "original.sctx",
+  "texture": "2025_October_RoyalGhost_Chest_0.png",
+  "type": "ASTC_RGBA8_8x8",
+  "type_enum": 212,
+  "width": 3384,
+  "height": 4072,
+  "generate_mip_maps": false,
+  "mip_count": 1,
+  "unknown_flag": false,
+  "unknown_flag_1": true,
+  "compressed": true,
+  "streaming": {
+    "ids": [
+      3
+    ],
+    "textures": [
+      {
+        "texture": "2025_October_RoyalGhost_Chest_0_variant_0.png",
+        "type": "ASTC_RGBA8_8x8",
+        "type_enum": 212,
+        "width": 423,
+        "height": 509
+      }
+    ]
+  },
+  "container": {
+    "identifier": "SCTX",
+    "compressed": true,
+    "payload_encoding": "zstd",
+    "use_padding": false,
+    "unk1": 0,
+    "unk3": 0,
+    "unk5": 0,
+    "unk6": 0,
+    "flags": 5,
+    "texture_length": 3444912,
+    "root_chunk_length": 54412,
+    "mipmaps_chunk_length": 44,
+    "data_offset": 54464
+  },
+  "mip_levels": [
+    {
+      "index": 0,
+      "width": 3384,
+      "height": 4072,
+      "offset": 0,
+      "length": 3444912,
+      "hash_hex": "c106158bdf8920fd"
+    }
+  ]
+}

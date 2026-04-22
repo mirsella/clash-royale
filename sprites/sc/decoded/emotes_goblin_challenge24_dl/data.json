@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_goblin_challenge24_dl.sc",
+  "original_stem": "emotes_goblin_challenge24_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000ecb835f4f7a67abb2a1607b96f9327a8958d4a281c002800040008000c001000140000000000000018001c00200024001c000000010000000100000004000000020000000100000070200000d078020008000000f4800000020000003c00000004000000d4ffffff1c0000000400000010000000143e38cc814e473f966b99164978e2cf0500000069636f6e3100000008000c0004000800080000001c00000004000000100000001bd8ff3462b9489e9954e37863f81a2806000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

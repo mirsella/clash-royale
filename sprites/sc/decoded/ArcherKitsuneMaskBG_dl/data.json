@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ArcherKitsuneMaskBG_dl.sc",
+  "original_stem": "ArcherKitsuneMaskBG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000009922fe84171b0bdd84a93e0bec1aeb870ff11fcb1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000a400000030ab1a000800000030ec0500010000000c00000008000c0004000800080000001c0000000400000010000000ae90978a9043432f8e2f1991356c29070900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

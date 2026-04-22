@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ac_ruler_echo_monk_recolor_yellow.sc",
+  "original_stem": "ac_ruler_echo_monk_recolor_yellow",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000087eadd382f4073952271b4de2c5c25b9002e96421c002c00040008000c00100014001800000000001c002000240028001c0000000100000001000000020000000200000001000000010000009c010000b400000008000000d0010000020000005c00000004000000b4ffffff1c0000000400000010000000cdc673668a894404b583df40349a2b2e240000007468756d625f72756c65725f6563686f5f6d6f6e6b5f7265636f6c6f725f79656c6c6f770000000008000c0004000800080000001c000000040000001000000095e58385529a457c94de7e8c5bda343d2800000061635f72756c65725f696e67616d655f6563686f5f6d6f6e6b5f7265636f6c6f725f79656c6c6f7700000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_rokkus_laugh_dl.sc",
+  "original_stem": "emotes_rokkus_laugh_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000dfa271f76bfb4d04ebd7f6d382602ebb936fe71c1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000060000000200000001000000e8510000d0a903000800000054600000020000003c00000004000000d4ffffff1c000000040000001000000084b2688fce544f08befbd1e07ad7010e0500000069636f6e3100000008000c0004000800080000001c00000004000000100000000051825598cc413da508c1b2292a294a06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "level_goblinTR_mudpit.sc",
+  "original_stem": "level_goblinTR_mudpit",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000022342be9ebcb91ba81092bccf861a8e805210bcb1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000002b0000000600000001000000042300005048520108000000885d2200020000004c00000004000000c4ffffff1c00000004000000100000006060d301175043d091fbc250f9b700a0150000006d75647069745f6172656e615f626173655f32763200000008000c0004000800080000001c0000000400000010000000083bcfa3d73c48249bfdbd4aa63dec69140000006d75647069745f6172656e615f626173655f303100000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

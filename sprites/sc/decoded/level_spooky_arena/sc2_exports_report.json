@@ -1,0 +1,12 @@
+{
+  "exports_found": 37,
+  "exports_rendered": 35,
+  "frames_rendered": 35,
+  "sc": "level_spooky_arena.sc",
+  "skipped_empty": [
+    "spooky_vfx_ghost_01",
+    "spooky_fog_01"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/level_spooky_arena"
+}

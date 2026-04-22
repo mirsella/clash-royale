@@ -1,0 +1,11 @@
+{
+  "exports_found": 13,
+  "exports_rendered": 12,
+  "frames_rendered": 12,
+  "sc": "spell_snowball_evolution.sc",
+  "skipped_empty": [
+    "evo_snowball_capture_fx"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/spell_snowball_evolution"
+}

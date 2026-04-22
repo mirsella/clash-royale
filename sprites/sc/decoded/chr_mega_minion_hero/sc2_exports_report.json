@@ -1,0 +1,18 @@
+{
+  "exports_found": 22,
+  "exports_rendered": 14,
+  "frames_rendered": 14,
+  "sc": "chr_mega_minion_hero.sc",
+  "skipped_empty": [
+    "vmc_megaminion_hero_targetter_blue_showup",
+    "vmc_megaminion_hero_targetter_red_showup",
+    "vmc_megaminion_hero_death",
+    "vmc_megaminion_hero_dash_smoke",
+    "vmc_megaminion_hero_hit",
+    "vmc_megaminion_hero_deploy_backglow",
+    "vmc_megaminion_hero_deploy_start",
+    "vmc_megaminion_hero_dash"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_mega_minion_hero"
+}

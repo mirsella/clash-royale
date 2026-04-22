@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_frankhalloween.sc",
+  "original_stem": "ui_arena_icon_frankhalloween",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000c553079c75039fb2bee223d671e6a1607200444f1c002c00040008000c00100014001800000000001c002000240028001c00000001000000010000000f000000100000000100000001000000c8620000003d000008000000800a0000010000000c00000008000c0004000800080000001c0000000400000010000000fd4e6c59ae7a4736a9c3eaaef916b4ce190000006172656e615f6672616e6b68616c6c6f7765656e5f69636f6e000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

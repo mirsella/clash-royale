@@ -1,0 +1,29 @@
+{
+  "exports_found": 255,
+  "exports_rendered": 236,
+  "frames_rendered": 236,
+  "sc": "ui_chest.sc",
+  "skipped_empty": [
+    "icon_consumable_wildcard_fly_anim",
+    "upgrade_card_consumable_wildcard",
+    "upgrade_card_consumable_elite_wildcard",
+    "wildcard_reveal_common",
+    "glow_ball__tournament_fx1_anim1",
+    "wildcard_reveal_legendary",
+    "magic_item_key",
+    "magic_item_book_legendary",
+    "magic_item_book_of_books",
+    "magic_item_book_rare",
+    "magic_item_book_common",
+    "open_chest_consumable",
+    "wildcard_reveal_rare",
+    "wildcard_reveal_epic",
+    "wildcard_reveal_champion",
+    "wildcard_collect",
+    "magic_item_book_epic",
+    "magic_item_coin",
+    "upgrade_card_clanwar"
+  ],
+  "textures_resolved": 3,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/ui_chest"
+}

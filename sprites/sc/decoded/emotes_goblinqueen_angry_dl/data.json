@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_goblinqueen_angry_dl.sc",
+  "original_stem": "emotes_goblinqueen_angry_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000b09ece2ff4adc53d48b94ac7bee6fbefef2dc4931c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000b000000040000000100000010730000d04f030008000000a89f0000020000003c00000004000000d4ffffff1c0000000400000010000000aa2383cdd7704194b52a50e4e91d49170500000069636f6e3100000008000c0004000800080000001c0000000400000010000000bc62305cab0f40d29d92bf70ae5d42ae06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

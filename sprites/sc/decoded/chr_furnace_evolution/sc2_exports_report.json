@@ -1,0 +1,15 @@
+{
+  "exports_found": 121,
+  "exports_rendered": 116,
+  "frames_rendered": 116,
+  "sc": "chr_furnace_evolution.sc",
+  "skipped_empty": [
+    "furnace_overheat_comp",
+    "furnace_evo_overheat_fire_01",
+    "furnace_evo_anim_crack_02",
+    "furnace_evo_projectile_hit",
+    "furnace_evo_comp_crack_02"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_furnace_evolution"
+}

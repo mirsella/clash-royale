@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "69_AnimatedBirthday_FG.sc",
+  "original_stem": "69_AnimatedBirthday_FG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000f146d6c46d40509c26cd2c65bd144a2abf8e21f01c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000330000001c00000001000000f0c5010050f8220008000000a4230600010000000c00000008000c0004000800080000001c000000040000001000000008ef791fc6ad49e79354c3868d18ff160900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

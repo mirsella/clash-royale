@@ -1,0 +1,11 @@
+{
+  "exports_found": 17,
+  "exports_rendered": 16,
+  "frames_rendered": 16,
+  "sc": "ui_clan_wars_map_01.sc",
+  "skipped_empty": [
+    "atlasgenerator_texture_rgba5656"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/ui_clan_wars_map_01"
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_witchevo_skeletonheal_dl.sc",
+  "original_stem": "emotes_witchevo_skeletonheal_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000b3162dbec85a0ac538ef04f434d5618868bb569f1c002800040008000c001000140000000000000018001c00200024001c000000010000000100000014000000020000000100000054ef0000d010090008000000dc3b0100020000003c00000004000000d4ffffff1c00000004000000100000006839acc52c0848a7b8972c11fcfb18b80500000069636f6e3100000008000c0004000800080000001c00000004000000100000009486ee15023d4eed8fb37143e6182d7b06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

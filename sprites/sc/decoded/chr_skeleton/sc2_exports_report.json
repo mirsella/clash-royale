@@ -1,0 +1,12 @@
+{
+  "exports_found": 29,
+  "exports_rendered": 27,
+  "frames_rendered": 27,
+  "sc": "chr_skeleton.sc",
+  "skipped_empty": [
+    "captured_soul",
+    "captured_soul_china"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_skeleton"
+}

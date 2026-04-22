@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_magicarcher_magicbow_dl.sc",
+  "original_stem": "emotes_magicarcher_magicbow_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000064fb7ee068c21c71bbebed26fc1e889ce647f4551c002800040008000c001000140000000000000018001c00200024001c000000010000000100000012000000050000000100000054c9000050f006000800000098dc0000020000003c00000004000000d4ffffff1c0000000400000010000000fe59d3aea87c4e1690d30453160054b50500000069636f6e3100000008000c0004000800080000001c0000000400000010000000995c0f6a017e4b609e44abc6acbf768306000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

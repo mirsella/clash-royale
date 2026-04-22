@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "kind": "sctx",
+  "original_file_name": "ui_arena_icon_ultimateclash_PoL_0.sctx",
+  "original_stem": "ui_arena_icon_ultimateclash_PoL_0",
+  "source_backup": "original.sctx",
+  "texture": "ui_arena_icon_ultimateclash_PoL_0.png",
+  "type": "RGBA8Unorm",
+  "type_enum": 70,
+  "width": 502,
+  "height": 790,
+  "generate_mip_maps": false,
+  "mip_count": 1,
+  "unknown_flag": false,
+  "unknown_flag_1": true,
+  "compressed": true,
+  "streaming": {
+    "ids": [
+      3
+    ],
+    "textures": [
+      {
+        "texture": "ui_arena_icon_ultimateclash_PoL_0_variant_0.png",
+        "type": "RGBA8Unorm",
+        "type_enum": 70,
+        "width": 62,
+        "height": 98
+      }
+    ]
+  },
+  "container": {
+    "identifier": "SCTX",
+    "compressed": true,
+    "payload_encoding": "zstd",
+    "use_padding": false,
+    "unk1": 0,
+    "unk3": 0,
+    "unk5": 0,
+    "unk6": 0,
+    "flags": 5,
+    "texture_length": 1586320,
+    "root_chunk_length": 24444,
+    "mipmaps_chunk_length": 44,
+    "data_offset": 24496
+  },
+  "mip_levels": [
+    {
+      "index": 0,
+      "width": 502,
+      "height": 790,
+      "offset": 0,
+      "length": 1586320,
+      "hash_hex": "74b2f8f9b3fba1a9"
+    }
+  ]
+}

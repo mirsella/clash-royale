@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_golden_magicacademy.sc",
+  "original_stem": "ui_arena_icon_golden_magicacademy",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000000e3962e71931cfcd8dfad20940505ef3047dddef1c002c00040008000c00100014001800000000001c002000240028001c000000010000000100000033000000040000000100000001000000bc7b0000040f000008000000a02e0000010000000c00000008000c0004000800080000001c0000000400000010000000b5358d0eaa1f4eb7b36e29ab491f14a71e0000006172656e615f676f6c64656e5f6d6167696341636164656d795f69636f6e0000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

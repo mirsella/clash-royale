@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_king_clasharamaclap_dl.sc",
+  "original_stem": "emotes_king_clasharamaclap_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000ed2736ae25e94cb8866fa19c59396a72289bbffd1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000070000000200000001000000883c000010d7020008000000947e0000020000003c00000004000000d4ffffff1c0000000400000010000000a849223110fe4224816ee3d14440703b0500000069636f6e3100000008000c0004000800080000001c00000004000000100000007410406cc7524666bf2bd1a260c3e9cb06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

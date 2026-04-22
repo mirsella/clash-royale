@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_rock_evolution.sc",
+  "original_stem": "ui_arena_icon_rock_evolution",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000007553e8557ccabe31201e9a0c871d17b6d27e64a51c002c00040008000c00100014001800000000001c002000240028001c00000001000000010000003b000000070000000100000001000000c03f0000c0170000080000002c200000020000004400000004000000ccffffff1c00000004000000100000004e81e40320494dddab182e870f5dbad30f000000726f636b6572415f69646c65315f390008000c0004000800080000001c0000000400000010000000d992f261f69d43fe9e83a2edefe920ec140000006172656e615f726f636b5f65766f6c7574696f6e00000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

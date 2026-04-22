@@ -1,0 +1,69 @@
+{
+  "schema_version": 2,
+  "original_file_name": "level_giant_arena.sc",
+  "original_stem": "level_giant_arena",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000002a2dbafb19aba13a49f495f2e5713276bbaa314e1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000002d00000016000000020000007cb90000a0290800080000002cc005000f0000001c030000dc020000a40200006c02000034020000fc010000c40100008c010000540100001c010000e4000000ac000000740000003c0000000400000028fdffff1c00000004000000100000000765a0b8f6ae43b797b10142f73791600f0000006769616e745f74726f7068795f3032005cfdffff1c0000000400000010000000b55edd3fbdf649ec8633d0b0a5f9af620f0000006769616e745f74726f7068795f30310090fdffff1c0000000400000010000000e5442aa11d5d429d8e10a6a39e5df3240f0000006769616e745f7374616e64735f303600c4fdffff1c0000000400000010000000585a074dbb00435a831dbec47c204f130f0000006769616e745f7374616e64735f303500f8fdffff1c0000000400000010000000d9115bec829d4bdcb18a81c50a02c3ce0f0000006769616e745f7374616e64735f3034002cfeffff1c000000040000001000000064c4e8c9c5294e9b9649c12af58c67df0f0000006769616e745f7374616e64735f30330060feffff1c0000000400000010000000be69f48b50164081ad277e016f4a03680f0000006769616e745f7374616e64735f30320094feffff1c0000000400000010000000c842f604aa7c4b23b07f99f73b8ad6fd0f0000006769616e745f7374616e64735f303100c8feffff1c0000000400000010000000ad686f6ecf214267be77c974f6bebebe0d0000006769616e745f626173655f3031000000fcfeffff1c000000040000001000000082038c13f71d42f1bad6febb782ff0920f0000006769616e745f62616e6e65725f30340030ffffff1c0000000400000010000000a2fba908d7bc4fbdb4e58d0c794dbd3e0f0000006769616e745f62616e6e65725f30330064ffffff1c0000000400000010000000bca6accd9b534d27a938ab023250c0e30f0000006769616e745f62616e6e65725f30320098ffffff1c000000040000001000000065e6232dbfe4428ba0456f817390aff20f0000006769616e745f62616e6e65725f303100ccffffff1c00000004000000100000007cfa7e8f6a2442c4a0b109a7f7eaef390d0000006769616e745f617263685f303100000008000c0004000800080000001c0000000400000010000000132c2dc21d254a7f9483921d7677c6781d00000061746c617367656e657261746f725f746578747572655f726762353635000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "level_giant_arena_000.png",
+      "source": "embedded_ktx",
+      "offset": 56076,
+      "length": 212,
+      "width": 20,
+      "height": 20,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    },
+    {
+      "index": 1,
+      "png_name": "level_giant_arena_001.png",
+      "source": "embedded_ktx",
+      "offset": 56340,
+      "length": 534596,
+      "width": 1390,
+      "height": 1534,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

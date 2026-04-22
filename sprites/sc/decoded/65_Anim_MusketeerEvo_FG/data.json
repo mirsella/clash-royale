@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "65_Anim_MusketeerEvo_FG.sc",
+  "original_stem": "65_Anim_MusketeerEvo_FG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000144b602fac0b53074d6054c23f134cdec3fe2d771c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000260000000200000001000000e4c60000507c2400080000004c6f0500010000000c00000008000c0004000800080000001c0000000400000010000000f9256944e83448dea3b4aad3458aedd10900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

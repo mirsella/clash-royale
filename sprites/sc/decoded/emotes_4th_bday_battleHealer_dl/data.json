@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_4th_bday_battleHealer_dl.sc",
+  "original_stem": "emotes_4th_bday_battleHealer_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000c82c474496450b39ec0bdee7a298ff721a48c96d1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000200000000200000001000000c4de000050c20b00080000002ce90000020000003c00000004000000d4ffffff1c0000000400000010000000f579ce4c26694f10b8b7bbf54c49a8a80500000069636f6e3100000008000c0004000800080000001c00000004000000100000002fbea0e0e5b640748c84bcb6c85e7ac806000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

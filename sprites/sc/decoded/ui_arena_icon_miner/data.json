@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_miner.sc",
+  "original_stem": "ui_arena_icon_miner",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000b77835e5b9265d96dcf76382b151553dc5b112a91c002c00040008000c00100014001800000000001c002000240028001c000000010000000100000007000000080000000100000001000000b8e70000c81b00000800000018660000010000000c00000008000c0004000800080000001c00000004000000100000005e4fb83bd3a848379d702cacde6eb0b60b0000006172656e615f6d696e657200",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

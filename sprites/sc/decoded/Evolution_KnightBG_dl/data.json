@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "Evolution_KnightBG_dl.sc",
+  "original_stem": "Evolution_KnightBG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000007e2604fa5aa698f44d973b657eb4bb5a853227e11c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000080000000200000001000000b05e000070a13d0008000000f4a40600010000000c00000008000c0004000800080000001c00000004000000100000009476343953fe40579b82e25a391e27100900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

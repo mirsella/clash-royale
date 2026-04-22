@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "WitchNightCookingBG_dl.sc",
+  "original_stem": "WitchNightCookingBG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000a6e272589441136fa4b59c88f3b4980ab4b1f3c51c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000a4000000d0ab6a0008000000780b0f00010000000c00000008000c0004000800080000001c0000000400000010000000638fe2a680ce48bab86ef80b71a6c9f90900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_crl_25.sc",
+  "original_stem": "emotes_crl_25",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000e8344313c4e4f36fba80481360c2757051858cab1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000900000002000000010000008854000070ff01000800000094850000020000003c00000004000000d4ffffff1c0000000400000010000000a0b97ae9ec1645fb9c184c2919a114480500000069636f6e3100000008000c0004000800080000001c0000000400000010000000a06761c9885946ef909ba20f58cd4a1106000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

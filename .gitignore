@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+# Do not republish encoded source asset containers in this decoded-only repo.
+*.sc
+*.sctx
+*.ktx
+*.zktx
+
+/models/original/
+/sprites/sc/original/
+/sprites/sctx/original/
+/textures/original/

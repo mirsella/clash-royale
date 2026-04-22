@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ElectroGiantBG_dl.sc",
+  "original_stem": "ElectroGiantBG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000accc222db3009c1184eb32070a4390c07d4ea8b11c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000a400000030ab1a000800000040e90300010000000c00000008000c0004000800080000001c000000040000001000000038081562f6bb4d00af6f1d5296affc570900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

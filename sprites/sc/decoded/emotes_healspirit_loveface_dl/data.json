@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_healspirit_loveface_dl.sc",
+  "original_stem": "emotes_healspirit_loveface_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000832115d7d524256db9f365f4ac794985011838641c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000150000000200000001000000f8b60000505f05000800000014ae0000020000003c00000004000000d4ffffff1c00000004000000100000001784a16f61634f99b623ed97e66aee630500000069636f6e3100000008000c0004000800080000001c00000004000000100000003098c2dcfaa44baa9760f13b6b1043c906000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

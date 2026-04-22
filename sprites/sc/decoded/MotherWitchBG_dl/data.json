@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "MotherWitchBG_dl.sc",
+  "original_stem": "MotherWitchBG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000006a016cdc3cec50b3b6a2758aa1f4bc3d9b9d03d51c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000a4000000d0811a0008000000a8c30200010000000c00000008000c0004000800080000001c0000000400000010000000bdceb323254e46079b12a7f894a46d920900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

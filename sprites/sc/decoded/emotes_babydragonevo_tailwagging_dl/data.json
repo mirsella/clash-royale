@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_babydragonevo_tailwagging_dl.sc",
+  "original_stem": "emotes_babydragonevo_tailwagging_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000250d8610a7fa3460c89ab7ffe5f4047d9f8f88f71c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000c0000000200000001000000187f0000e0360300080000002c9d0000020000003c00000004000000d4ffffff1c0000000400000010000000acd3b7492a5943de8bcdc6628f1a3ec20500000069636f6e3100000008000c0004000800080000001c0000000400000010000000adcf91e5ea8646eaa7aeea311644c89a06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

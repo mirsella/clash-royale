@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_lumberlove.sc",
+  "original_stem": "ui_arena_icon_lumberlove",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000e9407a679b542a341775c9b75bb3798c57a1aaac1c002c00040008000c00100014001800000000001c002000240028001c000000010000000100000004000000030000000100000001000000605700002c0c000008000000281c0000020000005000000004000000c0ffffff1c0000000400000010000000d2219d6161c54d6983904ba42693817a190000006172656e615f6c756d6265726c6f76655f706f6c5f69636f6e00000008000c0004000800080000001c0000000400000010000000684f5262b5544c23b454b8d6c59208dc150000006172656e615f6c756d6265726c6f76655f69636f6e000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

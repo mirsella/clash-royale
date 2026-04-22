@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "SnowBallFG_dl.sc",
+  "original_stem": "SnowBallFG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000007e2982f7aa8cae014a54796f32bdeffb2d5b46c01c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000d4000000d05c230008000000f8d80400010000000c00000008000c0004000800080000001c0000000400000010000000930b83d1a74a471685488e1ad78760e50900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

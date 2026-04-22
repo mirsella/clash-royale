@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_battlehealer_rainbow_dl.sc",
+  "original_stem": "emotes_battlehealer_rainbow_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000099080dde707d62e98af938ccdf75ddc443b77a251c002800040008000c001000140000000000000018001c00200024001c000000010000000100000016000000020000000100000098cd0000509005000800000048d90000020000003c00000004000000d4ffffff1c000000040000001000000056faf6900374447aaa6f55174f06856d0500000069636f6e3100000008000c0004000800080000001c00000004000000100000006162c383cd224bdc9036012f2206be6606000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_motherwitch_knitting_dl.sc",
+  "original_stem": "emotes_motherwitch_knitting_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000066bc4121719fab3281ad7a015f31a91bfb4b7d321c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000f000000020000000100000034b0000020c80300080000001ca60000020000003c00000004000000d4ffffff1c0000000400000010000000a6cbb722fc7e41869c71d4cc4df649cd0500000069636f6e3100000008000c0004000800080000001c0000000400000010000000ef3c795788c740038452375e41712b1706000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

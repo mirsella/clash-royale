@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_witch_skelerise_dl.sc",
+  "original_stem": "emotes_witch_skelerise_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000006d2b92a6b0d549b587940c868906041b04006c721c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000900000004000000010000001043010070ff0100080000009cbf0000020000003c00000004000000d4ffffff1c0000000400000010000000c43011c7800a4522b43b930323d14ca60500000069636f6e3100000008000c0004000800080000001c000000040000001000000033bc10977d8e42cf962b6a95ab85bad006000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

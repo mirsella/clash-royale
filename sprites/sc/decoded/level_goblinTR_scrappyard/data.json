@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "level_goblinTR_scrappyard.sc",
+  "original_stem": "level_goblinTR_scrappyard",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000b20cddad7e040e18e350eb91700f6462f7f513481c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000030000000200000001000000bc010000908944010800000020be4a00020000005000000004000000c0ffffff1c000000040000001000000003e2a04684dc469b8c5f2d48c9d3920f19000000736372617070796172645f6172656e615f626173655f32763200000008000c0004000800080000001c00000004000000100000005f4b52745f7a4164a863171044d06d7018000000736372617070796172645f6172656e615f626173655f303100000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

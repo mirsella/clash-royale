@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "67_Anim_RuneGiant_FG.sc",
+  "original_stem": "67_Anim_RuneGiant_FG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000f5ee78c4a7b727f43d0172e0c2cc1da3abfdd75a1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000270000001500000001000000dc3d0100d0f03a00080000001c950800010000000c00000008000c0004000800080000001c0000000400000010000000188b4cfa45d84b4c9efbb9696869a1410900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

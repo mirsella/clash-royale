@@ -1,0 +1,11 @@
+{
+  "exports_found": 111,
+  "exports_rendered": 110,
+  "frames_rendered": 110,
+  "sc": "chr_giant_buffing.sc",
+  "skipped_empty": [
+    "buffinggiant_buff_hit_slash_01"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_giant_buffing"
+}

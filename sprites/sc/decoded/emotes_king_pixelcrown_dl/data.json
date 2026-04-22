@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_king_pixelcrown_dl.sc",
+  "original_stem": "emotes_king_pixelcrown_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000004cbaeb15d95851d0083ac6e7b1685287263705ce1c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000080000000300000001000000f8380000707f030008000000a4520000020000003c00000004000000d4ffffff1c0000000400000010000000be3b546f39184b128277d315d25ed96d0500000069636f6e3100000008000c0004000800080000001c000000040000001000000033dfc84055174c3a918371109a4aa85706000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

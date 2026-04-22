@@ -1,0 +1,11 @@
+{
+  "exports_found": 24,
+  "exports_rendered": 23,
+  "frames_rendered": 23,
+  "sc": "level_touchdown_arena.sc",
+  "skipped_empty": [
+    "touchdown_vfx_01"
+  ],
+  "textures_resolved": 2,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/level_touchdown_arena"
+}

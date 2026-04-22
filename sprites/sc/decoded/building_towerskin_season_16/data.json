@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "building_towerskin_season_16.sc",
+  "original_stem": "building_towerskin_season_16",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000004b601d297ab90de3b920d4cfc644ea94a106e1d31c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000400000005000000010000007402000058650000080000000c3e000005000000fc000000b40000006c000000380000000400000020ffffff1c00000004000000100000003067bd7527b446c79bbd45ec641eca000b0000007061727469636c655f30320050ffffff1c000000040000001000000097e8e23ca7a04225be6d6c7d64d9910b0b0000007061727469636c655f30310080ffffff1c0000000400000010000000b0e5e2a5ceb94c75af968373bfa69ff21f00000061746c617367656e657261746f725f746578747572655f726762613536353600c4ffffff1c0000000400000010000000f936a893d0784dc4bdd2c9af4ff7211e17000000546f7765725f64657374726f7965645f67726f756e64320008000c0004000800080000001c00000004000000100000004aebc7a46cc9433f8c612cd08f7134a517000000546f7765725f64657374726f7965645f67726f756e643100",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "building_towerskin_season_16_000.png",
+      "source": "embedded_ktx",
+      "offset": 1368,
+      "length": 25860,
+      "width": 244,
+      "height": 414,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

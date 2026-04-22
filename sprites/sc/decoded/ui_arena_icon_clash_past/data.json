@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_clash_past.sc",
+  "original_stem": "ui_arena_icon_clash_past",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000045adcb02c52e899cc9b5827dcdd73ad3574d8b881c002c00040008000c00100014001800000000001c002000240028001c000000010000000100000008000000040000000100000001000000f4400000a40f000008000000281d0000010000000c00000008000c0004000800080000001c0000000400000010000000c230d6f6e1cf494d88289edd840605ba100000006172656e615f636c6173685f7061737400000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

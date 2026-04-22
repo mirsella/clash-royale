@@ -1,0 +1,12 @@
+{
+  "exports_found": 13,
+  "exports_rendered": 11,
+  "frames_rendered": 11,
+  "sc": "towerskin_season_42.sc",
+  "skipped_empty": [
+    "princesstower_blue_top",
+    "atlasgenerator_texture_rgba5656"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/towerskin_season_42"
+}

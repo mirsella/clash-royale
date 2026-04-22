@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "building_heist_safe_dl.sc",
+  "original_stem": "building_heist_safe_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000f47b8bdb3462c54c8b496e2363ee77df6c2361911c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000b000000020000000100000028240000985b000008000000c04d0000020000004400000004000000ccffffff1c000000040000001000000066393583fe5c42bb9b04f418ab6a8f910e00000068656973745f736166655f726564000008000c0004000800080000001c00000004000000100000000ebf70ba273242ecb191ce874a3799360f00000068656973745f736166655f626c756500",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "building_heist_safe_dl_000.png",
+      "source": "embedded_ktx",
+      "offset": 11128,
+      "length": 23364,
+      "width": 220,
+      "height": 416,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

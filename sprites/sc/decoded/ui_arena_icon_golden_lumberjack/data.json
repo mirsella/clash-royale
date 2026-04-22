@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_golden_lumberjack.sc",
+  "original_stem": "ui_arena_icon_golden_lumberjack",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000dae671761ccf38c65a9d7f416d7f35cd2bd1746b1c002c00040008000c00100014001800000000001c002000240028001c0000000100000001000000030000000200000001000000010000008c550000d00b000008000000581b0000010000000c00000008000c0004000800080000001c00000004000000100000000fdcec7d63274911ad8ded3099ef694a150000006172656e615f6c756d6265726c6f76655f69636f6e000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

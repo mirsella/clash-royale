@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "FireSpiritFG_dl.sc",
+  "original_stem": "FireSpiritFG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000005c18dfab55150dbb568e5efff040e3bbfcbd49741c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000d400000010961000080000003cb80300010000000c00000008000c0004000800080000001c0000000400000010000000a80ce685be1340bca84a7876a95ac40c0900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_executioner_carrots_dl.sc",
+  "original_stem": "emotes_executioner_carrots_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000fc5193260f626435ff0b6dbe28c4aa9605c57af91c002800040008000c001000140000000000000018001c00200024001c00000001000000010000001900000002000000010000003cd800009028020008000000506e0000020000003c00000004000000d4ffffff1c0000000400000010000000b51fe30fd9ae4cfa91c4c8e8860270bc0500000069636f6e3100000008000c0004000800080000001c000000040000001000000062336d68960d464788545bc620355ad606000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

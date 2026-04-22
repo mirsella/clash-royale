@@ -1,0 +1,12 @@
+{
+  "exports_found": 16,
+  "exports_rendered": 14,
+  "frames_rendered": 14,
+  "sc": "tutorial.sc",
+  "skipped_empty": [
+    "Tutorial_Hand1",
+    "bubble_tutorial_anim"
+  ],
+  "textures_resolved": 2,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/tutorial"
+}

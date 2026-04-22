@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ac_ruler_merge_maiden_recolor_red.sc",
+  "original_stem": "ac_ruler_merge_maiden_recolor_red",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000859459d4bca92d518edc44b5f6ae854f4d34d9571c002c00040008000c00100014001800000000001c002000240028001c00000001000000010000000200000002000000010000000100000090010000b400000008000000c0010000020000005c00000004000000b4ffffff1c0000000400000010000000b87126a3287049029ac8fe05dd487e87240000007468756d625f72756c65725f6d657267655f6d616964656e5f7265636f6c6f725f7265640000000008000c0004000800080000001c0000000400000010000000dbccc4f1f48f4cb5a83f5e8fa2906e902800000061635f72756c65725f696e67616d655f6d657267655f6d616964656e5f7265636f6c6f725f72656400000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

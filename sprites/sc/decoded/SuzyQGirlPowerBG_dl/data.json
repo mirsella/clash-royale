@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "SuzyQGirlPowerBG_dl.sc",
+  "original_stem": "SuzyQGirlPowerBG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000024c9a8bd1bf6b5c29615eb9b81b41c5f1bf92e251c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000a400000030ab1a000800000090e10300010000000c00000008000c0004000800080000001c0000000400000010000000ee381acc8c444f34afcda75f968945d00900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_xmass_santa_giant_dl.sc",
+  "original_stem": "emotes_xmass_santa_giant_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000c4308ae5eba50d3d32d1f8aa7ac1e30ec127565e1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000e0000000200000001000000606b0000c08609000800000050760000020000003c00000004000000d4ffffff1c0000000400000010000000fcb1baf6170c41dc92c73eee0b2aa38f0500000069636f6e3100000008000c0004000800080000001c0000000400000010000000f6ffbf797c4e47eaa26cedbd36f6c77106000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

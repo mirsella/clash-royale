@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "LoveArrowFG_dl.sc",
+  "original_stem": "LoveArrowFG_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000a46af0d56ccb9fb887b2cdb2e5dab533e45b0c241c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000d400000010cc100008000000b8190200010000000c00000008000c0004000800080000001c0000000400000010000000caf6f5fcd06b4b79adcd7fd0d00802db0900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

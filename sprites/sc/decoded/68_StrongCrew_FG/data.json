@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "68_StrongCrew_FG.sc",
+  "original_stem": "68_StrongCrew_FG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000967f7d0aa248ae0cd52bdcea53af460b4e8c9ac11c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000d4000000307d130008000000c8d30200010000000c00000008000c0004000800080000001c00000004000000100000001cd36182ca27492faf89b2a90d4eff350900000062616e6e65725f6667000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

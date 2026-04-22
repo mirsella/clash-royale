@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_cannoneer_boom_dl.sc",
+  "original_stem": "emotes_cannoneer_boom_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "38000000140000001d7bbc886fd76419a9f65b9cc13f9ad183428edc1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000d0000000200000001000000348b000050b00900080000005cf60000020000003c00000004000000d4ffffff1c000000040000001000000062709fdae2a141a2b7c8de0d339f60b50500000069636f6e3100000008000c0004000800080000001c000000040000001000000043ab09860c5c4b549c79f5fcd865ce6406000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

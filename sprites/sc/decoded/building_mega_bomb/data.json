@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "building_mega_bomb.sc",
+  "original_stem": "building_mega_bomb",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000c1f98092a3b1db7a0ab8a2279022b70842afe8af1c002800040008000c001000140000000000000018001c00200024001c00000001000000010000000e0000000800000001000000987d00009836000008000000144b0000050000000c010000c800000088000000440000000400000010ffffff1c00000004000000100000000abbc62e3cc0418fa45b031ed6b8969f170000006769616e745f736b656c65746f6e5f626f6d625f726564004cffffff1c0000000400000010000000590f85a4fd534bcfa4fc1eab5c8a4e97180000006769616e745f736b656c65746f6e5f626f6d625f626c7565000000008cffffff1c0000000400000010000000b70c1c5148764565b7e4d7d5b1c3a22916000000626f6d625f6465737472756374696f6e5f73746174650000c8ffffff1c000000040000001000000053c90605612a4f609f4a9491b6dcafb51000000062616c6c6f6f6e5f626f6d625f7265640000000008000c0004000800080000001c00000004000000100000008fe358828178406792dadb005836d2441100000062616c6c6f6f6e5f626f6d625f626c7565000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "building_mega_bomb_000.png",
+      "source": "embedded_ktx",
+      "offset": 36792,
+      "length": 13892,
+      "width": 216,
+      "height": 254,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "57_ElectroDJGiant_BG.sc",
+  "original_stem": "57_ElectroDJGiant_BG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000032fd3b98d248621a06aa33b5c5a34be54fe335461c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000a4000000d0811a0008000000484d0500010000000c00000008000c0004000800080000001c000000040000001000000028a8375d4a2647f0b2b05262224fe9e00900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

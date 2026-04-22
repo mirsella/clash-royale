@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_sparky_electroheart_dl.sc",
+  "original_stem": "emotes_sparky_electroheart_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000a41bb3996336904aec287d605018cd7099a5b5c41c002800040008000c001000140000000000000018001c00200024001c00000001000000010000001000000004000000010000009877000050d005000800000000ca0000020000003c00000004000000d4ffffff1c00000004000000100000000117dcc38ee548c0822974295bf423400500000069636f6e3100000008000c0004000800080000001c0000000400000010000000dedd464997ee470a84a60f6eaf3c243e06000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ui_arena_icon_golden_chess.sc",
+  "original_stem": "ui_arena_icon_golden_chess",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000699c9a99f7b5d2517f9a33e61852645b132ede8b1c002c00040008000c00100014001800000000001c002000240028001c00000001000000010000004d0000001f0000000100000001000000fcce0100844d000008000000346f0000020000004000000004000000d0ffffff1c0000000400000010000000a86adcf83f40458fbf0c2ca6be51357c0b0000006172656e615f63686573730008000c0004000800080000001c000000040000001000000057c151bdab014907b276bda5b1a5b3f10e0000006172656e615f626f6f7463616d700000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

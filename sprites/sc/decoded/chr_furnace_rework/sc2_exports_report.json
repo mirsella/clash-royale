@@ -1,0 +1,14 @@
+{
+  "exports_found": 76,
+  "exports_rendered": 72,
+  "frames_rendered": 72,
+  "sc": "chr_furnace_rework.sc",
+  "skipped_empty": [
+    "furnace_rework_deploy_smoke_02",
+    "furnace_rework_deploy_smoke_01",
+    "furnace_rework_deploy_02",
+    "filter_furnace_rework_firespirit_spawn"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_furnace_rework"
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_executioner_fruitcake_dl.sc",
+  "original_stem": "emotes_executioner_fruitcake_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000ecf180c838f85289dd7dd34268ab9e0f3103a7f71c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000120000000200000001000000806b0000d089050008000000c4ab0000020000003c00000004000000d4ffffff1c0000000400000010000000eefe563c4e3f4f3b9f983fceb6e6453d0500000069636f6e3100000008000c0004000800080000001c0000000400000010000000144d66ba2f144d3b8f8dfc24134fde0106000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

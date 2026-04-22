@@ -1,0 +1,11 @@
+{
+  "exports_found": 113,
+  "exports_rendered": 112,
+  "frames_rendered": 112,
+  "sc": "ui_tower_skins.sc",
+  "skipped_empty": [
+    "tower_troop_cannoneer"
+  ],
+  "textures_resolved": 2,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/ui_tower_skins"
+}

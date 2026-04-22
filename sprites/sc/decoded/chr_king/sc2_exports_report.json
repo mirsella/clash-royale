@@ -1,0 +1,11 @@
+{
+  "exports_found": 6,
+  "exports_rendered": 5,
+  "frames_rendered": 5,
+  "sc": "chr_king.sc",
+  "skipped_empty": [
+    "default_red_turret_mid"
+  ],
+  "textures_resolved": 1,
+  "workspace": "/home/mirsella/dev/apks/extracted/com.supercell.clashroyale_phone_arm64/organized/supercell_sc/decoded/chr_king"
+}

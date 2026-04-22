@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "62_BabyGobSandCastle_BG.sc",
+  "original_stem": "62_BabyGobSandCastle_BG",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "380000001400000039494580c297e5307c2aadebbd04d614c0db3eb91c002800040008000c001000140000000000000018001c00200024001c0000000100000001000000010000000100000001000000a400000030ab1a0008000000d0d60500010000000c00000008000c0004000800080000001c0000000400000010000000b5d6e6dc0d3f4dc0abba39559c08bc700900000062616e6e65725f6267000000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

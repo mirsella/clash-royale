@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "emotes_mightyminer_almighty_dl.sc",
+  "original_stem": "emotes_mightyminer_almighty_dl",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000c2833962d9d50a69bc5bde0a6540abdd9bce28d41c002800040008000c001000140000000000000018001c00200024001c000000010000000100000019000000050000000100000064b9000050c005000800000054df0000020000003c00000004000000d4ffffff1c000000040000001000000034d6ff0d17064745923438eb03db80590500000069636f6e3100000008000c0004000800080000001c000000040000001000000049e260ba033148cdbe6aa03a9c3d85e206000000656d6f7465310000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "original_file_name": "ac_ruler_dagger_duchess_crystal.sc",
+  "original_stem": "ac_ruler_dagger_duchess_crystal",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000e0b8b74e8bbf39444167a9b2d286acb1b9f6a62d1c002c00040008000c00100014001800000000001c002000240028001c00000001000000010000000200000002000000010000000100000088010000b400000008000000b4010000020000005800000004000000b8ffffff1c0000000400000010000000ef7937535ef94d07811cbd29fb38aade220000007468756d625f72756c65725f6461676765725f647563686573735f6372797374616c000008000c0004000800080000001c0000000400000010000000daad7f89c656458c845a000bc80801cf2600000061635f72756c65725f696e67616d655f6461676765725f647563686573735f6372797374616c0000",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "raw",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": []
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "original_file_name": "building_towerskin_season_23.sc",
+  "original_stem": "building_towerskin_season_23",
+  "source_backup": "original.sc",
+  "container": {
+    "wrapper": "sc",
+    "modern": true,
+    "version": 5,
+    "version_raw": 83886080,
+    "extra_u16": null,
+    "metadata_hex": "3800000014000000c846a37c12cae8b1a05e94dc55e7a90c5003f87f1c002800040008000c001000140000000000000018001c00200024001c000000010000000100000005000000060000000100000048020000983c000008000000042f00000600000024010000dc00000094000000640000003400000004000000fcfeffff1c00000004000000100000004a3aa6ae5d224a2f821a18ddadddbb6707000000726f636b5f30330028ffffff1c00000004000000100000009da82ad5355e48e1833db3fb2e05504907000000726f636b5f30320054ffffff1c000000040000001000000056ee0756795d4b05a997679a0423b04607000000726f636b5f30310080ffffff1c00000004000000100000001605dcc6537a42a9bad521e24d46892a1f00000061746c617367656e657261746f725f746578747572655f726762613536353600c4ffffff1c0000000400000010000000b71df656933843f5962532f9617923d717000000546f7765725f64657374726f7965645f67726f756e64320008000c0004000800080000001c00000004000000100000007718541baadf468083e5d6ae0e7cbd3c17000000546f7765725f64657374726f7965645f67726f756e643100",
+    "payload_compression": "zstd"
+  },
+  "defaults": {
+    "Encoding": "khronos",
+    "PixelFormat": "RGBA8",
+    "Filtering": "LINEAR_NEAREST",
+    "Linear": true
+  },
+  "textures": [
+    {
+      "index": 0,
+      "png_name": "building_towerskin_season_23_000.png",
+      "source": "embedded_ktx",
+      "offset": 1428,
+      "length": 15428,
+      "width": 190,
+      "height": 316,
+      "container": "ktx1",
+      "encoding": "khronos",
+      "pixel_format": "RGBA8",
+      "filtering": "LINEAR_NEAREST",
+      "linear": true,
+      "note": "glInternalFormat=0x93b7",
+      "gl_type": 0,
+      "gl_format": 0,
+      "gl_internal_format": 37815,
+      "gl_base_internal_format": 6408,
+      "astc_block": "8x8",
+      "tag": null,
+      "pixel_code": null,
+      "interlaced": null
+    }
+  ]
+}
